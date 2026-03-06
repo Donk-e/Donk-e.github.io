@@ -12,7 +12,8 @@ title: Home
             <div class = "ruleThin"></div>
             <p><strong>Hi I'm Tyler :D</strong></p>
             <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation.</p>
-            <p>I'm soon to be graduating from a Games Design and Programming course at the University of Staffordshire</p>
+            <p>I'm soon to be graduating from a Games Design and Programming course at the University of Staffordshire!</p>
+            <p>These will be spaced around the site but feel free to reach out or take a peek at these platforms. :D</p>
         </div>
     </body>
     <body>
