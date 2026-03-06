@@ -1,17 +1,15 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Tyler Wood
+subtitle: Portfolio Website
+email: tywood722@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: Stoke-On-Trent
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: England
+phone: 07565626898
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
