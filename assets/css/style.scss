@@ -15,6 +15,7 @@
 
 .inner
 {
+    justify-self: center;
     align-items: center;
     padding-left: 5%;
     padding-right: 5%;
@@ -44,8 +45,6 @@
     justify-content: space-evenly;
     align-items: center;
     background-color: #dbdad5;    
-    //height: fit-content;
-    border: 2px solid saddlebrown;
     width: 85%;
 }
 
