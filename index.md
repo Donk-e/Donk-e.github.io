@@ -7,7 +7,9 @@ title: Home
 
 <body>
 <div class = "textSection">
-    <hr style = height: 3%, color:black>
+    <div class = "thick">
+        <hr>
+    </div>
     <h1 style="text-align:left;">Introduction</h1>
     <hr>
     <p>test asdakdkabdjhbsdj </p>    
