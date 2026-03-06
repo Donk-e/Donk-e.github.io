@@ -4,7 +4,7 @@ title: Home
 ---
  
 <html>
-    <div class = "main-content">
+    <!--<div class = "main-content">-->
     <body>
         <div class = "textSection">
             <div class= "ruleThin"></div>   
@@ -35,5 +35,5 @@ title: Home
         </div>
     </body>
 
-    </div>
+    <!--</div>-->
 </html>
