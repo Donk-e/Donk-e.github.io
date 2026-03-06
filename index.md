@@ -35,6 +35,8 @@ title: Home
         <h1>Other Skills</h1>
         <div class = "ruleThick"></div>
         <div class = "UnityProjects">
+            <h3>TF2 Map</h3>
+            <h3>C++ Game</h3>
         </div>
     </body>
 </html>
