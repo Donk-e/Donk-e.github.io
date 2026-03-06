@@ -5,8 +5,8 @@
  
 .main-content
 {
-    align-self: center;
-    padding-left: 5%;
+    align-content: center;
+    //padding-left: 5%;
     width: 90%;
     margin: 0%;
     max-width:100%;
@@ -14,8 +14,9 @@
 
 .inner
 {
+    align-content: center;
     border: 3px solid purple;
-    padding-left: 5%;
+    //padding-left: 5%;
     width: 90%;
     margin: 0%;
     max-width: 100%;
