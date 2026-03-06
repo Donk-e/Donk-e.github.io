@@ -10,7 +10,8 @@ title: Home
             <div class= "ruleThin"></div>
             <h1>Introduction</h1>
             <div class = "ruleThin"></div>
-            <p>test asdakdkabdjhbsdj </p>
+            <p><b>Hi I'm Tyler :D</b></p>
+            <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation.</p>
         </div>
     </body>
     <body>
