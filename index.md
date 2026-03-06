@@ -4,7 +4,7 @@ title: Home
 ---
  
 <html>
-    <!--<div class = "main-content">-->
+    <div class = "main-content">
     <body>
         <div class = "textSection">
             <div class= "ruleThin"></div>
@@ -32,5 +32,5 @@ title: Home
         <div class = "UnityProjects-container">
         </div>
     </body>
-    <!--</div>-->
+    </div>
 </html>
