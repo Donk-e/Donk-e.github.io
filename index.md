@@ -4,7 +4,7 @@ title: Home
 ---
  
 <html>
-
+<div class = "mainTheme">
 <body>
 <div class = "textSection">
     <div class= "ruleThin"></div>   
@@ -21,4 +21,19 @@ title: Home
 </div>
 </body>
 
+<body>
+<h1>Unreal Projects</h1>
+<div class = "ruleThick"></div>    
+<div class = "UnityProjects-container">
+</div>
+</body>
+
+<body>
+<h1>Other Skills</h1>
+<div class = "ruleThick"></div>    
+<div class = "UnityProjects-container">
+</div>
+</body>
+
+</div>
 </html>
