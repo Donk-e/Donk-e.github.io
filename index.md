@@ -7,11 +7,11 @@ title: Home
 
 <body>
 <div class = "textSection">
-    <div style = "height :6px; background:black;">
-        <hr>
+    <div style = "height :6px; background:black;">        
     </div>
     <h1 style="text-align:left;">Introduction</h1>
-    <hr class = "hr">
+    <div style = "hr">
+    </div>
     <p>test asdakdkabdjhbsdj </p>    
 </div>
 </body>
