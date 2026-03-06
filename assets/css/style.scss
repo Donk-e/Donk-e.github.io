@@ -5,6 +5,7 @@
  
 .textSection
 {
+    align-self: center;
     background-color: #dbdad5 ;
     color: black;
     text-align: left;
@@ -15,20 +16,24 @@
     padding: 2%;
 }
 
-.rule
-{
-    height: 6px;
-    border: 0;
-    background-color: black;
-}
-
-.thick
-{
-    border: 1px solid black    
-}
-
 .UnityProjects-Container
 {
     align-items: center;
     background-color: #dbdad5;    
+    width:100%;
+    height: fit-content;
+}
+
+.ruleThin
+{
+    height: 3px;
+    border: 0;
+    background-color: black;
+}
+
+.ruleThick
+{
+    height: 6px;
+    border: 0;
+    background-color: black;
 }
