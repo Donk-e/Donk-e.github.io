@@ -9,7 +9,7 @@ title: Home
 <div class = "textSection">
     <hr class = "thick">
     <h1 style="text-align:left;">Introduction</h1>
-    <hr>
+    <hr size=5>
     <p>test asdakdkabdjhbsdj </p>    
 </div>
 </body>
