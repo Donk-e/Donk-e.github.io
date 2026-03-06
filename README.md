@@ -1,0 +1,1 @@
+This project uses the Slate Jekyll theme and was customised using HTML and CSS 
