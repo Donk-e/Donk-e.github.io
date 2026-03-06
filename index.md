@@ -7,18 +7,16 @@ title: Home
 
 <body>
 <div class = "textSection">
-    <div style = "height :6px; background:black;">        
-    </div>
+    <div style = "height :6px; background:black;"></div>   
     <h1 style="text-align:left;">Introduction</h1>
-    <div style = "hr">
-    </div>
+    <div class = "rule"></div>    
     <p>test asdakdkabdjhbsdj </p>    
 </div>
 </body>
 
 <body>
 <h1>Unity Projects</h1>
-<hr>
+<div class = "rule"></div>    
 <div class = "UnityProjects-container">
 </div>
 </body>
