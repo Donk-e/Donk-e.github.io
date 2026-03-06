@@ -3,11 +3,14 @@
 /* Imports */
 @import "jekyll-theme-slate";
  
-.mainTheme
+.main-content
 {
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 95%;
+    //padding-left: 10px;
+    //padding-right: 10px;
+    //max-width: 95%;
+
+    margin: auto;
+    max-width: 1200px;
 }
 
 .textSection
