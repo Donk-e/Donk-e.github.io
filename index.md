@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
  
+<!--<div class = "main-content"> -->
 <html>
-    <div class = "main-content">
     <body>
         <div class = "textSection">
             <div class= "ruleThin"></div>
@@ -32,5 +32,5 @@ title: Home
         <div class = "UnityProjects-container">
         </div>
     </body>
-    </div>
 </html>
+<!--</div>-->
