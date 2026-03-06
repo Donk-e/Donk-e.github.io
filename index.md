@@ -19,7 +19,7 @@ title: Home
     <body>
         <h1>Unity Projects</h1>
         <div class = "ruleThick"></div>
-        <div class = "UnityProjects">
+        <div class = "projects">
             <h3>My Final Year Project</h3>
             <h3>Unity Multiplayer</h3>
             <h3>Input Rebinds</h3>
@@ -28,13 +28,13 @@ title: Home
     <body>
         <h1>Unreal Projects</h1>
         <div class = "ruleThick"></div>
-        <div class = "UnityProjects">
+        <div class = "projects">
         </div>
     </body>
     <body>
         <h1>Other Skills</h1>
         <div class = "ruleThick"></div>
-        <div class = "UnityProjects">
+        <div class = "projects">
             <h3>TF2 Map</h3>
             <h3>C++ Game</h3>
         </div>
