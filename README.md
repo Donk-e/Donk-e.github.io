@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
@@ -29,6 +30,11 @@ Original README from HTML5 UP:
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+=======
+# Donk-e.github.io
+
+Portfolio Website
+>>>>>>> parent of 9a731cd (some more testing)
 
 
 This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
