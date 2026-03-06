@@ -7,9 +7,9 @@ title: Home
 
 <body>
 <div class = "textSection">
-    <hr class = "thick">
+    <hr>
     <h1 style="text-align:left;">Introduction</h1>
-    <hr size=5>
+    <hr height:3px>
     <p>test asdakdkabdjhbsdj </p>    
 </div>
 </body>
@@ -17,6 +17,8 @@ title: Home
 <body>
 <h1>Unity Projects</h1>
 <hr>
+<div class = "UnityProjects-container">
+</div>
 </body>
 
 </html>
