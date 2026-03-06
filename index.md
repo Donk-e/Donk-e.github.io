@@ -4,7 +4,7 @@ title: Home
 ---
  
 <html>
-    <div class = "mainTheme">
+    <div class = "main-content">
     <body>
         <div class = "textSection">
             <div class= "ruleThin"></div>   
