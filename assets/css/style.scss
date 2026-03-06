@@ -5,7 +5,7 @@
  
 .main-content
 {
-    align-content: center;
+    align-items: center;
     padding-left: 5%;
     width: 100%;
     margin: 0%;
@@ -15,7 +15,7 @@
 
 .inner
 {
-    align-content: center;
+    align-items: center;
     padding-left: 5%;
     padding-right: 5%;
     width: 100%;
@@ -34,7 +34,6 @@
     height: auto;
     border-radius: 2%;    
     font-size: 125%;
-    padding-left: 2%;
     margin: 1%;
 }
 
