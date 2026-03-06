@@ -19,8 +19,8 @@ title: Home
         <h1>Unity Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "UnityProjects-container">
-            <h2>My Final Year Project</h2>
-            <h2>Unity Multiplayer</h2>
+            <h3>My Final Year Project</h3>
+            <h3>Unity Multiplayer</h3>
         </div>
     </body>
     <body>
