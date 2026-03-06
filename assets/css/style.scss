@@ -38,9 +38,10 @@
 
 .UnityProjects
 {
+    display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-content: space-evenly;
+    justify-content: space-evenly;
+    align-content: center;
     background-color: #dbdad5;    
     height: fit-content;
     border: 2px solid saddlebrown;
