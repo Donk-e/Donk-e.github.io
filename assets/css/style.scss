@@ -36,12 +36,13 @@
     height: auto;
     border-radius: 2%;    
     font-size: 125%;
-    margin: 2%;
+    margin: 10%;
 }
 
 .projects
 {
     text-align: left;
+    justify-self: left;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
