@@ -17,7 +17,7 @@ title: Home
         </div>
     </body>
     <body>
-        <h1>Unity Projects</h1>
+        <h1 style = "text-align:left">Unity Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
             <h3>My Final Year Project</h3>
@@ -26,13 +26,13 @@ title: Home
         </div>
     </body>
     <body>
-        <h1>Unreal Projects</h1>
+        <h1 style = "text-align:left">Unreal Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
         </div>
     </body>
     <body>
-        <h1>Other Skills</h1>
+        <h1 style = "text-align:left">Other Skills</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
             <h3>TF2 Map</h3>
