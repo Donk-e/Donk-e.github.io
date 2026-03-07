@@ -10,7 +10,7 @@ title: Portfolio
             <h1>Introduction</h1>
             <div class = "ruleThin"></div>
             <p><strong>Hi I'm Tyler :D</strong></p>
-            <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation.</p>
+            <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal.My main focus is on programming player focused gameplay systems rather than graphics or terrain generation. I approach my systems from a designers point of view as well as that of a programmer allowing me to create mechanics that create fun experiences for the player. </p>
             <p>I'm soon to be graduating from a Games Design and Programming course at the University of Staffordshire!</p>
             <p>These will be spaced around the site but feel free to reach out or take a peek at these platforms. :D</p>
         </div>
@@ -28,6 +28,7 @@ title: Portfolio
         <h1 style = "text-align:left">Unreal Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
+            <h3>Ughhhh</h3>
         </div>
     </body>
     <body>
@@ -36,6 +37,7 @@ title: Portfolio
         <div class = "projects">
             <h3>TF2 Map</h3>
             <h3>C++ Game</h3>
+            <h3>Portfolio Website</h3>
         </div>
     </body>
 </html>
