@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Home
+title: Portfolio
 ---
  
-<!--<div class = "main-content"> -->
 <html>
     <body>
         <div class = "textSection">
@@ -40,4 +39,3 @@ title: Home
         </div>
     </body>
 </html>
-<!--</div>-->
