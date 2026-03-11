@@ -21,11 +21,11 @@ title: Portfolio
     <body>
         <h1 style = "text-align:left">Unity Projects</h1>
         <div class = "ruleThick"></div>
-        <div class = "projects">
-                <a href = "/2000/01/01/FYP.html">
-                <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">
-                    <div class = "individualProjects">                
-                    <div class ="textOverlay">My Final Year Project</div>                                 
+        <div class = "projects">                
+                    <div class = "individualProjects">    
+                        <a href = "/2000/01/01/FYP.html">
+                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">            
+                        <div class ="textOverlay">My Final Year Project</div>                                 
                     </div>
                 </a>                
             <h3>Unity Multiplayer</h3>
