@@ -25,7 +25,9 @@ title: Portfolio
                     <div class = "individualProjects">    
                         <a href = "/2000/01/01/FYP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">            
-                        <div class ="textOverlay">My Final Year Project</div>                                 
+                        <div class ="textOverlay">
+                            <p>My Final Year Project</p>
+                        </div>                                 
                     </div>
                 </a>                
             <h3>Unity Multiplayer</h3>
