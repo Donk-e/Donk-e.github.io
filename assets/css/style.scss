@@ -64,12 +64,13 @@
 
 .textOverlay
 {
-    height: 150px;
-    transform: translateY(-200%);
+    height: 100px;
+    transform: translateY(-100%);
     color: white;
     background-color: rgba(0,0,0,0.5);
     text-align: center;
-    font-size: larger;
+    align-self: center;
+    font-size: 300%;
 }
 
 .ruleThin
