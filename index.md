@@ -22,8 +22,12 @@ title: Portfolio
         <h1 style = "text-align:left">Unity Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
-            <h3>My Final Year Project</h3>
-            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">
+            <div class = "individualProjects">
+                <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">
+                <div class ="textOverlay">
+                    <h3>My Final Year Project</h3>
+                /<div>
+            </div>
             <h3>Unity Multiplayer</h3>
             <h3>Input Rebinds</h3>
         </div>
