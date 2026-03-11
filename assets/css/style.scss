@@ -53,6 +53,11 @@
     margin: 0.5%;
 }
 
+.projects img:hover
+{
+    transform:scale(1.05);    
+}
+
 .individualProjects
 {
     //flex-direction: column;
@@ -67,14 +72,10 @@
     object-fit: cover;
 }
 
-.individualProjects img:hover
-{
-    transform:scale(1.05);    
-}
-
 .textOverlay
 {
-    //position: ; //try others
+    position: absolute; //try others
+    box-sizing: border-box;
     bottom: 0%;
     //left: 0%;
     width: auto;
