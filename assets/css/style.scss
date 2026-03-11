@@ -48,9 +48,7 @@
     align-items: center;
     background-color: #dbdad5;    
     width: 85%;
-    margin: 0.5%;
-
-    transform: translateY(30%);
+    margin: 0.5%;    
 }
 
 .projects img:hover
@@ -63,6 +61,8 @@
     width: auto;
     height: auto;
     overflow: hidden;
+
+    transform: translateY(30%);
 }
 
 .individualProjects img
