@@ -69,6 +69,7 @@
 .individualProjects img
 {
     display: block;
+    justify-content: flex-start;
     object-fit: cover;
 }
 
@@ -76,7 +77,7 @@
 {
     position: relative; //try others
     box-sizing: border-box;
-    bottom: 0%;
+    //bottom: 0%;
     //left: 0%;
     width: auto;
     color: white;
