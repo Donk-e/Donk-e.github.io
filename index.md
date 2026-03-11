@@ -22,7 +22,7 @@ title: Portfolio
         <h1 style = "text-align:left">Unity Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
-            <div class = "individualProjects">
+            <!--<div class = "individualProjects"> -->
                 <a href = "/2000/01/01/FYP.html">
                 <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">
                 <div class = "individualProjects">                
