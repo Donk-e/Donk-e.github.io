@@ -64,9 +64,10 @@
 
 .textOverlay
 {
-    position: absolute; //try others
-    box-sizing: border-box;
-    bottom: 10px;
+    //position: absolute; //try others
+    //box-sizing: border-box;
+    //bottom: 10px;
+    transform: translateY(-20%);
     color: white;
     background-color: rgba(0,0,0,0.5);
     text-align: center;
