@@ -23,10 +23,10 @@ title: Portfolio
         <div class = "ruleThick"></div>
         <div class = "projects">
             <div class = "individualProjects">
+                <a href = "/2000/01/01/FYP.html">
                 <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">
-                <div class ="textOverlay">
-                    <h3>My Final Year Project</h3>
-                </div>
+                </a>
+                <div class ="textOverlay"> My Final Year Project> </div>                                   
             </div>
             <h3>Unity Multiplayer</h3>
             <h3>Input Rebinds</h3>
