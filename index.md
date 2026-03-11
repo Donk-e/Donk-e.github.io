@@ -23,7 +23,7 @@ title: Portfolio
         <div class = "ruleThick"></div>
         <div class = "projects">                
                     <div class = "individualProjects">    
-                        <a href = "/FYP.html">
+                        <a href = "FYP.md">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">  
                         </a>          
                         <div class ="textOverlay">
