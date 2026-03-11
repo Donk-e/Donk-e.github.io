@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
  
-<html>
+<html lang = "en-UK">
     <body>
         <div class = "textSection">
             <div class= "ruleThin"></div>
@@ -24,7 +24,7 @@ title: Portfolio
         <div class = "projects">                
                     <div class = "individualProjects">    
                         <a href = "/2000/01/01/FYP.html">
-                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">  
+                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
                         <div class ="textOverlay">
                             <p>Final Year Project</p>
