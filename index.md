@@ -26,7 +26,7 @@ title: Portfolio
                 <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">
                     <div class = "individualProjects">                
                     <div class ="textOverlay"> My Final Year Project> </div>                                   
-                </div>
+                    </div>
                 </a>                
             <h3>Unity Multiplayer</h3>
             <h3>Input Rebinds</h3>
