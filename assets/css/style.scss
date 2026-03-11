@@ -55,6 +55,7 @@
 
 .individualProjects
 {
+    display: flex;
     width: 100%;
     height: 100%;
 
@@ -62,7 +63,7 @@
 
 .individualProjects img
 {
-    display: block;
+    //display: block;
     object-fit: cover;
 }
 
@@ -78,7 +79,7 @@
     //left: 0%;
     width:100%;
     color: lightgrey;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0,0,0,0.08);
     text-align: center;
 }
 
