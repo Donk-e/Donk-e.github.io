@@ -78,7 +78,8 @@
     //position: relative; //try others
     box-sizing: border-box;
     //position-anchor: inherit;
-    margin-bottom: 10%;
+    margin-top: -10%;
+    overlay: type-of($value:1);
     //offset: 5%;
     //left: 0%;
     width: auto;
