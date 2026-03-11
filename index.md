@@ -29,8 +29,7 @@ title: Portfolio
                         <div class ="textOverlay">
                             <p>My Final Year Project</p>
                         </div>                                 
-                    </div>
-                </a>                
+                    </div>                              
             <h3>Unity Multiplayer</h3>
             <h3>Input Rebinds</h3>
         </div>
