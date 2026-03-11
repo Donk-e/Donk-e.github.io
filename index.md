@@ -23,6 +23,7 @@ title: Portfolio
         <div class = "ruleThick"></div>
         <div class = "projects">
             <h3>My Final Year Project</h3>
+            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg">
             <h3>Unity Multiplayer</h3>
             <h3>Input Rebinds</h3>
         </div>
