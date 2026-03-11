@@ -28,6 +28,13 @@
     border-radius: 8%;
 }
 
+.projectSkills
+{
+    margin: 5%;
+    justify-self: start;
+    font-size: 150%;
+}
+
 .projects
 {
     text-align: left;
@@ -40,6 +47,8 @@
     background-color: #dbdad5;    
     width: 85%;
     margin: 0.5%;
+
+    transform: translateY(30%);
 }
 
 .projects img:hover
