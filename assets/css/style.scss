@@ -73,11 +73,12 @@
     object-fit: cover;
 }
 
-.textOverlay
+.overlay
 {
     //position: relative; //try others
     box-sizing: border-box;
-    position-anchor: inherit;
+    //position-anchor: inherit;
+    margin-top: -100%;
     top: -100%;
     //left: 0%;
     width: auto;
