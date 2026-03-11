@@ -30,6 +30,8 @@
 
 .projectSkills
 {
+    display: flex;
+    flex-direction: row;
     margin: 5%;
     justify-self: start;
     font-size: 150%;
