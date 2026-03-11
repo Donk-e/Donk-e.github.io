@@ -75,10 +75,10 @@
 
 .textOverlay
 {
-    position: relative; //try others
+    //position: relative; //try others
     box-sizing: border-box;
-    padding-bottom: 100%;
-    //bottom: 0%;
+    position-anchor: inherit;
+    bottom: 100%;
     //left: 0%;
     width: auto;
     color: white;
