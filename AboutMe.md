@@ -11,6 +11,7 @@ title: About Me
                 <div class = "ruleThin"></div>           
                 <h4>asdhuiashndskadiohsdhbdfgsfgy</h4>
             </div>
+            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
         </div>
     </body>
 </html>
