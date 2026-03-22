@@ -28,6 +28,8 @@
     border-radius: 8%;
 }
 
+/*#region HomePage*/
+
 .projectSkills
 {
     display: flex;
@@ -90,6 +92,18 @@
     color: black;
     text-decoration-color: whitesmoke;
 }
+
+/*#endregion HomePage*/
+
+/*#region AboutPage*/
+.aboutContainer
+{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 100%;
+}
+/*#endregion AboutPage*/
 
 .ruleThin
 {
