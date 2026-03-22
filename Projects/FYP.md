@@ -1,0 +1,26 @@
+---
+layout: default
+title: Final Year Project
+---
+
+<html>
+    <body>
+         <div class = "textSection">
+            <div class= "ruleThin"></div>
+            <h1>Skills Used</h1>
+            <div class = "ruleThin"></div>
+            <div class = "projectSkills">
+            <ul>
+                <li>Unity</li>
+                <li>C#</li>
+                <li>Arduino wiring</li>            
+                <li>Serial communication in Unity</li>            
+            </ul>
+            <ul>
+                <li>Academic Research</li>
+                <li>Academic Writing</li>        
+            </ul>
+            </div>
+        </div>
+    </body>
+</html>
