@@ -129,6 +129,17 @@
     width: auto;
 }
 
+.iconButton
+{
+    display: block;
+    border:none;
+    justify-content: center;
+    background-color: #8f8c7f;
+    color: whitesmoke;
+    align-self: center;
+    font-size: 135%;
+}
+
 .aboutMeButton
 {
     display: block;
@@ -139,7 +150,7 @@
     align-self: center;
     font-size: 135%;
     padding: 4%;
-    //width: 125%;
+    width: 125%;
     //margin: 4%;
 }
 

@@ -23,7 +23,7 @@ title: Portfolio
             <p>These will be spaced around the site but feel free to reach out or take a peek at these platforms. :D</p>
             <!-- Put buttons for github / linkedin/ other here-->
             <div class = "buttonWrapper">
-                <button class = "aboutMeButton">
+                <button class = "iconButton">
                 <img src="/assets/Icons/favicon.png">
                 </button>
             </div>
