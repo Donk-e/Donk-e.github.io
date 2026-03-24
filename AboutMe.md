@@ -23,6 +23,7 @@ title: About Me
                 <p>This was carved mainly using a knife but I did use a dremel for some sanding and drilling the hole for the thread.</p>     
             </div>            
             <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace">
+            <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
         </div>
     </body>
 </html>
