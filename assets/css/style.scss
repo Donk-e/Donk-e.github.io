@@ -15,6 +15,16 @@
 
 /*#region HomePage*/
 
+.highlightReel
+{
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 10%;
+    width: 100%;
+}
+
 .textSection
 {
     align-self: center;

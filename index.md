@@ -6,6 +6,12 @@ title: Portfolio
 <html lang = "en-UK">
     <body>
     <!--<img src = "/assets/Images/AboutMe/Self/Athens.jpg" class = "roundedImg">-->
+    <div class= "highlightReel">
+        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+    </div>
         <div class = "textSection">
             <div class= "ruleThin"></div>
             <h1>Introduction</h1>
