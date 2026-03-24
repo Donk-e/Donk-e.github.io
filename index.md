@@ -31,7 +31,7 @@ title: Portfolio
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
                         <div class ="textOverlay">
-                            <p>Final Year Project</p>
+                            <p><strong>Final Year Project</strong></p>
                         </div>                                 
                     </div>                              
             <h3>Unity Multiplayer</h3>
