@@ -5,6 +5,12 @@ title: Final Year Project
 
 <html>
     <body>
+        <div class = "textSection">
+            <div class= "ruleThin"></div>
+            <h1>Project Overview</h1>
+            <div class= "ruleThin"></div>
+            <p>For my final year project at uni I chose to look into the mechanic featured in games the Skylanders series and used in Amiibo + Disnery Infinity. I researched the difference in player experience between </p>
+        </div>
          <div class = "textSection">
             <div class= "ruleThin"></div>
             <h1>Skills Used</h1>
@@ -21,12 +27,6 @@ title: Final Year Project
                 <li>Academic Writing</li>        
             </ul>
             </div>
-        </div>
-        <div class = "textSection">
-            <div class= "ruleThin"></div>
-            <h1>Project Overview</h1>
-            <div class= "ruleThin"></div>
-            <p>For my final year project at uni I chose to </p>
-        </div>
+        </div>        
     </body>
 </html>
