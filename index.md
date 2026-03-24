@@ -75,6 +75,14 @@ title: Portfolio
                             <p><strong>Accessibility Game Jam</strong></p>
                         </div>                                 
                     </div> 
+                    <div class = "individualProjects">    
+                        <a href = "/Projects/FYP.html">
+                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>Personal Tower Defence Project</strong></p>
+                        </div>                                 
+                    </div> 
         </div>
     </body>
     <body>
