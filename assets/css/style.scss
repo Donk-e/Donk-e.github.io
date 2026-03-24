@@ -82,7 +82,8 @@
 {
     //display: block;
     justify-content: flex-start;
-    object-fit: scale-down;
+    object-fit: cover;
+    object-position: center;
     border: none;
 }
 
