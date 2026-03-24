@@ -5,7 +5,7 @@ title: Portfolio
  
 <html lang = "en-UK">
     <body>
-    <img src = "/assets/Images/AboutMe/Self/Athens.jpg">
+    <img src = "/assets/Images/AboutMe/Self/Athens.jpg" class = "roundedImg">
         <div class = "textSection">
             <div class= "ruleThin"></div>
             <h1>Introduction</h1>
