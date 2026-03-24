@@ -35,9 +35,23 @@ title: Portfolio
                         <div class ="textOverlay">
                             <p><strong>Final Year Project</strong></p>
                         </div>                                 
+                    </div> 
+                    <div class = "individualProjects">    
+                        <a href = "/Projects/FYP.html">
+                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>Unity Multiplayer</strong></p>
+                        </div>                                 
                     </div>                              
-            <h3>Unity Multiplayer</h3>
-            <h3>Input Rebinds</h3>
+            <div class = "individualProjects">    
+                        <a href = "/Projects/FYP.html">
+                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>Accessibility Game Jam</strong></p>
+                        </div>                                 
+                    </div> 
         </div>
     </body>
     <body>
