@@ -12,7 +12,7 @@ title: Final Year Project
             <p>For my final year project at uni I chose to look into the mechanic featured in games the Skylanders series and used in Amiibo + Disnery Infinity. I researched the difference in player experience between players who used the physical scanning mechanic and those that used UI.</p>
             <p>I had a lot of fun working on this project and I'm really glad I chose the area of research that I did. I got to research some really interesting papers on different types and ways to use controllers </p>
         </div>
-        <div class = "textSection" style = "width:25%">
+        <div class = "textSection" style = "width:35%">
             <div class= "ruleThin"></div>
                 <h1>Skills Used</h1>
             <div class = "ruleThin"></div>
@@ -33,8 +33,17 @@ title: Final Year Project
             <div class = "textSection">
                 <h1>Physical Scanning Mechanic</h1>
                 <div class= "ruleThin"></div>
-                <p>For my final year project at uni I chose to look into the mechanic featured in games the Skylanders series and used in Amiibo + Disnery Infinity. I researched the difference in player experience between players who used the physical scanning mechanic and those that used UI.</p>
+                <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
             </div>
+            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
         </div>        
+        <div class = "aboutContainer">
+            <div class = "textSection">
+                <h1>Thread Management?</h1>
+                <div class= "ruleThin"></div>
+                <p>;;Replace;; To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
+            </div>
+            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
+        </div> 
     </body>
 </html>
