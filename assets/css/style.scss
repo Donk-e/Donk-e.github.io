@@ -96,13 +96,14 @@
 
 .aboutMeButton
 {
-    justify-self: unset;
+    display: block;
+    //justify-self: unset;
     border:none;
     background-color: black;
     color: whitesmoke;
     //height: 200%;
     //width: 25%;
-    //align-self: center;
+    align-self: center;
     //justify-self: center;
     font-size: 135%;
 }
