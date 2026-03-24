@@ -17,11 +17,9 @@ title: Portfolio
             <p>These will be spaced around the site but feel free to reach out or take a peek at these platforms. :D</p>
             <!-- Put buttons for github / linkedin/ other here-->
             <p>If you're interested in knowing a bit more about me check out this section which goes over my hobbies and stuff I get up to outside of game dev!</p>
-            <div class = "aboutMeButton">
-                <a href = "/AboutMe.html">
-                <button type="Button">About Me </button>
-                </a>
-            </div>
+            <a href = "/AboutMe.html">
+                <button type="Button" class = "aboutMeButton">About Me </button>
+            </a>            
         </div>
     </body>
     <body>
