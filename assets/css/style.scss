@@ -196,6 +196,31 @@ a,img
 }
 /*#endregion AboutPage*/
 
+//#region ProjectPages
+.projectPageContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    //height: 400px;    
+    width: 90%;
+}
+.projectText
+{
+    align-self: center;
+    justify-self: center;
+    background-color: #dbdad5 ;
+    color: black;
+    text-align: left;
+    width: 40%;
+    font-size: 130%;
+    //margin: 2%;
+    padding: 2%;
+    border-radius: 8%;
+}
+//#endregion ProjectPages
+
 .ruleThin
 {
     height: 3px;
