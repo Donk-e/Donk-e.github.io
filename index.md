@@ -30,7 +30,7 @@ title: Portfolio
                 </a>
                 <a href = "https://github.com/Donk-e">
                 <button class = "iconButton">
-                <img src="/assets/Icons/github.png.png">
+                <img src="/assets/Icons/github.png">
                 </button>
                 </a>
             </div>

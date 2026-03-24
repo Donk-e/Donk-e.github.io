@@ -138,11 +138,12 @@
     background-color: #8f8c7f;
     color: whitesmoke;
     align-self: center;
+    transform: scale(0.5);
 }
 
 .iconButton img
 {
-    transform: scale(0.5);
+    //transform: scale(0.5);
 }
 
 .aboutMeButton
