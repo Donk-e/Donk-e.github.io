@@ -23,6 +23,7 @@ title: Portfolio
             <p>These will be spaced around the site but feel free to reach out or take a peek at these platforms. :D</p>
             <!-- Put buttons for github / linkedin/ other here-->
             <div class = "buttonWrapper">
+            <div style = "transform:scale(0.25);">
                 <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/">
                 <button class = "iconButton">
                 <img src="/assets/Icons/linkedin.png">
@@ -33,6 +34,7 @@ title: Portfolio
                 <img src="/assets/Icons/github.png">
                 </button>
                 </a>
+            </div>
             </div>
             <p>If you're interested in knowing a bit more about me check out this section which goes over my hobbies and stuff I get up to outside of game dev!</p>
             <div class = "buttonWrapper">
