@@ -89,8 +89,11 @@
 .aboutMeButton
 {
     border:none;
-    color: black;
-    //text-decoration-color: whitesmoke;
+    background-color: black;
+    color: whitesmoke;
+    height: 15%;
+    width: auto;
+    align-self: center;
 }
 
 /*#endregion HomePage*/
