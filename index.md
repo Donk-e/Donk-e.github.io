@@ -5,7 +5,7 @@ title: Portfolio
  
 <html lang = "en-UK">
     <body>
-    <p>If visible it means that im still currently working on some areas of the portfolio so please excuse and unfinished areas <"3"</p>
+    <p>If visible it means that im still currently working on some areas of the portfolio so please excuse and unfinished areas</p>
     <!--<img src = "/assets/Images/AboutMe/Self/Athens.jpg" class = "roundedImg">-->
     <div class= "highlightReel">
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
