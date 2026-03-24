@@ -44,7 +44,7 @@ title: Portfolio
                             <p><strong>Unity Multiplayer</strong></p>
                         </div>                                 
                     </div>                              
-            <div class = "individualProjects">    
+                    <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
