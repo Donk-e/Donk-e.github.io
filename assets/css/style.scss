@@ -102,7 +102,23 @@
     flex-direction: row;
     align-self: center;
     height: 400px;
+    background-color: #adaca6
+    
     //width: 100%;
+}
+.aboutText
+{
+    align-self: center;
+    justify-self: center;
+    background-color: #dbdad5 ;
+    color: black;
+    text-align: left;
+    width: 60%;
+    //height: auto; 
+    font-size: 125%;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 8%;
 }
 /*#endregion AboutPage*/
 
