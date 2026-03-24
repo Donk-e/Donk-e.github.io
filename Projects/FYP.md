@@ -22,5 +22,11 @@ title: Final Year Project
             </ul>
             </div>
         </div>
+        <div class = "textSection">
+            <div class= "ruleThin"></div>
+            <h1>Project Overview</h1>
+            <div class= "ruleThin"></div>
+            <p>For my final year project at uni I chose to </p>
+        </div>
     </body>
 </html>
