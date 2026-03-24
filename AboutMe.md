@@ -17,7 +17,7 @@ title: About Me
         <div class = "ruleThick"></div>
         <div class = "aboutContainer">
             <div class = "aboutText">
-                <h2>Turtle Necklace</h2>
+                <h3>Turtle Necklace</h3>
                 <div class = "ruleThin"></div>         
                 <p>This is a necklace I made during my down time over christmas, I found the wood near my parents house. I think its beech wood?</p>          
                 <p>This was carved mainly using a knife but I did use a dremel for some sanding and drilling the hole for the thread.</p>     
