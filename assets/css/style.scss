@@ -13,6 +13,8 @@
     max-width: 100%;
 }
 
+/*#region HomePage*/
+
 .textSection
 {
     align-self: center;
@@ -28,7 +30,10 @@
     border-radius: 8%;
 }
 
-/*#region HomePage*/
+.roundedImg
+{
+    border-radius: 50%;
+}
 
 .projectSkills
 {
@@ -91,8 +96,8 @@
     border:none;
     background-color: black;
     color: whitesmoke;
-    height: 15%;
-    width: auto;
+    height: 200%;
+    width: 115%;
     align-self: center;
 }
 
