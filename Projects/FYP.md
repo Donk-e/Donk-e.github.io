@@ -38,12 +38,12 @@ title: Final Year Project
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
         </div>        
         <div class = "aboutContainer">
+        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
             <div class = "textSection">
                 <h1>Thread Management?</h1>
                 <div class= "ruleThin"></div>
                 <p>;;Replace;; To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
-            </div>
-            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
+            </div>            
         </div> 
     </body>
 </html>
