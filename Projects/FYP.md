@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Final Year Project
 ---
 
