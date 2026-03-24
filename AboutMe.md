@@ -10,7 +10,7 @@ title: About Me
                 <h1>About Me</h1>
                 <div class = "ruleThin"></div>           
                 <p>I consider myself to be a very creative person and while game dev does allow me to create whatever I can think of I do also like to work with my hands so I'm frequently picking up new hobbies to do in my spare time. At the moment I crochet and whittle.</p>
-                <p>This is a little showcase of some of the stuff I am proud of. :D</p>
+                <p>Almost everything here will have a handful of imperfections but this is a little showcase of some of the stuff I am proud of. :D</p>
             </div>
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
         </div>
