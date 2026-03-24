@@ -18,6 +18,7 @@ title: About Me
         <div class = "aboutContainer">
             <div class = "aboutText">
                 <h2>Turtle Necklace</h2>
+                <div class = "ruleThin"></div>         
                 <p>This is a necklace I made during my down time over christmas, I found the wood near my parents house. I think its beech wood?</p>                
             </div>            
             <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace">
