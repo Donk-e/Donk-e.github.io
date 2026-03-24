@@ -77,9 +77,9 @@
 
 .individualProjects img
 {
-    display: block;
+    //display: block;
     justify-content: flex-start;
-    //object-fit: cover;
+    object-fit: scale-down;
     border: none;
 }
 
@@ -112,7 +112,8 @@
     color: whitesmoke;
     align-self: center;
     font-size: 135%;
-    padding: 4%;
+    //padding: 4%;
+    margin: 4%;
 }
 
 /*#endregion HomePage*/
