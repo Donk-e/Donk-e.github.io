@@ -100,19 +100,16 @@
     align-items: center;
     align-self: center;
     justify-content: center;
+    width: 100%;
 }
 
 .aboutMeButton
 {
     display: block;
-    //justify-self: unset;
     border:none;
     background-color: #8f8c7f;
     color: whitesmoke;
-    //height: 200%;
-    //width: 25%;
     align-self: center;
-    //justify-self: center;
     font-size: 135%;
     padding: 4%;
 }
