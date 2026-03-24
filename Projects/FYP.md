@@ -11,7 +11,7 @@ title: Final Year Project
             <div class= "ruleThin"></div>
             <p>For my final year project at uni I chose to look into the mechanic featured in games the Skylanders series and used in Amiibo + Disnery Infinity. I researched the difference in player experience between </p>
         </div>
-         <div class = "textSection">
+         <div class = "textSection" style = "width:50%">
             <div class= "ruleThin"></div>
             <h1>Skills Used</h1>
             <div class = "ruleThin"></div>
