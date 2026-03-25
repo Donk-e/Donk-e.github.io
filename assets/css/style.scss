@@ -44,14 +44,19 @@ a,img
     overflow-x: scroll;
 }
 
+.highlightReel img:hover
+{
+    transform: scale(1.25);
+}
+
 .textSection
 {
     // align-self: center;
     // align-items: center;
     // justify-self: center;
     // justify-items: center;
-    //background-color: #dbdad5 ;
-    background-image: url('/assets/Images/Backgrounds/beigeBackground.jpg');
+    background-color: #dbdad5 ;
+    //background-image: url('/assets/Images/Backgrounds/beigeBackground.jpg');
     color: black;
     text-align: left;
     width: 60%;
@@ -79,10 +84,11 @@ a,img
     justify-content: space-evenly;
     align-items: center;
     //background-color: #dbdad5;    
-    //background: url('/assets/Images/Backgrounds/blackBackground.jpg');
+    background: url('/assets/Images/Backgrounds/blackBackground.jpg');
     width: 90%;
     //margin: 0.5%;    
-    border: none;
+    border-radius: 25%;
+    opacity: 0.75;
 }
 
 .projects img:hover
