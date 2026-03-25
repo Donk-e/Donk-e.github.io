@@ -4,8 +4,8 @@ title: About Me
 ---
 
 <html>
-<div class = "main">
     <body>
+    <div class = "main">
          <div class = "aboutContainer">
             <div class = "aboutText">
                 <h1>About Me</h1>
@@ -26,6 +26,6 @@ title: About Me
             <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace">
             <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
         </div>
+    </div>
     </body>
-</div>
 </html>
