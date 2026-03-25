@@ -138,11 +138,9 @@ a,img
     background-color: #8f8c7f;
     color: whitesmoke;
     align-self: center;
-    border-radius: 25%;
+    border-radius: 50%;
     height: 75%;
     transform: scale(0.75);
-    padding-right: 10%;
-    padding-left: 10%;
 }
 
 .aboutMeButton
@@ -203,7 +201,7 @@ a,img
     color: black;
     text-shadow: #8f8c7f;
     background: transparent;
-    
+
 }
 
 .projectPageContainer
@@ -238,6 +236,11 @@ a,img
     font-size: 120%;
 }
 //#endregion ProjectPages
+
+.homeButton
+{
+
+}
 
 .ruleThin
 {

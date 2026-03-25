@@ -6,9 +6,7 @@ title: Final Year Project
 <html>
     <body>
         <div class = "projectTitle">
-            <p>RFID Enhanced Gameplay</p>
             <p><strong>RFID Enhanced Gameplay</strong></p>
-            <h3>RFID Enhanced Gameplay</h3>
         </div>
         <div class = "ruleThick"></div>
         <div class = "aboutContainer">
