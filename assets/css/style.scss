@@ -11,9 +11,10 @@ html, body
     border:red;
 }
 
-#main_content
+#main_content_wrap
 {
-    background: transparent;
+    background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
+    //background: transparent;
     border: purple;
     border-width: 5px;
 }
@@ -31,7 +32,7 @@ html, body
 }
 .main
 {
-    background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
+    //ackground-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
