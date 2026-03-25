@@ -45,7 +45,7 @@ a,img
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    height: 400px;
+    //height: 400px;
     width: 95%;
     overflow-x: scroll;
     overflow-y: visible;
@@ -58,12 +58,7 @@ a,img
 
 .textSection
 {
-    // align-self: center;
-    // align-items: center;
-    // justify-self: center;
-    // justify-items: center;
     background-color: #dbdad5 ;
-    //background-image: url('/assets/Images/Backgrounds/beigeBackground.jpg');
     color: black;
     text-align: left;
     width:60%;
@@ -258,7 +253,7 @@ a,img
 
 .ruleThin
 {
-    width: 95%;
+    width: 90%;
     height: 3px;
     border: 0;
     background-color: black;
@@ -266,7 +261,7 @@ a,img
 
 .ruleThick
 {
-    width: 95%;
+    width: 90%;
     height: 6px;
     border: 0;
     background-color: black;
