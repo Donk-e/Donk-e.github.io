@@ -87,14 +87,12 @@ a,img
 .projects
 {
     text-align: left;
-    //justify-self: left;
     align-self: center;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    //background-color: #dbdad5;    
     background: url('/assets/Images/Backgrounds/blackBackground.jpg');
     width: 85%;
     //margin: 0.5%;    
@@ -115,6 +113,8 @@ a,img
     align-self: center;
     align-items: center;
     margin: 0.5%;
+
+    transform: scale(0.75);
 
     transform: translateY(10%);
 }
