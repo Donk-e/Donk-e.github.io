@@ -166,15 +166,15 @@ a,img
 .overlay
 {
   position: absolute;
-  //bottom: 0;
-  //left: 0;
+  bottom: 0;
+  left: 0;
   width: 100%;
   color: white;
   font-size: 24px;
   background: rgba(0, 0, 0, 0.6);
   padding: 12px;
   box-sizing: border-box;
-  //pointer-events: none;
+  pointer-events: none;
   text-align: center;
 }
 
