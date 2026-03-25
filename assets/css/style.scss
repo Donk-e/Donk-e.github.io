@@ -39,12 +39,12 @@ a,img
 
 ::-webkit-scrollbar-track
 {
-    background:transparent;
+    background: #dbdad5;
 }
 
 ::-webkit-scrollbar-thumb
 {
-    background: #dbdad5 ;
+    background: #8f8c7f ;
 }
 
 /*#region HomePage*/
@@ -156,8 +156,8 @@ a,img
 .overlay
 {
   position: absolute;
-  bottom: 0;
-  left: 0;
+  //bottom: 0;
+  //left: 0;
   width: 100%;
   color: white;
   font-size: 24px;
