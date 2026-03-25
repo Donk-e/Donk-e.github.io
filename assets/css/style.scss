@@ -35,8 +35,6 @@ a,img
     background: transparent;
     //border: none;
     box-shadow: none;
-    border-color: black;
-    border-width: 5px;
 }
 
 /*#region HomePage*/
@@ -51,6 +49,12 @@ a,img
     width: 95%;
     overflow-x: scroll;
     overflow-y: visible;
+}
+
+.highlightReel img
+{
+    border-color: black;
+    border-width: 5px;
 }
 
 .highlightReel img:hover
