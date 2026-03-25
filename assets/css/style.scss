@@ -108,14 +108,14 @@ a,img
 
 .individualProjects
 {
-    width: 50%;
-    height: 50%;
-    //overflow: hidden;
+    //width: 50%;
+    //height: 50%;
+    overflow: hidden;
     align-self: center;
     align-items: center;
     margin: 0.5%;
 
-    transform: translateY(10%);
+    //transform: translateY(10%);
 }
 
 .individualProjects img
@@ -141,6 +141,21 @@ a,img
     text-align: center;
     vertical-align: middle;
     font-size: 250%;
+}
+
+.overlay
+{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+  font-size: 24px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 12px;
+  box-sizing: border-box;
+  pointer-events: none;
+  text-align: center;
 }
 
 .buttonWrapper
