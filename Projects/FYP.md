@@ -8,8 +8,8 @@ title: Final Year Project
         <div class = "projectTitle">
             <p><strong>RFID Enhanced Gameplay</strong></p>
         </div>
-        <div class = "ruleThick"></div>
         <div class = "aboutContainer">
+        <div class = "ruleThick"></div>
             <div class = "projectText">
                 <div class= "ruleThin"></div>
                     <h1>Project Overview</h1>
@@ -34,8 +34,8 @@ title: Final Year Project
                     </ul>
                 </div>
             </div>
-        </div>
         <div class = "ruleThick"></div>
+        </div>
         <div class = "projectPageContainer">
             <div class = "projectText">
                 <h1>Physical Scanning Mechanic</h1>
