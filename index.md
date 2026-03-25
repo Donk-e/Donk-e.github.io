@@ -5,7 +5,7 @@ title: Portfolio
  
 <html lang = "en-UK">
     <body>
-    <p>If visible it means that im still currently working on some areas of the portfolio so please excuse and unfinished areas</p>
+    <p>If this is visible it means that im still currently working on some areas of the portfolio so please excuse and unfinished areas</p>
     <!--<img src = "/assets/Images/AboutMe/Self/Athens.jpg" class = "roundedImg">-->
     <div class= "highlightReel">
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
@@ -43,7 +43,7 @@ title: Portfolio
             <p>If you're interested in knowing a bit more about me check out this section which goes over my hobbies and stuff I get up to outside of game dev!</p>
             <div class = "buttonWrapper">
             <a href = "/AboutMe.html">
-                <button class = "aboutMeButton">About Me</button>
+                <p class = "aboutMeButton">About Me</p>
             </a>            
             </div>
         </div>
