@@ -15,6 +15,10 @@
 .main
 {
     background-image: url('/assets/Images/Backgrounds/otherBackground.jpg');
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 a,img
