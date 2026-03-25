@@ -56,16 +56,6 @@ a,img
     transform:scale(0.75);
 }
 
-.projectSkills
-{
-    display: flex;
-    flex-direction: row;
-    margin: 5%;
-    justify-self: start;
-    justify-content: space-between;
-    font-size: 120%;
-}
-
 .projects
 {
     text-align: left;
@@ -222,9 +212,18 @@ a,img
     text-align: left;
     width: 40%;
     font-size: 140%;
-    //margin: 2%;
+    margin: 5%;
     padding: 2%;
     border-radius: 8%;
+}
+.projectSkills
+{
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+    justify-self: start;
+    justify-content: space-between;
+    font-size: 120%;
 }
 //#endregion ProjectPages
 
