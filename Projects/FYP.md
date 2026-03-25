@@ -5,7 +5,7 @@ title: Final Year Project
 
 <html>
     <body>
-        <div class = "projectPageContainer">
+        <div class = "aboutContainer">
             <div class = "projectText">
                 <div class= "ruleThin"></div>
                     <h1>Project Overview</h1>
