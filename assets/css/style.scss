@@ -30,11 +30,7 @@ a,img
     justify-content: space-evenly;
     height: 400px;
     width: 95%;
-    overflow: scroll;
-}
-.highlightReel img
-{
-    height: 95%;
+    overflow-x: scroll;
 }
 
 .textSection
@@ -112,8 +108,8 @@ a,img
     object-fit: cover;
     object-position: center;
     border: none;
-    width: 90%;
-    height: 90%;
+    //width: 90%;
+    //height: 90%;
 }
 
 .textOverlay
