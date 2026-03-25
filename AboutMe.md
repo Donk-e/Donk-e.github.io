@@ -3,6 +3,7 @@ layout: default
 title: About Me
 ---
 
+<div class = "main">
 <html>
     <body>
          <div class = "aboutContainer">
@@ -27,3 +28,4 @@ title: About Me
         </div>
     </body>
 </html>
+</div>
