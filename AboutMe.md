@@ -3,9 +3,6 @@ layout: default
 title: About Me
 ---
 
-<header>
-    <p>test</p>
-</header>
 <html>
     <body>
     <div class = "main">
