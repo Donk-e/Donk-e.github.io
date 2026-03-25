@@ -43,7 +43,7 @@ title: Portfolio
             <p>If you're interested in knowing a bit more about me check out this section which goes over my hobbies and stuff I get up to outside of game dev!</p>
             <div class = "buttonWrapper">
             <a href = "/AboutMe.html">
-                <p class = "aboutMeButton">About Me</p>
+                <p class = "aboutMeButton"><strong>About Me</strong></p>
             </a>            
             </div>
         </div>
