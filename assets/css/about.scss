@@ -3,35 +3,11 @@
 /* Imports */
 @import "jekyll-theme-slate";
  
-.inner
+.testClass
 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 95%;
-    margin: auto;
-    max-width: 100%;
-}
-
-.textSection
-{
-    align-self: center;
-    justify-self: center;
-    background-color: #dbdad5 ;
-    color: black;
-    text-align: left;
-    width: 60%;
-    height: auto; 
-    font-size: 125%;
-    margin: 2%;
-    padding: 2%;
-    border-radius: 8%;
-}
-
-.aboutContainer
-{
-    display: flex;
-    flex-direction: row;
-    align-self: center;
-    width: 100%;
+    border-color: red;
+    border: 5px;
+    background-color: red;
+    width: 400px;
+    height: 400px;
 }
