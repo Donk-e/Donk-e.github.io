@@ -194,6 +194,13 @@ a,img
 /*#endregion AboutPage*/
 
 //#region ProjectPages
+.projectTitle
+{
+    align-self: center;
+    vertical-align: middle;
+    text-align: center;    
+}
+
 .projectPageContainer
 {
     display: flex;
@@ -214,8 +221,7 @@ a,img
     font-size: 140%;
     margin: 5%;
     padding: 2%;
-    border-radius: 8%;
-    height: 90%;
+    border-radius: 15%;
 }
 .projectSkills
 {
