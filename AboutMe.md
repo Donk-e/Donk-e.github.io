@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-<link rel="stylesheet" type = "text/css" href="{{ '/assets/css/about.css' | relative_url }}">
+
 <html>
     <body>
     <div class = "main">
