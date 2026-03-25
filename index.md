@@ -35,9 +35,9 @@ title: Portfolio
                 </button>
                 </a>
                 <a href = "mailto:tywood722@gmail.com">
-                <button class = "iconButton">
-                <img src="/assets/Icons/mail.png">
-                </button>
+                <div class = "iconButton">
+                    <img src="/assets/Icons/mail.png">
+                </div>
                 </a>
             </div>
             <p>If you're interested in knowing a bit more about me check out this section which goes over my hobbies and stuff I get up to outside of game dev!</p>
