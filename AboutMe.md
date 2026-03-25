@@ -4,11 +4,6 @@ title: About Me
 ---
 
 <html>
-<header>
-    <h1>{{ site.title }}</h1>
-    <p>test</p>
-        <!-- No metadata (date, tags, author) will be displayed here -->
-  </header>
     <body>
     <div class = "main">
          <div class = "aboutContainer">
