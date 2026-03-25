@@ -3,6 +3,12 @@
 /* Imports */
 @import "jekyll-theme-slate";
  
+body
+{
+    background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
+    background-size: cover;
+}
+
 .inner
 {
     display: flex;
@@ -14,7 +20,7 @@
 }
 .main
 {
-    background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
+    //background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
