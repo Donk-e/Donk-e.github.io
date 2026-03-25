@@ -5,6 +5,9 @@ title: About Me
 
 <html>
     <body>
+    <header>
+    <p>test</p>
+    </header>
     <div class = "main">
          <div class = "aboutContainer">
             <div class = "aboutText">
