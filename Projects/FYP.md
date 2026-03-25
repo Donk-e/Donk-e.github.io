@@ -5,6 +5,7 @@ title: Final Year Project
 
 <html>
     <body>
+        <div class = "ruleThick"></div>
         <div class = "aboutContainer">
             <div class = "projectText">
                 <div class= "ruleThin"></div>
@@ -31,6 +32,7 @@ title: Final Year Project
                 </div>
             </div>
         </div>
+        <div class = "ruleThick"></div>
         <div class = "projectPageContainer">
             <div class = "projectText">
                 <h1>Physical Scanning Mechanic</h1>
