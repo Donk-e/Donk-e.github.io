@@ -3,11 +3,11 @@ layout: default
 title: About Me
 ---
 
+<header>
+    <p>test</p>
+</header>
 <html>
     <body>
-    <header>
-    <p>test</p>
-    </header>
     <div class = "main">
          <div class = "aboutContainer">
             <div class = "aboutText">
