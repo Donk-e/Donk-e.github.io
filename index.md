@@ -56,7 +56,7 @@ title: Portfolio
                         <a href = "/Projects/FYP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
-                        <div class ="overlay">
+                        <div class ="textOverlay">
                             <p><strong>Final Year Project</strong></p>
                         </div>                                 
                     </div> 
@@ -72,7 +72,7 @@ title: Portfolio
                         <a href = "/Projects/FYP.html">
                             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
-                        <div class ="overlay">
+                        <div class ="textOverlay">
                             <p><strong>Accessibility Game Jam</strong></p>
                         </div>                                 
                     </div> 
