@@ -4,8 +4,8 @@ title: Portfolio
 ---
  
 <html lang = "en-UK">
-    <body>
     <div class = "main">
+    <body>
     <p>If this is visible it means that im still currently working on some areas of the portfolio so please excuse and unfinished areas</p>
     <!--<img src = "/assets/Images/AboutMe/Self/Athens.jpg" class = "roundedImg">-->
     <div class= "highlightReel">
@@ -96,6 +96,6 @@ title: Portfolio
             <h3>C++ Game</h3>
             <h3>Portfolio Website</h3>
         </div>
-    </div>
     </body>
+    </div>
 </html>
