@@ -149,21 +149,21 @@ a,img
     //height: 90%;
 }
 
-.textOverlay
-{
-    align-self: center;
-    padding-top: 4%;
-    padding-bottom: 4%;
-    //width:110%;
-    transform: translateY(-110%); //yucky aint it
-    color: white;
-    background-color: rgba(0,0,0,0.5);
-    text-align: center;
-    vertical-align: middle;
-    font-size: 250%;
-}
+// .textOverlay
+// {
+//     align-self: center;
+//     padding-top: 4%;
+//     padding-bottom: 4%;
+//     //width:110%;
+//     transform: translateY(-110%); //yucky aint it
+//     color: white;
+//     background-color: rgba(0,0,0,0.5);
+//     text-align: center;
+//     vertical-align: middle;
+//     font-size: 250%;
+// }
 
-.overlay
+.textOverlay
 {
   position: absolute;
   bottom: 10px;
