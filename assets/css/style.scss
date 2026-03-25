@@ -162,7 +162,7 @@ a,img
 
 .aboutMeButton
 {
-    display: block;
+    //display: block;
     border:none;
     justify-content: center;
     background-color: #8f8c7f;
@@ -250,7 +250,8 @@ a,img
 
 .homeButton
 {
-
+    width: 50%;
+    font-size: larger;
 }
 
 .ruleThin
