@@ -25,14 +25,14 @@ title: Portfolio
             <!-- Put buttons for github / linkedin/ other here-->
             <div class = "buttonWrapper">
                 <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/">
-                <button class = "iconButton">
+                <div class = "iconButton">
                 <img src="/assets/Icons/linkedin.png">
-                </button>
+                </div>
                 </a>
                 <a href = "https://github.com/Donk-e">
-                <button class = "iconButton">
+                <div class = "iconButton">
                 <img src="/assets/Icons/github.png">
-                </button>
+                </div>
                 </a>
                 <a href = "mailto:tywood722@gmail.com">
                 <div class = "iconButton">
