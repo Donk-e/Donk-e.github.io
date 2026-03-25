@@ -5,11 +5,12 @@ title: Final Year Project
 
 <html>
     <body>
+        <div class = "ruleThick"></div>
         <div class = "projectTitle">
             <p><strong>RFID Enhanced Gameplay</strong></p>
         </div>
-        <div class = "projectPageContainer">
         <div class = "ruleThick"></div>
+        <div class = "projectPageContainer">
             <div class = "projectText">
                 <div class= "ruleThin"></div>
                     <h1>Project Overview</h1>
@@ -34,7 +35,6 @@ title: Final Year Project
                     </ul>
                 </div>
             </div>
-        <div class = "ruleThick"></div>
         </div>
         <div class = "projectPageContainer">
             <div class = "projectText">
