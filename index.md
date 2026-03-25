@@ -48,8 +48,6 @@ title: Portfolio
             </a>            
             </div>
         </div>
-    </body>
-    <body>
         <h1 style = "text-align:left">Unity Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">                
@@ -86,15 +84,11 @@ title: Portfolio
                         </div>                                 
                     </div> 
         </div>
-    </body>
-    <body>
         <h1 style = "text-align:left">Unreal Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
             <h3>Ughhhh</h3>
         </div>
-    </body>
-    <body>
         <h1 style = "text-align:left">Other Skills</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">
