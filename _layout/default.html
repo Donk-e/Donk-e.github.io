@@ -8,17 +8,19 @@
   <link rel="stylesheet" type = "text/css" href="{{ '/assets/css/about.css' | relative_url }}">
 
   <link rel="shortcut icon" type ="image/x-icon" href="favicon.ico?">
-
-  <p>test</p>
 </head>
 <body>
  
   <!-- Header -->
   <header>
-    <h1>{{ site.title }}</h1>
-    <h1>{{site.buttons}}</h1>
-    <p>test</p>
         <!-- No metadata (date, tags, author) will be displayed here -->
+         <nav>
+            {% if site.header_buttons %}
+              {% for button in site.header_buttons %}
+                <a href="{{ button.url }}" class="header-button">{{ button.title }}</a>
+              {% endfor %}
+            {% endif %}
+          </nav>
   </header>
  
   <!-- Main Content -->

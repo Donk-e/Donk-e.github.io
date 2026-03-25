@@ -6,7 +6,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "<a href = 'https://donk-e.github.io/' style='color:white;'>Tyler Wood</a>"
 description: Games Programmer | Designer Portfolio 
-buttons:
--title: "Test"
-url: "https://donk-e.github.io/"
+header_buttons:
+  -title: "Test"
+  url: "https://donk-e.github.io/"
+  -title: "about"
+  url: "https://donk-e.github.io/AboutMe.html"
 future: true
