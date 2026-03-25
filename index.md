@@ -3,8 +3,8 @@ layout: default
 title: Portfolio
 ---
  
+<div class = "main">
 <html lang = "en-UK">
-    <div class = "main">
     <body>
     <p>If this is visible it means that im still currently working on some areas of the portfolio so please excuse and unfinished areas</p>
     <!--<img src = "/assets/Images/AboutMe/Self/Athens.jpg" class = "roundedImg">-->
@@ -97,5 +97,5 @@ title: Portfolio
             <h3>Portfolio Website</h3>
         </div>
     </body>
-    </div>
 </html>
+</div>
