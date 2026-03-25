@@ -37,6 +37,16 @@ a,img
     box-shadow: none;
 }
 
+::-webkit-scrollbar-track
+{
+    background:transparent;
+}
+
+::-webkit-scrollbar-thumb
+{
+    background: #dbdad5 ;
+}
+
 /*#region HomePage*/
 
 .highlightReel
