@@ -52,7 +52,7 @@ title: Portfolio
         <h1 style = "text-align:left">Unity Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">                
-                    <div class = "testProject">    
+                    <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
@@ -68,7 +68,7 @@ title: Portfolio
                             <p><strong>Unity Multiplayer</strong></p>
                         </div>                                 
                     </div>                              
-                    <div class = "testProject">    
+                    <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
                             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
