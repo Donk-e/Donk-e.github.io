@@ -3,8 +3,8 @@ layout: default
 title: About Me
 ---
 
-<div class = "main">
 <html>
+<div class = "main">
     <body>
          <div class = "aboutContainer">
             <div class = "aboutText">
@@ -27,5 +27,5 @@ title: About Me
             <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
         </div>
     </body>
-</html>
 </div>
+</html>
