@@ -3,18 +3,18 @@
 /* Imports */
 @import "{{site.theme}}";
  
-#header_wrap
-{
-    //background: #223843;
-    background: #0B132B;
-    //background-color: #223843;
-}
+// #header_wrap
+// {
+//     background: #223843;
+//     //background: #0B132B;
+//     //background-color: #223843;
+// }
 
 
 #main_content_wrap
 {
-    //background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
-    background: #D8B4A0;
+    background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
+    //background: #D8B4A0;
     width: 100%;
     overflow-x: hidden;
     color: white;
@@ -98,8 +98,8 @@ a,img
 
 .textSection
 {
-    //background-color: #dbdad5 ;
-    background-color: #D77A61;
+    background-color: #dbdad5 ;
+    //background-color: #D77A61;
     color: white;
     text-align: left;
     width:60%;
