@@ -126,7 +126,7 @@ a,img
     align-items: center;
     //padding: 5px;    
     //max-width: 800px; 
-    //margin: 2.5%; 
+    margin: 3%; 
     //transform: scale(0.75);
 }
 
@@ -170,11 +170,11 @@ a,img
   position: absolute;
   bottom: 10px;
   left: 0;
-  width: 95%;
+  width: 100%;
   color: white;
   font-size: 250%;
   background: rgba(0, 0, 0, 0.6);
-  padding: 12px;
+  //padding: 12px;
   box-sizing: border-box;
   pointer-events: none;
   text-align: center;
