@@ -10,6 +10,6 @@ test: Testy test
 buttons:
   - title: "About Me"
     url: "/AboutMe.html"
-  - title: "Projects"
+  - title: "Final Year Project"
     url: "/Projects/FYP.html"
 future: true

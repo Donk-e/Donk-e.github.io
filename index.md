@@ -49,7 +49,7 @@ title: Portfolio
             </a>            
             </div>
         </div>
-        <h1 style = "text-align:left">Unity Projects</h1>
+        <h1 style = "text-align:left">Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">                
                     <div class = "individualProjects">    
