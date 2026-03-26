@@ -3,16 +3,16 @@
 /* Imports */
 @import "{{site.theme}}";
  
-// #header_wrap
-// {
-//     background: #0B132B;
-// }
+#header_wrap
+{
+    //background: #37123C;
+}
 
 
 #main_content_wrap
 {
     background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
-    background: #3A506B;
+    //background: #3A506B;
     width: 100%;
     overflow-x: hidden;
     //color: white;
