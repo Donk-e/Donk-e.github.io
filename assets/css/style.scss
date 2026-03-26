@@ -3,19 +3,19 @@
 /* Imports */
 @import "{{site.theme}}";
  
-#header_wrap
-{
-    background: #0B132B;
-}
+// #header_wrap
+// {
+//     background: #0B132B;
+// }
 
 
 #main_content_wrap
 {
-    //background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
+    background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
     background: #3A506B;
     width: 100%;
     overflow-x: hidden;
-    color: white;
+    //color: white;
 }
 
 .inner
@@ -95,8 +95,8 @@ a,img
 
 .textSection
 {
-    //background-color: #dbdad5 ;
-    background-color: #1C2541;
+    background-color: #dbdad5 ;
+    //background-color: #1C2541;
     color: black;
     text-align: left;
     width:60%;
