@@ -85,7 +85,7 @@ a,img
     //background: #F2D492;
     //background: #E7AF36;
     font-size: x-large;
-    color: #D77A61;
+    color: white;
     //margin: 2%;
     //padding: 2%;
     text-align: center;
@@ -95,6 +95,7 @@ a,img
 .headerButtons :hover
 {
     background: #9F6241;
+    transform: scale(1.25);
 }
 
 /*#region HomePage*/
