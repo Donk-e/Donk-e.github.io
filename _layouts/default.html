@@ -25,7 +25,7 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% for button in site.buttons %}
-            <a href="{{ button.url }}">{{ button.title }}</a>
+            <a href="{{ buttons.url }}">{{ buttons.title }}</a>
           {% endfor %}
 
           {% if site.show_downloads %}
