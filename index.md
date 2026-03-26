@@ -66,6 +66,7 @@ title: Portfolio
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Unity Multiplayer</strong></p>
+                            <img src ="/assets/Icons/Unity.png">
                         </div>                                 
                     </div>                              
                     <div class = "individualProjects">    
