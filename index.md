@@ -26,17 +26,17 @@ title: Portfolio
             <p>These will be spaced around the site but feel free to reach out or take a peek at these platforms. :D</p>
             <!-- Put buttons for github / linkedin/ other here-->
             <div class = "buttonWrapper">
-                <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/">
+                <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/" target = "_blank">
                 <div class = "iconButton">
                 <img src="/assets/Icons/linkedin.png">
                 </div>
                 </a>
-                <a href = "https://github.com/Donk-e">
+                <a href = "https://github.com/Donk-e" target = "_blank">
                 <div class = "iconButton">
                 <img src="/assets/Icons/github.png">
                 </div>
                 </a>
-                <a href = "mailto:tywood722@gmail.com">
+                <a href = "mailto:tywood722@gmail.com" target = "_blank">
                 <div class = "iconButton">
                     <img src="/assets/Icons/mail.png">
                 </div>
