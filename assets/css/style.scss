@@ -50,7 +50,8 @@ a,img
 
 ::-webkit-scrollbar-track
 {
-    background: #dbdad5;
+    //background: transparent;
+    visibility: hidden;
 }
 
 ::-webkit-scrollbar-thumb
@@ -66,7 +67,8 @@ a,img
     //background: #003f47; //oceanic
     //background: #b4a0d8; 
     //background: #B87551;
-    background: #F2D492;
+    //background: #F2D492;
+    background: #E7AF36;
     font-size: x-large;
     color: #D77A61;
     margin: 2%;
