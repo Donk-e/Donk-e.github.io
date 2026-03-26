@@ -7,9 +7,9 @@ plugins:
 title: "<a href = 'https://donk-e.github.io/' style='color:white;'>Tyler Wood</a>"
 description: Games Programmer | Designer Portfolio 
 test: Testy test
-button:
-  -title: "Test"
-  url: "https://donk-e.github.io/"
-  -title: "about"
-  url: "https://donk-e.github.io/AboutMe.html"
+buttons:
+  - title: "About Me"
+    url: "/AboutMe.html"
+  - title: "Projects"
+    url: "/Projects/fyp.html"
 future: true
