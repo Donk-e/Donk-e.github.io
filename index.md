@@ -58,6 +58,8 @@ title: Portfolio
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Final Year Project</strong></p>
+                            <img src ="/assets/Icons/Unity.png">
+                            <img src ="/assets/Icons/Arduino.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
@@ -75,6 +77,7 @@ title: Portfolio
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Accessibility Game Jam</strong></p>
+                            <img src ="/assets/Icons/Unity.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
@@ -83,6 +86,7 @@ title: Portfolio
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Personal Tower Defence Project</strong></p>
+                            <img src ="/assets/Icons/Unity.png">
                         </div>                                 
                     </div> 
         </div>
