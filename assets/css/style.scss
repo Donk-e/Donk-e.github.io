@@ -66,6 +66,13 @@ a,img
     background: #8f8c7f ;
 }
 
+.headingButtonWrapper
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
 
 .headerButtons
 {
