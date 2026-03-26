@@ -52,6 +52,13 @@ a,img
 {
     //background: transparent;
     visibility: hidden;
+    background: #744253;
+}
+
+::-webkit-scrollbar-track :hover
+{
+    visibility: hidden;
+    background: transparent;
 }
 
 ::-webkit-scrollbar-thumb
