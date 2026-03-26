@@ -11,5 +11,5 @@ buttons:
   - title: "About Me"
     url: "/AboutMe.html"
   - title: "Projects"
-    url: "/Projects/fyp.html"
+    url: "/Projects/FYP.html"
 future: true

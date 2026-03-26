@@ -9,7 +9,6 @@ title: Portfolio
     <div class = "main">
     <p>If this is visible it means that im still currently working on setting up some areas of the portfolio so please excuse any unfinished areas</p>
     <!--<img src = "/assets/Images/AboutMe/Self/Athens.jpg" class = "roundedImg">-->
-    <div class = "testClass">testclass</div>
     <div class= "highlightReel">
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
