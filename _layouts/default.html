@@ -25,11 +25,11 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           <div class="buttonWrapper">
-            <div class = "headerButtons">
-              {% for button in site.buttons %}
+            {% for button in site.buttons %}
+              <div class = "headerButtons">
                 <a href="{{ button.url }}">{{ button.title }}</a>
-              {% endfor %}
-            </div>
+              </div>
+            {% endfor %}
           </div>
 
           {% if site.show_downloads %}
