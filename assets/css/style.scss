@@ -68,9 +68,10 @@ a,img
 
 .headingButtonWrapper
 {
+    align-self: center;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     width: 100%;
 }
 
