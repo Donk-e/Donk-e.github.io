@@ -7,7 +7,7 @@ title: About Me
     <body>
     <div class = "main">
          <div class = "aboutContainerStart">
-            <div class = "aboutText">
+            <div class = "aboutTextStart">
                 <h1>About Me</h1>
                 <div class = "ruleThin"></div>     
                 <p>This is a more informal section so it has a much more casual tone than the rest of the website.</p>      
