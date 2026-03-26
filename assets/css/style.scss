@@ -7,17 +7,19 @@
 {
     //background: #223843;
     //background: #0B132B;
-    background: #013d5a;
+    //background: #013d5a; //blue
+    background: #0a171d; //onyx
 }
 
 
 #main_content_wrap
 {
-    background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
+    //background-image: url('/assets/Images/Backgrounds/whiteBackground.jpg');
     //background: #D8B4A0;
     width: 100%;
     overflow-x: hidden;
-    color: white;
+    color: black;
+    background: #FFF6e9;
 }
 
 .inner
@@ -61,9 +63,11 @@ a,img
 .headerButtons
 {
     //background-color: #8f8c7f;
-    background: #BDD3CE;
+    //background: #BDD3CE; //light blue
+    //background: #003f47; //oceanic
+    background: #FFBD76; //nectarine
     font-size: x-large;
-    color: #fcf3e3;
+    color: black;
     margin: 2%;
     //padding: 2%;
 }
@@ -98,7 +102,9 @@ a,img
 
 .textSection
 {
-    background-color: #708c69;
+    //background-color: #708c69;
+    background: #003f47; //oceanic
+
     //background-color: #dbdad5 ;
     //background-color: #D77A61;
     color: white;
@@ -193,7 +199,8 @@ a,img
     justify-content: center;
     //background-color: #8f8c7f;
     //background: #744253;
-    background: #f4a258;
+    //background: #f4a258;
+    background: #FFBD76; //nectarine
     color: whitesmoke;
     align-self: center;
     //border-radius: 15%;
