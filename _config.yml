@@ -7,7 +7,7 @@ plugins:
 title: "<a href = 'https://donk-e.github.io/' style='color:white;'>Tyler Wood</a>"
 description: Games Programmer | Designer Portfolio 
 test: Testy test
-buttons:
+button:
   -title: "Test"
   url: "https://donk-e.github.io/"
   -title: "about"
