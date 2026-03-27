@@ -92,11 +92,6 @@ a,img
     width: 250px;
 }
 
-.headerButtons :hover
-{
-    background: #9F6241;
-    transform: scale(1.25);
-}
 
 /*#region HomePage*/
 
@@ -163,7 +158,8 @@ a,img
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    background: url('/assets/Images/Backgrounds/blackBackground.jpg');
+    //background: url('/assets/Images/Backgrounds/blackBackground.jpg');
+    background: #003f47; //oceanic
     width: 90%;
     //margin: 0.5%;    
     border-radius: 1%;
