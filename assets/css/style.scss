@@ -33,8 +33,7 @@
     width:95%;
     margin: auto;
     max-width: 100%;    
-    border-width: 5px;
-    border: yellow;
+    font-family: cursive;
 }
 .main
 {
@@ -51,7 +50,8 @@
     color: white;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    text-decoration: none;
+    text-decoration: dashed;
+    text-decoration-color: white;
 }
 
 a,img
