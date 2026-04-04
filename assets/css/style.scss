@@ -2,13 +2,14 @@
 ---
 /* Imports */
 @import "{{site.theme}}";
- 
+
 #header_wrap
 {
     //background: #152229;
     //background: #C9977C;
     //background: #223843;
     background-image: url('/assets/Images/Backgrounds/codePic.jpg');
+    font-family: cursive;
 }
 
 
@@ -21,6 +22,7 @@
     width: 100%;
     overflow-x: hidden;
     color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .inner
@@ -36,6 +38,7 @@
 }
 .main
 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -129,7 +132,6 @@ a,img
     margin: 2%;
     padding: 2%;
     border-radius: 8%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .roundedImg
