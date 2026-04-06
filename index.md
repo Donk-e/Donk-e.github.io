@@ -16,10 +16,10 @@ title: Portfolio
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
     </div>
     <div class = "textBlock">
-        <div class = "textHeading">
-            <p><strong>Introduction</strong></p>
-        </div>
         <div class = "textSection">
+            <div class = "textHeading">
+                <p><strong>Introduction</strong></p>
+            </div>
             <p><strong>Hi I'm Tyler :D</strong></p>
             <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation. I approach my systems from a designers point of view as well as that of a programmer allowing me to create mechanics that create fun experiences for the player. </p>
             <p>I'm soon to be graduating from a Games Design and Programming course at the University of Staffordshire!</p>
