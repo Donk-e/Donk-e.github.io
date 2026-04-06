@@ -99,7 +99,7 @@ a,img
     text-align: center;
     width: 250px;
     border: white, grey,white,gray;
-    border-width: 5px;
+    border-width: 3px;
     border-style: outset;
 }
 
@@ -145,6 +145,8 @@ a,img
 
 .textHeading
 {
+    display: flex;
+    flex-direction: row;
     background: #000082;
     color: white;
     font-size: x-large;
@@ -152,7 +154,8 @@ a,img
     vertical-align: middle;
     //width: 100%;
     height: 35px;
-    padding: 1%;
+    padding-top: 0.5%;
+    padding-bottom: 1.5%;
     //margin: 2%;
 }
 
