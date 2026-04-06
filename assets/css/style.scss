@@ -98,6 +98,7 @@ a,img
     color: black;
     text-align: center;
     width: 250px;
+    border-style: outset;
 }
 
 
@@ -145,7 +146,9 @@ a,img
     background: #000082;
     color: white;
     font-size: x-large;
-    width: 100%;
+    text-align: left;
+    vertical-align: middle;
+    //width: 100%;
     height: 25px;
     padding: 2%;
     //margin: 2%;
@@ -159,7 +162,7 @@ a,img
     //color: #EFF1F3;
     color: black;
     text-align: left;
-    width:60%;
+    width:75%;
     height: 40%; 
     font-size: 140%;
     //margin: 2%;
