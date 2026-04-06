@@ -189,7 +189,7 @@ a,img
 .roundedImg
 {
     border-radius: 50%;
-    transform:scale(0.75);
+    transform:scale(0.55);
 }
 
 .projects
@@ -270,6 +270,11 @@ a,img
     justify-content: center;
     color: black;
     align-self: center;
+}
+
+.iconButton img
+{
+    height: 100px;
 }
 
 .aboutMeButton
