@@ -17,7 +17,7 @@ title: Portfolio
     </div>
     <div class = "textBlock">
         <div class = "textHeading">
-            <h1><strong>Introduction</strong></h1>
+            <p><strong>Introduction</strong></p>
         </div>
         <div class = "textSection">
             <p><strong>Hi I'm Tyler :D</strong></p>
