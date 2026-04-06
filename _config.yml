@@ -9,8 +9,11 @@ description: Games Programmer | Designer Portfolio
 buttons:
   - title: "Home"
     url: "/index.html"
+    img: "assets/Icons/Windows/logo.png"
   - title: "About Me"
     url: "/AboutMe.html"
+    img: "assets/Icons/Windows/question.png"
   - title: "Final Year Project"
     url: "/Projects/FYP.html"
+    img: "assets/Icons/Windows/folder.png"
 future: true

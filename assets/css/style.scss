@@ -163,7 +163,8 @@ a,img
 
 .textHeading img
 {
-    transform: scale(0.5);
+    //transform: scale(0.5);
+    height: 75px;
     //margin-left: 3%;
     //margin-right: 3%;
     align-self: center;
@@ -178,7 +179,7 @@ a,img
     //color: #EFF1F3;
     color: black;
     text-align: left;
-    width:75%;
+    width:85%;
     height: 80%; 
     font-size: 140%;
     //margin: 2%;
@@ -267,9 +268,8 @@ a,img
     display: flex;
     flex-direction: column;
     border:none;
-    justify-content: center;
     color: black;
-    align-self: center;
+    //align-self: center;
 }
 
 .iconButton img

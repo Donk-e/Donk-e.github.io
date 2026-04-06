@@ -28,7 +28,8 @@
            <div class="headingButtonWrapper">
              {% for button in site.buttons %}
                <div class = "headerButtons">
-                 <a href="{{ button.url }}" style = "color: black;">{{ button.title }}</a>
+                  <img src="{{button.img}}">
+                  <a href="{{ button.url }}" style = "color: black;">{{ button.title }}</a>
                </div>
              {% endfor %}
           </div>
