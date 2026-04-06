@@ -15,6 +15,7 @@ title: Portfolio
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
     </div>
+    <div class = "textBlock">
         <div class = "textHeading">
             <h1><strong>Introduction</strong></h1>
         </div>
@@ -49,6 +50,7 @@ title: Portfolio
             </a>            
             </div>
         </div>
+    </div>
         <h1 style = "text-align:left">Projects</h1>
         <div class = "ruleThick"></div>
         <div class = "projects">                

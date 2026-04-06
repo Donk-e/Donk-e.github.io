@@ -130,6 +130,13 @@ a,img
     transform: scale(1.05);
 }
 
+.textBlock
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
 .textHeading
 {
     background: #000082;
