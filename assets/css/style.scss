@@ -103,6 +103,11 @@ a,img
     border-style: outset;
 }
 
+.headerButtons img
+{
+    height: 100px;
+}
+
 
 /*#region HomePage*/
 
@@ -164,7 +169,7 @@ a,img
 .textHeading img
 {
     //transform: scale(0.5);
-    height: 75px;
+    height: 25px;
     //margin-left: 3%;
     //margin-right: 3%;
     align-self: center;
@@ -259,6 +264,7 @@ a,img
     align-self: center;
     justify-content: space-evenly;
     justify-self: center;
+    padding: 5%;
 
     width: auto;
 }
