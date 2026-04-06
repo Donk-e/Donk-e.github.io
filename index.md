@@ -31,19 +31,19 @@ title: Portfolio
             <div class = "buttonWrapper">
                 <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/" target = "_blank">
                 <div class = "iconButton">
-                <img src="/assets/Icons/linkedInPixel.png.png">
+                <img src="/assets/Icons/linkedInPixel.png">
                 <p>LinkedIn</p>
                 </div>
                 </a>
                 <a href = "https://github.com/Donk-e" target = "_blank">
                 <div class = "iconButton">
-                <img src="/assets/Icons/github.png">
+                <img src="/assets/Icons/githubPixel.png">
                 <p>Github</p>
                 </div>
                 </a>
                 <a href = "mailto:tywood722@gmail.com" target = "_blank">
                 <div class = "iconButton">
-                    <img src="/assets/Icons/mail.png">
+                    <img src="/assets/Icons/Windows/mail.png">
                     <p>Mail</p>
                 </div>
                 </a>
