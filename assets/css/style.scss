@@ -154,8 +154,9 @@ a,img
     vertical-align: middle;
     //width: 100%;
     height: 35px;
-    padding-top: 0.5%;
-    padding-bottom: 1.5%;
+    //padding-top: 0.5%;
+    //padding-bottom: 1.5%;
+    padding: 1%;
     //margin: 2%;
     
 }
@@ -163,8 +164,8 @@ a,img
 .textHeading img
 {
     transform: scale(10);
-    margin-left: 3%;
-    margin-right: 3%;
+    //margin-left: 3%;
+    //margin-right: 3%;
     align-self: center;
     vertical-align: middle;
 }
@@ -263,17 +264,12 @@ a,img
 
 .iconButton
 {
-    display: block;
+    display: flex;
+    flex-direction: column;
     border:none;
     justify-content: center;
-    //background-color: #8f8c7f;
-    //background: #744253;
-    //background: #f4a258;
-    background: #744253;
-    color: whitesmoke;
+    color: black;
     align-self: center;
-    //border-radius: 15%;
-    //transform: scale(0.75);
 }
 
 .aboutMeButton
