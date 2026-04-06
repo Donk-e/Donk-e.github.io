@@ -16,7 +16,7 @@ title: Portfolio
         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
     </div>
         <div class = "textSection">
-            <div style = "background: ##000082">
+            <div style = "background: #000082">
                 <div class= "ruleThin"></div>
                 <h1>Introduction</h1>
                 <div class = "ruleThin"></div>
