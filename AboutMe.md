@@ -14,7 +14,13 @@ title: About Me
                 <p>I consider myself to be a very creative person and while game dev does allow me to create whatever I can think of I do also like to work with my hands so I'm frequently picking up new hobbies to do in my spare time. At the moment I crochet and whittle.</p>
                 <p>Almost everything here will have a handful of imperfections but this is a little showcase of some of the stuff I am proud of. :D</p>
             </div>
-            <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "roundedImg" title= "Me :)">  
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                <img src="/assets/Icons/Windows/star.png">
+                <p><strong>Me</strong></p>
+                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "aboutImg" title= "Me :)">  
         </div>
         <div class = "ruleThick"></div>
         <div class = "aboutContainer">

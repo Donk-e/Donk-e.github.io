@@ -105,7 +105,7 @@ a,img
     font-size: x-large;
     color: black;
     text-align: center;
-    //width: 275px;
+    width: 275px;
     border: white, grey,white,gray;
     border-width: 4px;
     border-style: outset;
@@ -295,26 +295,12 @@ a,img
     border:none;
     color: black;
     align-self: center;
+    align-items: center;
 }
 
 .iconButton img
 {
     height: 100px;
-}
-
-.aboutMeButton
-{
-    //display: block;
-    border:none;
-    justify-content: center;
-    //background-color: #8f8c7f;
-    background: #744253;
-    color: whitesmoke;
-    align-self: center;
-    font-size: larger;
-    text-align: center;
-    padding: 5%;
-    text-overflow: ellipsis;
 }
 
 /*#endregion HomePage*/

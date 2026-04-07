@@ -5,6 +5,19 @@
 
 //#region Core
 
+.aboutImg
+{
+    height: 500px;
+}
+
+.windowContainer
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #c3c3c3;
+}
+
 .aboutContainerStart
 {
     display: flex;
@@ -25,7 +38,6 @@
     width: 50%;
     font-size: 140%;
     padding: 2%;
-    border-radius: 8%;
 }
 
 .aboutContainer
