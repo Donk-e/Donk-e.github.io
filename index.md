@@ -56,7 +56,7 @@ title: Portfolio
             </div>
         </div>
     </div>
-    <div style = "backround: #c3c3c3">
+    <div class = "projects">
             <div class = "textHeading">              
                 <img src="/assets/Icons/Windows/folder.png">
                 <p><strong>Projects</strong></p>
