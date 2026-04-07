@@ -20,7 +20,7 @@ title: Portfolio
             <div class = "textHeading">
                 <img src="/assets/Icons/Windows/notepad.png">
                 <p><strong>Introduction</strong></p>
-                <img src = "/assets/Icons/Windows/close.png" style = "position: absolute; left: 5px; ">
+                <img src = "/assets/Icons/Windows/close.png" style = "position: absolute; left: -50px; ">
             </div>
             <p><strong>Hi I'm Tyler :D</strong></p>
             <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation. I approach my systems from a designers point of view as well as that of a programmer allowing me to create mechanics that create fun experiences for the player. </p>
