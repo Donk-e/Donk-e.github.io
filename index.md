@@ -49,11 +49,13 @@ title: Portfolio
                 </a>
             </div>
             <p>If you're interested in knowing a bit more about me check out this section which goes over my hobbies and stuff I get up to outside of game dev!</p>
+            <div class = "headerButtonWrapper">
             <div class = "headerButtons">
             <a href = "/AboutMe.html">
                 <img src= "/assets/Icons/Windows/question.png">
                 <p><strong>About Me</strong></p>
             </a>            
+            </div>
             </div>
         </div>
     </div>
