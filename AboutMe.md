@@ -21,6 +21,7 @@ title: About Me
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "aboutImg" title= "Me :)">  
+            </div>
         </div>
         <div class = "ruleThick"></div>
         <div class = "aboutContainer">
