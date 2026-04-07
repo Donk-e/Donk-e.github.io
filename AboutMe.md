@@ -33,7 +33,7 @@ title: About Me
             <div class = "windowContainer">
                 <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
             </div>
-            <div class = "windowContainer" style = "width: 30%">
+            <div class = "windowContainer" style = "widtsdsh: 30%">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/tree.png">
                     <p><strong>Turtle Necklace</strong></p>
