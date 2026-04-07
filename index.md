@@ -56,12 +56,13 @@ title: Portfolio
             </div>
         </div>
     </div>
-        <div class = "projects"> 
+    <div style = "backround: #c3c3c3">
             <div class = "textHeading">              
                 <img src="/assets/Icons/Windows/folder.png">
                 <p><strong>Projects</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div> 
+        <div class = "projects"> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
@@ -99,6 +100,7 @@ title: Portfolio
                             <img src ="/assets/Icons/Unity.png">
                         </div>                                 
                     </div> 
+            </div>
         </div>
         <h1 style = "text-align:left">Unreal Projects</h1>
         <div class = "ruleThick"></div>
