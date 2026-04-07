@@ -49,7 +49,7 @@ title: Portfolio
                 </a>
             </div>
             <p>If you're interested in knowing a bit more about me check out this section which goes over my hobbies and stuff I get up to outside of game dev!</p>
-            <div class = "buttonWrapper">
+            <div class = "headerButton">
             <a href = "/AboutMe.html">
                 <p class = "aboutMeButton"><strong>About Me</strong></p>
             </a>            
@@ -101,18 +101,6 @@ title: Portfolio
                         </div>                                 
                     </div> 
             </div>
-        </div>
-        <h1 style = "text-align:left">Unreal Projects</h1>
-        <div class = "ruleThick"></div>
-        <div class = "projects">
-            <h3>Ughhhh</h3>
-        </div>
-        <h1 style = "text-align:left">Other Skills</h1>
-        <div class = "ruleThick"></div>
-        <div class = "projects">
-            <h3>TF2 Map</h3>
-            <h3>C++ Game</h3>
-            <h3>Portfolio Website</h3>
         </div>
     </div>
     </body>
