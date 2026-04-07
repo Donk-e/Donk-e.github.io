@@ -26,7 +26,7 @@ title: About Me
                 <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "aboutImg" title= "Me :)" style = "height: 450px;">  
             </div>
         </div>
-        <div class = "aboutContainer">
+        <div class = "aboutContainerStart">
             <div class = "windowContainer">
                 <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace">
             </div>
