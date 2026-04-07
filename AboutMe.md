@@ -23,7 +23,7 @@ title: About Me
                 <p><strong>Me</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "aboutImg" title= "Me :)">  
+                <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "aboutImg" title= "Me :)" style = "height: 450px;">  
             </div>
         </div>
         <div class = "aboutContainer">
