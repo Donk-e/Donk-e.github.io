@@ -62,7 +62,7 @@ title: Portfolio
                 <p><strong>Projects</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div> 
-        <div class = "projects"> 
+        <div class = "projectsWrapper"> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  

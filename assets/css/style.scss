@@ -200,6 +200,13 @@ a,img
 
 .projects
 {
+    background: #c3c3c3;
+    width: 90%;
+    padding: 0.75%;
+}
+
+.projectsWrapper
+{
     text-align: left;
     align-self: center;
     display: flex;
@@ -208,11 +215,8 @@ a,img
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    //background: url('/assets/Images/Backgrounds/blackBackground.jpg');
     background: #c3c3c3;
-    width: 90%;
-    //margin: 0.5%;    
-    border-radius: 1%;
+    //width: 90%;
 }
 
 .projects img:hover
