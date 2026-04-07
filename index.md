@@ -56,9 +56,12 @@ title: Portfolio
             </div>
         </div>
     </div>
-        <h1 style = "text-align:left">Projects</h1>
-        <div class = "ruleThick"></div>
-        <div class = "projects">                
+        <div class = "projects"> 
+            <div class = "textHeading">              
+                <img src="/assets/Icons/Windows/folder.png">
+                <p><strong>Projects</strong></p>
+                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+            </div> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
