@@ -57,7 +57,9 @@
     justify-content: space-evenly;
     align-self: center;
     height: 30%;    
-    width: 90%;
+    //width: 90%;
+    width:auto;
+    max-width: 99%;
 }
 .aboutContainer img
 {
