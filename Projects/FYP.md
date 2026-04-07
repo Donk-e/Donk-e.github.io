@@ -5,6 +5,7 @@ title: Final Year Project
 
 <html>
     <body>
+    <div class = "main">
         <div class = "ruleThick"></div>
         <div class = "projectTitle">
             <p><strong>RFID Enhanced Gameplay</strong></p>
@@ -52,5 +53,6 @@ title: Final Year Project
                 <p>;;Replace;; To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
             </div>            
         </div> 
+    </div>
     </body>
 </html>

@@ -31,13 +31,13 @@ title: About Me
                 <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace">
             </div>
             <div class = "windowContainer">
-            <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
+                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
             </div>
-            <div class = "windowContainer">
+            <div class = "windowContainer" style = "width: 30%">
                 <div class = "textHeading">
-                <img src="/assets/Icons/Windows/tree.png">
-                <p><strong>Turtle Necklace</strong></p>
-                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                    <img src="/assets/Icons/Windows/tree.png">
+                    <p><strong>Turtle Necklace</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>       
                 <p>This is a necklace I made during my down time over christmas, I found the wood near my parents house. I think its beech wood?</p>          
                 <p>This was carved mainly just using a knife but I did use a dremel for some sanding and drilling the hole for the thread.</p>     
