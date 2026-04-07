@@ -8,7 +8,7 @@ title: Portfolio
     <body>
     <div class = "main">
     <p>If this is visible it means that im still currently working on setting up some areas of the portfolio so please excuse any unfinished areas</p>
-    <div class = "windowContainer">
+    <div class = "textSection">
         <div class = "textHeading">
             <img src="/assets/Icons/Windows/screen.png">
             <p><strong>Project Highlights</strong></p>
