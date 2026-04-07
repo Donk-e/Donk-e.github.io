@@ -7,7 +7,7 @@ title: About Me
     <body>
     <div class = "main">
          <div class = "aboutContainerStart">
-            <div class = "windowContainer">
+            <div class = "textSextion">
                 <div class = "textHeading">
                 <img src="/assets/Icons/Windows/info.png">
                 <p><strong>Me</strong></p>
