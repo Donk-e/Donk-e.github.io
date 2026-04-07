@@ -7,7 +7,7 @@ title: About Me
     <body>
     <div class = "main">
          <div class = "aboutContainerStart">
-            <div class = "textSection">
+            <div class = "windowContainer">
                 <div class = "textHeading">
                 <img src="/assets/Icons/Windows/info.png">
                 <p><strong>Me</strong></p>
@@ -35,7 +35,7 @@ title: About Me
             </div>
             <div class = "windowContainer">
                 <div class = "textHeading">
-                <img src="/assets/Icons/Windows/tree.ico">
+                <img src="/assets/Icons/Windows/tree.png">
                 <p><strong>Turtle Necklace</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>       
