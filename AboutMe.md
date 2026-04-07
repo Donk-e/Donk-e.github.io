@@ -23,15 +23,15 @@ title: About Me
                 <p><strong>Me</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "aboutImg" title= "Me :)" style = "height: 450px;">  
+                <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "aboutImg" title= "Me :)">  
             </div>
         </div>
         <div class = "aboutContainerStart">
             <div class = "windowContainer">
-                <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace">
+                <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace" class = "aboutImg">
             </div>
             <div class = "windowContainer">
-                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
+                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace" class = "aboutImg">
             </div>
             <div class = "windowContainer" style = "widtsdsh: 30%">
                 <div class = "textHeading">
