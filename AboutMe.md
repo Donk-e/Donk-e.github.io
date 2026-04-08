@@ -56,7 +56,7 @@ title: About Me
         </div>
         <!-- crochet flower section -->
         <div class = "aboutContainerStart">
-            <div class = "windowContainer">
+            <div class = "imgWindowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/paint.png">
                     <p><strong>Why? / How?</strong></p>
