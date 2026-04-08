@@ -28,7 +28,7 @@ title: About Me
         </div>
         <!-- Turtle necklace section -->
         <div class = "aboutContainerStart">
-            <div class = "windowContainer">
+            <div class = "imgWindowContainer">
                 <div class = "textHeading">
                 <img src="/assets/Icons/Windows/tree.png">
                 <p><strong>Turtle</strong></p>
@@ -36,7 +36,7 @@ title: About Me
                 </div>
                 <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace" class = "aboutImg">
             </div>
-            <div class = "windowContainer">
+            <div class = "imgWindowContainer">
                 <div class = "textHeading">
                 <img src="/assets/Icons/Windows/tree.png">
                 <p><strong>Turtle Necklace</strong></p>
@@ -64,7 +64,7 @@ title: About Me
                 </div>
                     <p>This is a flower that I crocheted using acrylic wool with a wire in the leaves and stem, I made it for my Aunt for her birthday and for letting me stay at her place. :D </p>
             </div>
-            <div class = "windowContainer">
+            <div class = "imgWindowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/paint.png">
                     <p><strong>Crocheted Flower</strong></p>
