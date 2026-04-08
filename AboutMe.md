@@ -69,9 +69,8 @@ title: About Me
                     <img src="/assets/Icons/Windows/paint.png">
                     <p><strong>Crocheted Flower</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
-                    </div>
-                    <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Pink crochet flower" title= "Turtle Necklace" class = "aboutImg">
                 </div>
+                    <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Pink crochet flower" title= "Turtle Necklace" class = "aboutImg">
             </div>
         </div>
     </div>
