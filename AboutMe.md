@@ -28,9 +28,19 @@ title: About Me
         </div>
         <div class = "aboutContainerStart">
             <div class = "windowContainer">
+                <div class = "textHeading">
+                <img src="/assets/Icons/Windows/tree.png">
+                <p><strong>Turtle</strong></p>
+                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
                 <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace" class = "aboutImg">
             </div>
-            <div class = "windowContainer">
+            <div class = "imgWindowContainer">
+                <div class = "textHeading">
+                <img src="/assets/Icons/Windows/tree.png">
+                <p><strong>WoodenNecklace</strong></p>
+                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
                 <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace" class = "aboutImg">
             </div>
             <div class = "windowContainer" style = "widtsdsh: 30%">
