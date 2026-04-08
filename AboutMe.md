@@ -7,7 +7,7 @@ title: About Me
     <body>
     <div class = "main">
          <div class = "aboutContainerStart">
-            <div class = "imgWindowContainer">
+            <div class = "windowContainer">
                 <div class = "textHeading">
                 <img src="/assets/Icons/Windows/info.png">
                 <p><strong>Me</strong></p>
@@ -44,7 +44,7 @@ title: About Me
                 </div>
                 <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace" class = "aboutImg">
             </div>
-            <div class = "imgWindowContainer" style = "widtsdsh: 30%">
+            <div class = "windowContainer" style = "widtsdsh: 30%">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/tree.png">
                     <p><strong>Why / How?</strong></p>
@@ -56,7 +56,7 @@ title: About Me
         </div>
         <!-- crochet flower section -->
         <div class = "aboutContainerStart">
-            <div class = "imgWindowContainer">
+            <div class = "windowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/paint.png">
                     <p><strong>Why? / How?</strong></p>
