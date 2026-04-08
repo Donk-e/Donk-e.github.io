@@ -61,9 +61,8 @@ title: About Me
                     <img src="/assets/Icons/Windows/paint.png">
                     <p><strong>Why? / How?</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
-                    </div>
-                    <p>This is a flower that I crocheted using acrylic wool with a wire in the leaves and stem, I made it for my Aunt for her birthday and for letting me stay at her place. :D </p>
                 </div>
+                    <p>This is a flower that I crocheted using acrylic wool with a wire in the leaves and stem, I made it for my Aunt for her birthday and for letting me stay at her place. :D </p>
             </div>
             <div class = "windowContainer">
                 <div class = "textHeading">
