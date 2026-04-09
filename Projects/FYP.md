@@ -11,7 +11,7 @@ title: Final Year Project
             <p><strong>RFID Enhanced Gameplay</strong></p>
         </div>
         <div class = "ruleThick"></div>
-        <div class = "aboutContainerstart">
+        <div class = "flexContainer">
             <div class = "windowContainer">
                 <div class = "textHeading">
                     <p><strong>Project Overview</strong></p>

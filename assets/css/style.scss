@@ -126,6 +126,12 @@ a,img
     height: 50px;
 }
 
+.flexContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 
 /*#region HomePage*/
 
