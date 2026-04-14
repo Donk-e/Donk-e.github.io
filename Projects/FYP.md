@@ -9,12 +9,12 @@ title: Final Year Project
         <div class = "windowContainer">
             <div class = "textHeading">
                 <img src="/assets/Icons/Windows/star.png">
-                <div style = "font-size: 400px">
                     <p>Project</p>
-                </div>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
-            <p><strong>RFID Enhanced Gameplay</strong></p>
+            <div style= "font-size: font-size: 100px">
+                <p><strong>RFID Enhanced Gameplay</strong></p>
+            </div>
         </div>
         <div class = "flexRow">
             <div class = "windowContainer">
