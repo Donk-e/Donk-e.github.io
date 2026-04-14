@@ -22,7 +22,7 @@ title: Final Year Project
                 <p><strong>Gameplay Video</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
-            <iframe width="1920" height="1080" 
+            <iframe width="960" height="540" 
                 src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1"
                 title = "UI Demo Video">
             </iframe>
