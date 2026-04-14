@@ -51,7 +51,7 @@ title: Final Year Project
             <div class = "windowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
-                    <p><strong>Physical Scanning Mechanic</p></strong>
+                    <p><strong>Physical Scanning Mechanic</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
