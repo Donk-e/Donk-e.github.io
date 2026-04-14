@@ -12,7 +12,7 @@ title: Final Year Project
                 <p><strong>Project</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
-            <div style= "font-size: font-size: 300px">
+            <div style= "font-size: 150px">
                 <p><strong>RFID Enhanced Gameplay</strong></p>
             </div>
         </div>
