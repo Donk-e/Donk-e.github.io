@@ -9,7 +9,7 @@ title: Final Year Project
         <div class = "windowContainer">
             <div class = "textHeading">
                 <img src="/assets/Icons/Windows/star.png">
-                <div class = ".projectTitle">
+                <div style = "font-size: 400px">
                     <p>Project</p>
                 </div>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
@@ -20,7 +20,7 @@ title: Final Year Project
             <div class = "windowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
-                    <p><strong>Project Overview</p></strong>
+                    <p><strong>Project Overview</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>For my final year project at uni I chose to look into the mechanic featured in games the Skylanders series and used in Amiibo + Disnery Infinity. I researched the difference in player experience between players who used the physical scanning mechanic and those that used UI.</p>
