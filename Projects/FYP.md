@@ -48,7 +48,7 @@ title: Final Year Project
             </div>
         </div>
         <div class = "flexRow">
-            <div class = "windowContainer" style = "width: 450px">
+            <div class = "windowContainer" style = "width: 750px">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
                     <p><strong>Physical Scanning Mechanic</strong></p>
@@ -73,7 +73,7 @@ title: Final Year Project
                 </div>
                 <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
             </div>
-            <div class = "windowContainer" style = "width: 450px">
+            <div class = "windowContainer" style = "width: 750px">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
                     <p><strong>Physical Scanning Mechanic</strong></p>
