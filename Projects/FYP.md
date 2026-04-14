@@ -6,11 +6,14 @@ title: Final Year Project
 <html>
     <body>
     <div class = "main">
-        <div class = "ruleThick"></div>
-        <div class = "projectTitle">
-            <p><strong>RFID Enhanced Gameplay</strong></p>
-        </div>
-        <div class = "ruleThick"></div>
+        <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/star.png">
+                    <p><strong>Project</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p><strong>RFID Enhanced Gameplay</strong></p>
+            </div>
         <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">
@@ -44,7 +47,7 @@ title: Final Year Project
         </div>
         <div class = "flexRow">
             <div class = "windowContainer">
-                <div clas = "textHeading">
+                <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
                     <p><strong>Physical Scanning Mechanic</p></strong>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
