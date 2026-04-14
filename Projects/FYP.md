@@ -10,7 +10,7 @@ title: Final Year Project
             <div class = "textHeading">
                 <img src="/assets/Icons/Windows/star.png">
                 <div class = ".projectTitle">
-                    <p><strong>Project</strong></p>
+                    <p>Project</p>
                 </div>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
