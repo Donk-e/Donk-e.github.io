@@ -40,9 +40,9 @@ title: Final Year Project
                         <li>Serial communication in Unity</li>            
                     </ul>
                     <ul>
+                        <li>Presenting in person and online</li>  
                         <li>Academic Research</li>
                         <li>Academic Writing</li>      
-                        <li>Presenting </li>  
                     </ul>
                 </div>
             </div>
@@ -55,8 +55,15 @@ title: Final Year Project
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
+            </div>            
+            <div class = "imgWindowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/star.png">
+                    <p><strong>Arduino</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                    <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
             </div>
-            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">
         </div>  
     </div>
     </body>
