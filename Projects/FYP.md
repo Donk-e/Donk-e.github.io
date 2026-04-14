@@ -7,13 +7,15 @@ title: Final Year Project
     <body>
     <div class = "main">
         <div class = "windowContainer">
-                <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/star.png">
+            <div class = "textHeading">
+                <img src="/assets/Icons/Windows/star.png">
+                <div class = ".projectTitle">
                     <p><strong>Project</strong></p>
-                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <p><strong>RFID Enhanced Gameplay</strong></p>
+                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
+            <p><strong>RFID Enhanced Gameplay</strong></p>
+        </div>
         <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">

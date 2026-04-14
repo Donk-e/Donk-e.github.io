@@ -1,0 +1,49 @@
+---
+---
+/* Imports */
+@import "{{site.theme}}";
+
+.projectTitle
+{
+    align-self: center;
+    vertical-align: middle;
+    text-align: center;    
+    font-size: 300%;
+    color: black;
+    text-shadow: #8f8c7f;
+    background: transparent;
+
+}
+
+.projectPageContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-self: center;
+    height: 400px;    
+    width: 90%;
+    border: red;
+}
+.projectText
+{
+    align-self: center;
+    justify-self: center;
+    background-color: #dbdad5 ;
+    color: black;
+    text-align: left;
+    width: 50%;
+    font-size: 140%;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 15%;
+}
+.projectSkills
+{
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+    justify-self: start;
+    justify-content: space-between;
+    font-size: 110%;
+}
