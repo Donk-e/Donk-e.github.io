@@ -24,17 +24,6 @@ title: Final Year Project
             </div>
             <iframe width = "auto" height = "auto "src = "https://youtu.be/BrVP-3Zlm7s"></iframe>
         </div>
-<<<<<<< HEAD
-        <div class = "windowContainer">
-            <div class = "textHeading">
-                <img src="/assets/Icons/Windows/star.png">
-                <p><strong>Gameplay Video</strong></p>
-                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
-            </div>
-            <iframe width = "auto" height = "auto "src = "https://youtu.be/BrVP-3Zlm7s"></iframe>
-        </div>
-=======
->>>>>>> parent of f40a880 (videos?)
         <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">
