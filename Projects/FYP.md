@@ -48,7 +48,7 @@ title: Final Year Project
             </div>
         </div>
         <div class = "flexRow">
-            <div class = "windowContainer" style = "width: 150%">
+            <div class = "windowContainer" style = "width: 200%">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
                     <p><strong>Physical Scanning Mechanic</strong></p>
