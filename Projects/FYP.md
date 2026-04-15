@@ -23,7 +23,7 @@ title: Final Year Project
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
             <iframe width="960" height="540" 
-                src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&loop=1"
+                src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&mute=1&loop=1"
                 title = "UI Demo Video">
             </iframe>
         </div>
@@ -91,8 +91,7 @@ title: Final Year Project
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
-            </div>            
-            
+            </div>         
         </div> 
     </div>
     </body>
