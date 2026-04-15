@@ -23,7 +23,7 @@ title: About Me
                 <p><strong>Me</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" class = "abouttttImg" title= "Me :)">  
+                <img src="/assets/Images/AboutMe/Self/Birds.jpg" alt= "Me getting harrassed by birds" title= "Me :)">  
             </div>
         </div>
         <!-- Turtle necklace section -->
@@ -34,7 +34,7 @@ title: About Me
                 <p><strong>Turtle</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace" class = "aboutImg">
+                <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace" >
             </div>
             <div class = "imgWindowContainer">
                 <div class = "textHeading">
@@ -42,7 +42,7 @@ title: About Me
                 <p><strong>Turtle Necklace</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace" class = "aboutImg">
+                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
             </div>
             <div class = "windowContainer">
                 <div class = "textHeading">
@@ -70,7 +70,7 @@ title: About Me
                     <p><strong>Crocheted Flower</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                    <img src = "/assets/Images/AboutMe/Crochet/flower2.jpg" alt = "Pink crochet flower" title= "Flower" class = "crochetImg">
+                    <img src = "/assets/Images/AboutMe/Crochet/flower2.jpg" alt = "Pink crochet flower" title= "Flower">
             </div>
         </div>
     </div>
