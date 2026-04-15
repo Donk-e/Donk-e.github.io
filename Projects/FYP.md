@@ -23,7 +23,7 @@ title: Final Year Project
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
             <iframe width="960" height="540" 
-                src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1"
+                src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&loop=1"
                 title = "UI Demo Video">
             </iframe>
         </div>
