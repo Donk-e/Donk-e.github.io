@@ -70,7 +70,7 @@ title: About Me
                     <p><strong>Crocheted Flower</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                    <img src = "/assets/Images/AboutMe/Crochet/flower.jpg" alt = "Pink crochet flower" title= "Flower" class = "crochetImg">
+                    <img src = "/assets/Images/AboutMe/Crochet/flower2.jpg" alt = "Pink crochet flower" title= "Flower" class = "crochetImg">
             </div>
         </div>
     </div>
