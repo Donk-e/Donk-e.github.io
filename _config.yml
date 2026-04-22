@@ -16,4 +16,10 @@ buttons:
   - title: "Final Year Project"
     url: "/Projects/FYP.html"
     img: "/assets/Icons/Windows/folder.png"
+
+backgroundButtons:
+  - title: "Default Blue" 
+    img: ""
+  - title: Bliss
+    img: "/assets/Images/Backgrounds/windows.jpg"
 future: true

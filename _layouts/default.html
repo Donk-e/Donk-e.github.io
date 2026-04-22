@@ -43,6 +43,15 @@
             </section>
           {% endif %}
         </header>
+        <div class = "headerBackgroundContainer">
+          {% for button in site.backgroundButtons %}
+               <div class = "headerBackgroundButtons">
+                  <!-- <img src="{{button.img}}">
+                  <a href="{{ button.url }}" style = "color: black;"><strong>{{ button.title }}</strong></a> -->
+                  <button data-image="{{button.img}}"><strong>{{button.title}}</strong></button>
+               </div>
+             {% endfor %}       
+        </div>
     </div>
 
     <!-- MAIN CONTENT -->
