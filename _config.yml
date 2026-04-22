@@ -19,7 +19,7 @@ buttons:
 
 backgroundButtons:
   - title: "Default Blue" 
-    img: ""
+    img: "/assets/Images/Backgrounds/blue.jpg"
   - title: Bliss
     img: "/assets/Images/Backgrounds/windows.jpg"
 future: true
