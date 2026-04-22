@@ -44,6 +44,8 @@
           {% endif %}
         </header>
         <div class = "headerBackgroundContainer">
+          <label for = "Backgrounds"> Backgrounds: </label>
+          <select name="name" id="Backgrounds">
           {% for button in site.backgroundButtons %}
                <div class = "headerBackgroundButtons">
                   <!-- <img src="{{button.img}}">
@@ -52,6 +54,7 @@
                   <button data-image="{{button.img}}"><strong>{{button.title}}</strong></button>
                </div>
           {% endfor %}       
+          </select>
         </div>
     </div>
 
