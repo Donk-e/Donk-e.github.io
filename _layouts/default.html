@@ -48,10 +48,12 @@
           <select name="name" id="Backgrounds">
           {% for button in site.backgroundButtons %}
                <div class = "headerBackgroundButtons">
+                <option value="{{button.title}}">>
                   <!-- <img src="{{button.img}}">
                   <a href="{{ button.url }}" style = "color: black;"><strong>{{ button.title }}</strong></a> -->
                   <script src="/assets/JS/script.js"></script>
                   <button data-image="{{button.img}}"><strong>{{button.title}}</strong></button>
+                </option> 
                </div>
           {% endfor %}       
           </select>
