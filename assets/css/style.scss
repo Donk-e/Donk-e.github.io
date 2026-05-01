@@ -83,7 +83,8 @@
 
 .footerBar
 {
-    width: auto;
+    //width: 99%;
+    width: max-content;
     display: flex;
     flex-direction: row;
     position: fixed;
