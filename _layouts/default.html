@@ -77,8 +77,8 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <div class = "footerBar">
+          <img src="/assets/Icons/Windows/logo.png">
           <button id="startButton"> 
-            <img src="/assets/Icons/Windows/logo.png">
             Start
           </button>
 
@@ -117,11 +117,8 @@
       });
 
       document.addEventListener("click", (e) => {
-      if (!menu.classList.contains("hidden") &&
-      !btn.contains(e.target) &&
-      !menu.contains(e.target)) {
-      menu.classList.add("hidden");
-        }
+      if (!menu.classList.contains("hidden") && !btn.contains(e.target) && !menu.contains(e.target)) 
+      {menu.classList.add("hidden");}
       });
     </script> 
   </body>
