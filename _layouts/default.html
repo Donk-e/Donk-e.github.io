@@ -87,11 +87,11 @@
           </div>
 
           <div id="startMenu" class="hidden">
-            <ul>
-              <li><img src="/assets/Icons/Windows/screen.png"><a href="/index.html">Home</a></li>
-              <li><img src="/assets/Icons/Windows/info.png">About Me</li>
-              <li><img src="/assets/Icons/Windows/folder.png">Projects<img src="/assets/Icons/Windows/arrow.png" style="width: 20px; height: 20px;"></li>
-            </ul>
+            <div style="display: flex; flex-direction: row;">
+              <div class = "menuButton"></div><img src="/assets/Icons/Windows/folder.png">Projects<img src="/assets/Icons/Windows/arrow.png" style="width: 20px; height: 20px;"></div>
+              <div class = "menuButton"><img src="/assets/Icons/Windows/screen.png"><a href="/index.html">Home</a></div>
+              <div class = "menuButton"></div><img src="/assets/Icons/Windows/info.png">About Me</div>
+            </div>
           </div>
         </div>
         <!-- {% if site.github.is_project_page %}

@@ -122,8 +122,8 @@
 
 #startMenu
 {
-    width: 300px;
-    height: 500px;
+    width: 400px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -143,6 +143,15 @@
     // border-style: outset;
     // color: black;
 }
+
+.menuButton
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 
 .hidden
 {    
