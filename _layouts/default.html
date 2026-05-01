@@ -74,10 +74,10 @@
     <!-- FOOTER  -->
     <!-- start menu button -->
 
-
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <div class = "footerBar">
+          <img src="/assets/Icons/Windows/logo.png">
           <button id="startButton"> Start</button>
 
           <div id="startMenu" class="hidden">
@@ -96,9 +96,6 @@
     </div>
 
     <script>
-      console.log("JS loaded");
-
-    //document.addEventListener("DOMContentLoaded", () => {
       const btn = document.getElementById("startButton");
       const menu = document.getElementById("startMenu");
 
@@ -106,10 +103,10 @@
 
       if (!btn) {
         console.error("startButton not found");
-        //return;
       }
+
       btn.addEventListener("click", (e) => {
-      e.stopPropagation(); // 👈 this is the fix
+      e.stopPropagation(); 
       menu.classList.toggle("hidden");
       });
 
@@ -120,33 +117,6 @@
       menu.classList.add("hidden");
         }
       });
-
-    //   btn.addEventListener("click", (e) => {
-    //     e.stopPropagation();
-    //     menu.classList.toggle("hidden");
-    //   });
-
-    //   document.addEventListener("click", () => {
-    //     menu.classList.add("hidden");
-    //   });
-    // });  
-      
-
-      // document.addEventListener("DOMContentLoaded", () => {
-      // const btn = document.getElementById("startButton");
-      // const menu = document.getElementById("startMenu");
-
-      // console.log(btn, menu);
-
-      // btn.addEventListener("click", () => {menu.classList.toggle("hidden")});
-      // });
-
-      // document.addEventListener("click", (e) => {
-      //     if (!btn.contains(e.target) && !menu.contains(e.target)) {
-      //       menu.classList.add("hidden");
-      //     }
-      //   });
-
     </script> 
   </body>
 </html>
