@@ -162,7 +162,9 @@
     align-self: center;
     align-items: center;
     justify-items: center;
-    text-transform: -1;
+    //text-transform: -1;
+    transform: -1;
+    transform: rotateY(180deg);
 }
 
 .menuButton
