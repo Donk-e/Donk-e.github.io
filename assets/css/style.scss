@@ -154,16 +154,19 @@
 
 .startVerticalText
 {
+    font-size: large;
+    letter-spacing: 3px;
     background-color: grey;
     color: white;
     writing-mode: vertical-lr;
     text-orientation: mixed;
+    text-align: center;
+    vertical-align: middle;
     height: 300px;
     align-self: center;
     align-items: center;
     justify-items: center;
     //text-transform: -1;
-    transform: -1;
     transform: rotateZ(180deg);
 }
 
