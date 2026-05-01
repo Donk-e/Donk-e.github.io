@@ -8,14 +8,15 @@ document.querySelectorAll('[dataImage]').forEach(element => {
 
 
 //start menu button
-const btn = document.getElementById("startButton");
-const menu = document.getElementById("startMenu");
 
-btn.addEventListener("click", () => {menu.classList.toggle("hidden")});
+// const btn = document.getElementById("startButton");
+// const menu = document.getElementById("startMenu");
 
-document.addEventListener("click", (e) => {
-    if (!btn.contains(e.target) && !menu.contains(e.target)) {
-      menu.classList.add("hidden");
-    }
-  });
+// btn.addEventListener("click", () => {menu.classList.toggle("hidden")});
+
+// document.addEventListener("click", (e) => {
+//     if (!btn.contains(e.target) && !menu.contains(e.target)) {
+//       menu.classList.add("hidden");
+//     }
+//   });
 
