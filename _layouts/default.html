@@ -96,13 +96,16 @@
     </div>
 
     <script>
+      console.log("JS loaded");
       document.addEventListener("DOMContentLoaded", () => {
       const btn = document.getElementById("startButton");
       const menu = document.getElementById("startMenu");
 
+      console.log(btn, menu);
+
       btn.addEventListener("click", () => {menu.classList.toggle("hidden")});
       });
-      
+
       document.addEventListener("click", (e) => {
           if (!btn.contains(e.target) && !menu.contains(e.target)) {
             menu.classList.add("hidden");
