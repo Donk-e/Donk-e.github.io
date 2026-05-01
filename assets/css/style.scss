@@ -84,7 +84,10 @@
 .footerBar
 {
     width: 100%;
-    height: 25px;
+    height: 35px;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-start;
     //width: max-content;
     display: flex;
     flex-direction: row;
