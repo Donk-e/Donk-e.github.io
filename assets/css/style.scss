@@ -112,9 +112,9 @@
 
 #startMenu
 {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    display: block;
+    //flex-direction: column;
+    //justify-content: flex-start;
 
     position: absolute;
     bottom: 40px;
@@ -124,7 +124,7 @@
 
     // bottom: 500;
     // left: 0;    
-    // z-index: 1;
+    z-index: 1;
 
     // background-color: #c3c3c3;
     // border: white, grey,white,gray;
@@ -134,9 +134,9 @@
 }
 
 .hidden
-{
-    //display: none !important; //sorry lol
-    opacity: 0%;
+{    
+    display: none; //important; //sorry lol
+    //opacity: 0%;
 }
 
 .main
