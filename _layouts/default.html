@@ -18,7 +18,7 @@
     <!--<div id="header_wrap" class="outer">-->
     <div class = "headerWrap">
         <header class="inner">
-          {% if site.github.is_project_page %}
+          <!-- {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
 
@@ -34,7 +34,7 @@
                   <a href="{{ button.url }}" style = "color: black;"><strong>{{ button.title }}</strong></a>
                </div>
              {% endfor %}
-          </div>
+          </div> -->
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -43,7 +43,7 @@
             </section>
           {% endif %}
         </header>
-        <!-- TODOOOOOO -->
+        <!-- TODOOOOOO
         <div class = "headerBackgroundContainer">
           <label for = "Backgrounds"> Backgrounds: </label>
           <select name="name" id="Backgrounds" class = "headerBackgroundButtons">
@@ -54,14 +54,14 @@
                   <input type="image" id = "input" oninput=script>
                 </option> 
 
-                  <!-- <img src="{{button.img}}">
+                   <img src="{{button.img}}">
                   <a href="{{ button.url }}" style = "color: black;"><strong>{{ button.title }}</strong></a> -->
                   <!-- <script src="/assets/JS/script.js"></script>
                   <button data-image="{{button.img}}"><strong>{{button.title}}</strong></button> -->
-               </div>
+               <!-- </div>
           {% endfor %}       
           </select>
-        </div>
+        </div> --> 
     </div>
 
     <!-- MAIN CONTENT -->
@@ -72,15 +72,16 @@
     </div>
 
     <!-- FOOTER  -->
-     <!--
+     
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% if site.github.is_project_page %}
+        
+        <!-- {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
       </footer>
     </div>
-  -->
+
   </body>
 </html>
