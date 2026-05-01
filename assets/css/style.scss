@@ -123,6 +123,8 @@
 
 #startMenu
 {
+    width: 300px;
+    height: 500px;
     display: block;
     //flex-direction: column;
     //justify-content: flex-start;
@@ -134,8 +136,6 @@
     background: #c3c3c3;
     border: 2px outset #fff;
 
-    // bottom: 500;
-    // left: 0;    
     z-index: 1;
 
     // background-color: #c3c3c3;
