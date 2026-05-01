@@ -116,7 +116,7 @@
     flex-direction: column;
     justify-content: flex-start;
 
-    bottom: 5;
+    bottom: 500;
     left: 0;    
     z-index: 1;
 
@@ -129,7 +129,7 @@
 
 .hidden
 {
-    display: none;
+    display: none !important; //sorry lol
 }
 
 .main
