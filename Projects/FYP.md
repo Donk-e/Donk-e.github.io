@@ -23,11 +23,11 @@ title: Final Year Project
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
             <div style="display: flex; flex-direction: row; margin:1%">
-                <iframe width="960" height="540" 
+                <iframe width="768" height="432" 
                     src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&mute=1&loop=1"
                     title = "UI Demo Video" style = "padding:0.5%">
                 </iframe>
-                <iframe width="960" height="540" 
+                <iframe width="768" height="432" 
                     src = "https://www.youtube.com/embed/FYDgmq2L4mM?autoplay=1&mute=1&loop=1"
                     title = "Arduino Demo Video" style = "padding:0.5%">
                 </iframe>
