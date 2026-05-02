@@ -16,9 +16,9 @@ title: Final Year Project
                 <p><strong>RFID Enhanced Gameplay</strong></p>
             </div>
         </div>
-         <div class = "windowContainer">
+         <div class = "windowContainer" style="display: flex; flex-direction: row; padding: 2%; ">
             <div class = "textHeading">
-                <img src="/assets/Icons/Windows/star.png">
+                <img src="/assets/Icons/Windows/screen.png">
                 <p><strong>Gameplay Videos</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
@@ -43,7 +43,7 @@ title: Final Year Project
             </div>
             <div class = "windowContainer" style = "width: 200%">
                 <div class= "textHeading">
-                    <img src="/assets/Icons/Windows/star.png">
+                    <img src="/assets/Icons/Windows/notepad.png">
                     <p><strong>Skills Used</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
