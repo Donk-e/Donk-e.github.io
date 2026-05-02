@@ -16,20 +16,22 @@ title: Final Year Project
                 <p><strong>RFID Enhanced Gameplay</strong></p>
             </div>
         </div>
-         <div class = "windowContainer" style="display: flex; flex-direction: row; padding: 2%; ">
+         <div class = "windowContainer">
             <div class = "textHeading">
                 <img src="/assets/Icons/Windows/screen.png">
                 <p><strong>Gameplay Videos</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
-            <iframe width="960" height="540" 
-                src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&mute=1&loop=1"
-                title = "UI Demo Video">
-            </iframe>
-            <iframe width="960" height="540" 
-                src = "https://www.youtube.com/embed/FYDgmq2L4mM?autoplay=1&mute=1&loop=1"
-                title = "Arduino Demo Video">
-            </iframe>
+            <div style="display: flex; flex-direction: row; padding: 2%; ">
+                <iframe width="960" height="540" 
+                    src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&mute=1&loop=1"
+                    title = "UI Demo Video">
+                </iframe>
+                <iframe width="960" height="540" 
+                    src = "https://www.youtube.com/embed/FYDgmq2L4mM?autoplay=1&mute=1&loop=1"
+                    title = "Arduino Demo Video">
+                </iframe>
+            </div>
         </div>
         <div class = "flexRow">
             <div class = "windowContainer">
