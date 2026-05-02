@@ -22,14 +22,14 @@ title: Final Year Project
                 <p><strong>Gameplay Videos</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
-            <div style="display: flex; flex-direction: row; padding-left: 5%; padding-right: 5%">
+            <div style="display: flex; flex-direction: row; margin:1%">
                 <iframe width="640" height="360" 
                     src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&mute=1&loop=1"
-                    title = "UI Demo Video">
+                    title = "UI Demo Video" style = "padding:2%">
                 </iframe>
                 <iframe width="640" height="360" 
                     src = "https://www.youtube.com/embed/FYDgmq2L4mM?autoplay=1&mute=1&loop=1"
-                    title = "Arduino Demo Video">
+                    title = "Arduino Demo Video" style = "padding:2%">
                 </iframe>
             </div>
         </div>
