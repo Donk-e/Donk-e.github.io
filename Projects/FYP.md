@@ -25,11 +25,11 @@ title: Final Year Project
             <div style="display: flex; flex-direction: row; margin:1%">
                 <iframe width="960" height="540" 
                     src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&mute=1&loop=1"
-                    title = "UI Demo Video" style = "padding:2%">
+                    title = "UI Demo Video" style = "padding:0.5%">
                 </iframe>
                 <iframe width="960" height="540" 
                     src = "https://www.youtube.com/embed/FYDgmq2L4mM?autoplay=1&mute=1&loop=1"
-                    title = "Arduino Demo Video" style = "padding:2%">
+                    title = "Arduino Demo Video" style = "padding:0.5%">
                 </iframe>
             </div>
         </div>
