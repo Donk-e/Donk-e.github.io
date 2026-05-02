@@ -19,12 +19,16 @@ title: Final Year Project
          <div class = "windowContainer">
             <div class = "textHeading">
                 <img src="/assets/Icons/Windows/star.png">
-                <p><strong>Gameplay Video</strong></p>
+                <p><strong>Gameplay Videos</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
             <iframe width="960" height="540" 
                 src = "https://www.youtube.com/embed/BrVP-3Zlm7s?autoplay=1&mute=1&loop=1"
                 title = "UI Demo Video">
+            </iframe>
+            <iframe width="960" height="540" 
+                src = "https://www.youtube.com/embed/FYDgmq2L4mM?autoplay=1&mute=1&loop=1"
+                title = "Arduino Demo Video">
             </iframe>
         </div>
         <div class = "flexRow">
