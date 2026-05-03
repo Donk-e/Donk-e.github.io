@@ -74,7 +74,7 @@ title: Portfolio
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
-                        <a href = "/Projects/FYP.html">
+                        <a href = "/Projects/MMP.html">
                         <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
                         <div class ="textOverlay">
