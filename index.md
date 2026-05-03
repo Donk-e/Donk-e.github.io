@@ -65,7 +65,7 @@ title: Portfolio
         <div class = "projectsWrapper"> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
-                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "FYP Project - RFID">  
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Final Year Project</strong></p>
@@ -116,7 +116,7 @@ title: Portfolio
             left: highlights.clientWidth * index,
             behavior: "smooth"
         });
-        }, 3000); // change slide every 3 seconds
+        }, 1000); // change every second (1000 = 1 second)
     </script>
     </body>
 </html>
