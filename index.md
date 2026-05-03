@@ -116,7 +116,7 @@ title: Portfolio
             left: highlights.clientWidth * index,
             behavior: "smooth"
         });
-        }, 1000); // change every second (1000 = 1 second)
+        }, 3000); // change every 3 seconds (1000 = 1 second)
     </script>
     </body>
 </html>
