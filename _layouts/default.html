@@ -157,6 +157,12 @@
         console.error("startButton not found");
       }
 
+      //start menu
+      btn.addEventListener("click", (e) => {
+      e.stopPropagation(); 
+      menu.classList.toggle("hidden");
+      });
+
       document.querySelectorAll(".hasSubMenu").forEach(menuItem => {
       menuItem.addEventListener("click", (e) => {
       e.stopPropagation();
@@ -180,11 +186,7 @@
       });
 
       //old
-    //   //start menu
-    //   btn.addEventListener("click", (e) => {
-    //   e.stopPropagation(); 
-    //   menu.classList.toggle("hidden");
-    //   });
+
 
     //   // Toggle submenu
     //   projects.addEventListener("click", (e) => {
