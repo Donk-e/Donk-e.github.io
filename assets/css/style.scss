@@ -167,22 +167,6 @@
     display: none;
 }
 
-.subMenuButtons
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    vertical-align: middle;
-    align-items: center;
-    justify-self: right;
-    color: black;
-    font-weight: 600;
-}
-
-.subMenuButton img{
-    vertical-align: middle;
-}
-
 .hasSubMenu.open  .subMenu {
     display: flex;
     flex-direction: column;
@@ -236,6 +220,7 @@
     justify-self: right;
     color: black;
     font-weight: 600;
+    width: 100%;
 }
 
 .menuButton img{
