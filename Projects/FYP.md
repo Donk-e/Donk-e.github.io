@@ -41,7 +41,8 @@ title: Final Year Project
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>For my final year project at uni I chose to look into the mechanic featured in games the Skylanders series and used in Amiibo + Disnery Infinity. I researched the difference in player experience between players who used the physical scanning mechanic and those that used UI.</p>
-                <p>I had a lot of fun working on this project and I'm really glad I chose the area of research that I did. I got to research some really interesting papers on different types and ways to use controllers </p>
+                <p>It achieves the scanning mechanic by using an Arduino to read NFC tags on the physical models.</p>
+                <p>I had a lot of fun working on this project and I'm really glad I chose the area of research that I did. I got to research some really interesting papers on different types and ways to use controllers. </p>
             </div>
             <div class = "windowContainer" style = "width: 200%">
                 <div class= "textHeading">
