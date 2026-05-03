@@ -153,17 +153,35 @@
 .subMenu 
 {
   position: absolute;
-  left: 100%;
+  left: 150%;
   top: 0;
   width: 180px;
   background: #c0c0c0;
-  border: 2px solid #fff;
-  box-shadow: 2px 2px 0 #000;
+  //border: 2px solid #fff;
+  //box-shadow: 2px 2px 0 #000;
   display: none;
+}
+
+.subMenuButtons
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    vertical-align: middle;
+    align-items: center;
+    justify-self: right;
+    color: black;
+    font-weight: 600;
+}
+
+.subMenuButton img{
+    vertical-align: middle;
 }
 
 .hasSubMenu.open  .subMenu {
   display: block;
+  background-color: #000082;
+  color: white;
 }
 
 #projectsMenu{
