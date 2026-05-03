@@ -147,7 +147,7 @@
 
 .hasSubMenu
 {
-      position: relative;
+    position: relative;
 }
 
 .subMenu 
@@ -162,7 +162,7 @@
   display: none;
 }
 
-.has-subMenu.open > .subMenu {
+.has-subMenu.open  .subMenu {
   display: block;
 }
 
