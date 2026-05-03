@@ -149,6 +149,10 @@
 {
     position: relative;
 }
+.hasSubMenu:hover > .subMenu
+{
+    display: block;
+}
 .hasSubMenu.open {
     background: #000082;
     color: white;

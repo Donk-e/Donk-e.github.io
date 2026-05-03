@@ -97,9 +97,16 @@
 
                     <!-- Projects Sub Menu -->
                     <div class="subMenu">
-                      <div class="menuButton">
+                      <div class="menuButton hasSubMenu">
                         <img src="/assets/Icons/Windows/folder.png">
                         <span>Unity</span>
+                        <img src="/assets/Icons/Windows/arrow.png" style="width: 10px; height: 10px;">
+                        <div class="subMenu">
+                          <div class="menuButton">
+                            <img src="/assets/Icons/Windows/screen.png">
+                            <span>Final Year Project</span>
+                          </div>
+                        </div>
                       </div>
                       <div class="menuButton">
                         <img src="/assets/Icons/Windows/folder.png">
@@ -129,13 +136,6 @@
                   </div>
                 </div>
               </div>
-            <!-- <div id="projectsMenu" class="hidden">
-              <div style="display: flex; flex-direction: row;">
-                <div style="display: flex; flex-direction: column;">
-                  <div class = "menuButton" style = "color: black;"><a href="/index.html"><img src="/assets/Icons/Windows/screen.png">Unity</a></div>
-                </div>
-              </div>
-          </div> -->
           </div>
         </div>
         <!-- {% if site.github.is_project_page %}
@@ -149,8 +149,6 @@
       const btn = document.getElementById("startButton");
       const menu = document.getElementById("startMenu");
       const projects = document.getElementById("projects");
-      //const projectsBtn = document.getElementById("projectsButton");
-      //const projectsMenu = document.getElementById("startMenu");
 
       console.log("btn:", btn);
       console.log("projects btn:", projects);
@@ -159,48 +157,51 @@
         console.error("startButton not found");
       }
 
-      //start menu
+      document.querySelectorAll(".hasSubMenu").forEach(menuItem => {
+      menuItem.addEventListener("click", (e) => {
+      e.stopPropagation();
 
-      btn.addEventListener("click", (e) => {
-      e.stopPropagation(); 
-      menu.classList.toggle("hidden");
+      // Close sibling submenus
+      const siblings = menuItem.parentElement.querySelectorAll(".hasSubMenu");
+      siblings.forEach(sib => {
+        if (sib !== menuItem) sib.classList.remove("open");
       });
 
-      // Toggle submenu
-      projects.addEventListener("click", (e) => {
-        e.stopPropagation();
-        projects.classList.toggle("open");
+      // Toggle this one
+      menuItem.classList.toggle("open");
+        });
       });
 
-      // Prevent clicks inside menu from closing it
-      menu.addEventListener("click", (e) => {
-        e.stopPropagation();
-      });
-
-    // Close everything when clicking outside
+      //close when clicking outside
       document.addEventListener("click", () => {
-        menu.classList.add("hidden");
-        projects.classList.remove("open");
+      document.querySelectorAll(".hasSubMenu").forEach(item => {
+          item.classList.remove("open");
+        });
       });
 
-      // document.addEventListener("click", (e) => {
-      // if (!menu.classList.contains("hidden") && !btn.contains(e.target) && !menu.contains(e.target)) 
-      // {menu.classList.add("hidden");}
-      // });
+      //old
+    //   //start menu
+    //   btn.addEventListener("click", (e) => {
+    //   e.stopPropagation(); 
+    //   menu.classList.toggle("hidden");
+    //   });
 
-      // //projects
-      // projectsBtn.addEventListener("click", (e) => {
-      // e.stopPropagation(); 
-      // projectsMenu.classList.toggle("hidden");
-      // });
+    //   // Toggle submenu
+    //   projects.addEventListener("click", (e) => {
+    //     e.stopPropagation();
+    //     projects.classList.toggle("open");
+    //   });
 
-      // document.addEventListener("click", (e) => {
-      // if (!projectsMenu.classList.contains("hidden") && !projectsBtn.contains(e.target) && !projectsMenu.contains(e.target)) 
-      // {projectsMenu.classList.add("hidden");}
-      // });
+    //   // Prevent clicks inside menu from closing it
+    //   menu.addEventListener("click", (e) => {
+    //     e.stopPropagation();
+    //   });
 
-
-
+    // // Close everything when clicking outside
+    //   document.addEventListener("click", () => {
+    //     menu.classList.add("hidden");
+    //     projects.classList.remove("open");
+    //   });  
       
     </script> 
   </body>
