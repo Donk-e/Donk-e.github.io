@@ -419,11 +419,6 @@ a,img
     font-size: 140%;
 }
 
-// .imgWindowContainer img
-// {
-//     object-fit: fill;
-// }
-
 .textHeading
 {
     display: flex;
@@ -541,9 +536,11 @@ a,img
     align-self: center;
     justify-content: space-evenly;
     justify-self: center;
-    margin: 3%;
+    //margin: 3%;
+    right: 1;
+    left: 1;
 
-    width: 80%;
+    width: 100%;
 }
 
 .iconButton
