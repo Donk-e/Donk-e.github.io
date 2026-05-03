@@ -54,7 +54,8 @@ title: Final Year Project
                         <li>Unity</li>
                         <li>C#</li>
                         <li>Arduino wiring</li>            
-                        <li>Serial communication in Unity</li>            
+                        <li>Serial communication in Unity</li>    
+                        <li>Unity's UI Toolkit</li>        
                     </ul>
                     <ul>
                         <li>Presenting in person and online</li>  
@@ -83,7 +84,7 @@ title: Final Year Project
                     <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width = 5500px; height: 650px">
             </div>
         </div>  <div class = "flexRow">
-            <div class = "imgWindowContainer">
+            <div class = "windowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/screen.png">
                     <p><strong>Early Arduino Demo Video</strong></p>
