@@ -179,11 +179,11 @@
       // });
 
       //close when clicking outside
-      document.addEventListener("click", () => {
-      document.querySelectorAll(".hasSubMenu").forEach(item => {
-          item.classList.remove("open");
-        });
-      });
+      // document.addEventListener("click", () => {
+      // document.querySelectorAll(".hasSubMenu").forEach(item => {
+      //     item.classList.remove("open");
+      //   });
+      // });
 
       //old
 
@@ -199,11 +199,11 @@
     //     e.stopPropagation();
     //   });
 
-    // // Close everything when clicking outside
-    //   document.addEventListener("click", () => {
-    //     menu.classList.add("hidden");
-    //     projects.classList.remove("open");
-    //   });  
+    // Close everything when clicking outside
+      document.addEventListener("click", () => {
+        menu.classList.add("hidden");
+        projects.classList.remove("open");
+      });  
       
     </script> 
   </body>
