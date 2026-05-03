@@ -163,20 +163,20 @@
       menu.classList.toggle("hidden");
       });
 
-      // document.querySelectorAll(".hasSubMenu").forEach(menuItem => {
-      // menuItem.addEventListener("click", (e) => {
-      // e.stopPropagation();
+      document.querySelectorAll(".hasSubMenu").forEach(menuItem => {
+      menuItem.addEventListener("click", (e) => {
+      e.stopPropagation();
 
-      // // Close sibling submenus
-      // const siblings = menuItem.parentElement.querySelectorAll(".hasSubMenu");
-      // siblings.forEach(sib => {
-      //   if (sib !== menuItem) sib.classList.remove("open");
-      // });
+      // Close sibling submenus
+      const siblings = menuItem.parentElement.querySelectorAll(".hasSubMenu");
+      siblings.forEach(sib => {
+        if (sib !== menuItem) sib.classList.remove("open");
+      });
 
-      // // Toggle this one
-      // menuItem.classList.toggle("open");
-      //   });
-      // });
+      // Toggle this one
+      menuItem.classList.toggle("open");
+        });
+      });
 
       //close when clicking outside
       document.addEventListener("click", () => {
