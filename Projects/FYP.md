@@ -76,7 +76,7 @@ title: Final Year Project
             </div>            
             <div class = "imgWindowContainer"  >
                 <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/star.png">
+                    <img src="/assets/Icons/Windows/screen.png">
                     <p><strong>NFC Tags On Dragon Models</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
@@ -85,7 +85,7 @@ title: Final Year Project
         </div>  <div class = "flexRow">
             <div class = "imgWindowContainer">
                 <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/star.png">
+                    <img src="/assets/Icons/Windows/screen.png">
                     <p><strong>Early Arduino Demo Video</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
