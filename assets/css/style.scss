@@ -149,17 +149,24 @@
 {
     position: relative;
 }
+.hasSubMenu.open {
+  background: #000082;
+  color: white;
+}
 
 .subMenu 
 {
   position: absolute;
-  left: 150%;
+  //left: 150%;
   top: 0;
   width: 180px;
   background: #c0c0c0;
   //border: 2px solid #fff;
   //box-shadow: 2px 2px 0 #000;
-  display: none;
+  //display: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .subMenuButtons
@@ -180,8 +187,6 @@
 
 .hasSubMenu.open  .subMenu {
   display: block;
-  background-color: #000082;
-  color: white;
 }
 
 #projectsMenu{
