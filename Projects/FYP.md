@@ -68,7 +68,7 @@ title: Final Year Project
             <div class = "windowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
-                    <p><strong>Physical Scanning Mechanic</strong></p>
+                    <p><strong>NFC Tags</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
@@ -77,7 +77,7 @@ title: Final Year Project
             <div class = "imgWindowContainer"  >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
-                    <p><strong>Arduino</strong></p>
+                    <p><strong>NFC Tags On Dragon Models</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                     <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width = 400px; height: 500px">
@@ -86,7 +86,7 @@ title: Final Year Project
             <div class = "imgWindowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
-                    <p><strong>Arduino</strong></p>
+                    <p><strong>Early Arduino Demo Video</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <iframe width="768" height="432" 
