@@ -80,7 +80,7 @@ title: Final Year Project
                     <p><strong>NFC Tags On Dragon Models</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width = 400px; height: 500px">
+                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width = 5500px; height: 650px">
             </div>
         </div>  <div class = "flexRow">
             <div class = "imgWindowContainer">
