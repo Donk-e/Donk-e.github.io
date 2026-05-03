@@ -74,13 +74,13 @@ title: Final Year Project
                 <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
                 <p>To get these tags I broke open NFC tags from online (see the blue tags in the below video) to get to the circuit inside then glued it to the bottom so it wouldn't be too bulky to use, to protect the circuit I added clear silicone bumpers so the models would still sit flat.</p>
             </div>            
-            <div class = "imgWindowContainer"  style = "width = 300px; height: 400px">
+            <div class = "imgWindowContainer"  >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
                     <p><strong>Arduino</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title">
+                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width = 300px; height: 400px">
             </div>
         </div>  <div class = "flexRow">
             <div class = "imgWindowContainer">
