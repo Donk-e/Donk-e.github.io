@@ -157,16 +157,13 @@
 .subMenu 
 {
   position: absolute;
-  //left: 150%;
+  left: 100%;
   top: 0;
   width: 180px;
   background: #c0c0c0;
   //border: 2px solid #fff;
   //box-shadow: 2px 2px 0 #000;
   display: none;
-  //display: flex;
-  //flex-direction: column;
-  justify-content: start;
 }
 
 .subMenuButtons
@@ -186,7 +183,9 @@
 }
 
 .hasSubMenu.open  .subMenu {
-  display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
 }
 
 #projectsMenu{
