@@ -77,7 +77,7 @@ title: Final Year Project
             <div class = "imgWindowContainer"  >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/screen.png">
-                    <p><strong>NFC Tags On Dragon Models</strong></p>
+                    <p><strong>NFC Tags On Models</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                     <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width = 5500px; height: 650px">
@@ -91,10 +91,10 @@ title: Final Year Project
                 </div>
                 <iframe width="768" height="432" 
                     src = "https://www.youtube.com/embed/TSft-yZoGeU?autoplay=1&mute=1&loop=1"
-                    title = "Early Arduino Demo Video" style = "padding:0.5%">
+                    title = "Early Arduino Demo Video" style = "padding:0.5%; margin:1%">
                 </iframe>
             </div>
-            <div class = "windowContainer">
+            <div class = "windowContainer" >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
                     <p><strong>Physical Scanning Mechanic</strong></p>

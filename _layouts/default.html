@@ -138,16 +138,6 @@
         console.error("startButton not found");
       }
 
-      btn.addEventListener("click", (e) => {
-      e.stopPropagation(); 
-      menu.classList.toggle("hidden");
-      });
-
-      document.addEventListener("click", (e) => {
-      if (!menu.classList.contains("hidden") && !btn.contains(e.target) && !menu.contains(e.target)) 
-      {menu.classList.add("hidden");}
-      });
-
       //projects
       projectsBtn.addEventListener("click", (e) => {
       e.stopPropagation(); 
@@ -158,6 +148,20 @@
       if (!projectsMenu.classList.contains("hidden") && !projectsBtn.contains(e.target) && !projectsMenu.contains(e.target)) 
       {projectsMenu.classList.add("hidden");}
       });
+
+      //start menu
+
+      btn.addEventListener("click", (e) => {
+      e.stopPropagation(); 
+      menu.classList.toggle("hidden");
+      });
+
+      document.addEventListener("click", (e) => {
+      if (!menu.classList.contains("hidden") && !btn.contains(e.target) && !menu.contains(e.target)) 
+      {menu.classList.add("hidden");}
+      });
+
+      
     </script> 
   </body>
 </html>
