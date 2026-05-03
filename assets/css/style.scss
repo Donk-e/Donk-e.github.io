@@ -145,6 +145,27 @@
     z-index: 1;
 }
 
+.hasSubMenu
+{
+      position: relative;
+}
+
+.subMenu 
+{
+  position: absolute;
+  left: 100%;
+  top: 0;
+  width: 180px;
+  background: #c0c0c0;
+  border: 2px solid #fff;
+  box-shadow: 2px 2px 0 #000;
+  display: none;
+}
+
+.has-subMenu.open > .subMenu {
+  display: block;
+}
+
 #projectsMenu{
 
     width: 200px;
