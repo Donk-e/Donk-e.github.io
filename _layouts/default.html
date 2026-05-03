@@ -163,27 +163,27 @@
       menu.classList.toggle("hidden");
       });
 
-      document.querySelectorAll(".hasSubMenu").forEach(menuItem => {
-      menuItem.addEventListener("click", (e) => {
-      e.stopPropagation();
+      // document.querySelectorAll(".hasSubMenu").forEach(menuItem => {
+      // menuItem.addEventListener("click", (e) => {
+      // e.stopPropagation();
 
-      // Close sibling submenus
-      const siblings = menuItem.parentElement.querySelectorAll(".hasSubMenu");
-      siblings.forEach(sib => {
-        if (sib !== menuItem) sib.classList.remove("open");
-      });
+      // // Close sibling submenus
+      // const siblings = menuItem.parentElement.querySelectorAll(".hasSubMenu");
+      // siblings.forEach(sib => {
+      //   if (sib !== menuItem) sib.classList.remove("open");
+      // });
 
-      // Toggle this one
-      menuItem.classList.toggle("open");
-        });
-      });
+      // // Toggle this one
+      // menuItem.classList.toggle("open");
+      //   });
+      // });
 
-      //close when clicking outside
-      document.addEventListener("click", () => {
-      document.querySelectorAll(".hasSubMenu").forEach(item => {
-          item.classList.remove("open");
-        });
-      });
+      // //close when clicking outside
+      // document.addEventListener("click", () => {
+      // document.querySelectorAll(".hasSubMenu").forEach(item => {
+      //     item.classList.remove("open");
+      //   });
+      // });
 
       //old
 
@@ -200,10 +200,10 @@
     //   });
 
     // Close everything when clicking outside
-      // document.addEventListener("click", () => {
-      //   menu.classList.add("hidden");
-      //   projects.classList.remove("open");
-      // });  
+      document.addEventListener("click", () => {
+        menu.classList.add("hidden");
+        projects.classList.remove("open");
+      });  
       
     </script> 
   </body>
