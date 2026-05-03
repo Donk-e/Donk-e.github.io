@@ -360,13 +360,14 @@ a,img
     border-color: black;
     border-width: 20px;
     background: #c3c3c3;
+    scroll-behavior: smooth;
 }
 
 .highlightReel img
 {
     border-color: black;
     border-width: 5px;
-    //border
+    overflow-x: hidden;
 }
 
 .highlightReel img:hover

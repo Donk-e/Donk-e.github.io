@@ -14,7 +14,7 @@ title: Portfolio
             <p><strong>Project Highlights</strong></p>
             <img src = "/assets/Icons/Windows/close.png" style = "margin-left:auto;">
         </div>
-        <div class= "highlightReel">
+        <div class= "highlightReel" id = "highlightReel">
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
@@ -103,5 +103,20 @@ title: Portfolio
             </div>
         </div>
     </div>
+    <!-- HighLightReel Carsousel Script -->
+    <script>
+        const highlights = document.getElementById("highlightReel");
+        let index = 0;
+        setInterval(() => {
+        index++;
+        if (index >= highlights.children.length) {
+            index = 0;
+        }
+        highlights.scrollTo({
+            left: highlights.clientWidth * index,
+            behavior: "smooth"
+        });
+        }, 3000); // change slide every 3 seconds
+    </script>
     </body>
 </html>
