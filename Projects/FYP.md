@@ -36,7 +36,7 @@ title: Final Year Project
         <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/star.png">
+                    <img src="/assets/Icons/Windows/notepad.png">
                     <p><strong>Project Overview</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
@@ -46,7 +46,7 @@ title: Final Year Project
             </div>
             <div class = "windowContainer" style = "width: 200%">
                 <div class= "textHeading">
-                    <img src="/assets/Icons/Windows/notepad.png">
+                    <img src="/assets/Icons/Windows/star.png">
                     <p><strong>Skills Used</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
@@ -69,7 +69,7 @@ title: Final Year Project
         <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/star.png">
+                    <img src="/assets/Icons/Windows/notepad.png">
                     <p><strong>NFC Tags</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
@@ -98,7 +98,7 @@ title: Final Year Project
             </div>
             <div class = "windowContainer" >
                 <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/star.png">
+                    <img src="/assets/Icons/Windows/notepad.png">
                     <p><strong>Physical Scanning Mechanic</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
