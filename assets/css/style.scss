@@ -372,13 +372,13 @@ a,img
     border-width: 20px;
     background: #c3c3c3;
     scroll-behavior: smooth;
+    overflow-y: hidden;
 }
 
 .highlightReel img
 {
     border-color: black;
     border-width: 5px;
-    overflow-y: hidden;
     max-height: 350px;
 }
 
