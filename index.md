@@ -15,7 +15,7 @@ title: Portfolio
             <img src = "/assets/Icons/Windows/close.png" style = "margin-left:auto;">
         </div>
         <div class= "highlightReel" id = "highlightReel">
-            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+            <a href = "/Projects/FYP.html"><img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "RFID Enhanced Gameplay"></a>
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
             <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
