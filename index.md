@@ -16,7 +16,7 @@ title: Portfolio
         </div>
         <div class= "highlightReel" id = "highlightReel">
             <a href = "/Projects/FYP.html"><img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "RFID Enhanced Gameplay"></a>
-            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+            <a href = "/Projects/MMP.html"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
             <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
         </div>
@@ -75,7 +75,7 @@ title: Portfolio
                     </div> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/MMP.html">
-                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+                        <img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer">  
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Unity Multiplayer</strong></p>
