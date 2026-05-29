@@ -83,11 +83,12 @@ title: Portfolio
                         </div>                                 
                     </div>                              
                     <div class = "individualProjects">    
-                        <a href = "/Projects/FYP.html">
-                            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+                        <a href = "/Projects/Frogger.html">
+                            <img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++">  
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>C++ Frogger</strong></p>
+                            <img src ="/assets/Icons/SFML.png">
                             <img src ="/assets/Icons/C++.png">
                         </div>                                 
                     </div> 
