@@ -87,8 +87,8 @@ title: Portfolio
                             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
                         </a>          
                         <div class ="textOverlay">
-                            <p><strong>Accessibility Game Jam</strong></p>
-                            <img src ="/assets/Icons/Unity.png">
+                            <p><strong>C++ Frogger</strong></p>
+                            <img src ="/assets/Icons/C++.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
