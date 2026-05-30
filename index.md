@@ -18,7 +18,7 @@ title: Portfolio
             <a href = "/Projects/FYP.html"><img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID"></a>
             <a href = "/Projects/MMP.html"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
             <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++"></a>
-            <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+            <img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Prject">  
         </div>
     </div>
     <div class = "textBlock">
@@ -94,10 +94,10 @@ title: Portfolio
                     </div> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
-                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
+                        <img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Prject">
                         </a>          
                         <div class ="textOverlay">
-                            <p><strong>Personal Tower Defence Project</strong></p>
+                            <p><strong>Tower Of Fools (Group Project)</strong></p>
                             <img src ="/assets/Icons/Unity.png">
                         </div>                                 
                     </div> 
