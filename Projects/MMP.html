@@ -72,10 +72,10 @@ title: Unity Multiplayer
             <div class = "imgWindowContainer"  >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/screen.png">
-                    <p><strong>NFC Tags On Models</strong></p>
+                    <p><strong>Game Scene</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width = 5500px; height: 650px">
+                    <img src="/assets/Images/Unity/MMp/Scene.png" title = "Game Scene"> <!-- style = "width: 500px; height: 650px"> -->
             </div>
         </div>  <div class = "flexRow">
             <div class = "windowContainer">
@@ -92,11 +92,9 @@ title: Unity Multiplayer
             <div class = "windowContainer" >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/notepad.png">
-                    <p><strong>Physical Scanning Mechanic</strong></p>
+                    <p><strong>Design Choices</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <p>This is an early demo of the mechanic, by default the RC522 only sends messages when it reads an appropriate tag (the RC522 can not read ultra lightweight NFC tags such as the NFC stickers found online, this is because they do not have enough space to store unique IDs). </p>
-                <p>When a tag is read it sends the string to a serial port reader running in Unity which initialises the port on Start and processes the read data, if the string matches the ID expected for any of the three dragons it passes event with the dragons type to a seperate script which is running on Unity's main thread where it invokes the event. </p>
                 <p>This is because Unity is single threaded and the Arduino reading script is running on a different thread and Unity prevents changes to be made outside of the main thread. </p>
             </div>         
         </div> 
