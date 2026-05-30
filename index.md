@@ -15,7 +15,7 @@ title: Portfolio
             <img src = "/assets/Icons/Windows/close.png" style = "margin-left:auto;">
         </div>
         <div class= "highlightReel" id = "highlightReel">
-            <a href = "/Projects/FYP.html"><img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "RFID Enhanced Gameplay"></a>
+            <a href = "/Projects/FYP.html"><img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID"></a>
             <a href = "/Projects/MMP.html"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
             <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "test title">  
@@ -65,7 +65,7 @@ title: Portfolio
         <div class = "projectsWrapper"> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
-                        <img src="/assets/Images/Unity/FYP/DragonModelsPainted.jpg" alt= "Dragon Models" title = "FYP Project - RFID">  
+                        <img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID">  
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Final Year Project</strong></p>
