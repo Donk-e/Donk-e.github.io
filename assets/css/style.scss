@@ -436,10 +436,7 @@ a,img
 
 .textHeading img
 {
-    //transform: scale(0.5);
     height: 45px;
-    //margin-left: 3%;
-    //margin-right: 3%;
     align-self: center;
     vertical-align: middle;
 }
@@ -447,17 +444,12 @@ a,img
 .textSection
 {
     background: #c3c3c3;
-   // background: #BE8160;
-
-    //color: #EFF1F3;
     color: black;
     text-align: left;
     width:65%;
     height: 80%; 
     font-size: 140%;
-    //margin: 2%;
     padding: 10px;
-    //border-radius: 8%;
 }
 
 .roundedImg
@@ -485,7 +477,6 @@ a,img
     justify-content: space-evenly;
     align-items: center;
     background: #c3c3c3;
-    //width: 90%;
 }
 
 .projectsWrapper img:hover

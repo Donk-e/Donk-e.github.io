@@ -96,7 +96,7 @@ title: Portfolio
                         <a href = "/Projects/FYP.html">
                         <img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Prject">
                         </a>          
-                        <div class ="textOverlay">
+                        <div class ="textOverlay" style = "font-size:200%">
                             <p><strong>Tower Of Fools (Group Project)</strong></p>
                             <img src ="/assets/Icons/Unity.png">
                         </div>                                 
