@@ -333,7 +333,7 @@ a,img
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin: 5%;
+    //margin: 5%;
 }
 
 /*#region HomePage*/
@@ -387,6 +387,7 @@ a,img
     text-align: left;
     height: 50%;
     font-size: 140%;
+    margin: 5px;
 }
 
 .imgWindowContainer
