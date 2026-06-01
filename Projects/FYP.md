@@ -33,6 +33,14 @@ title: Final Year Project
                 </iframe>
             </div>
         </div>
+        <div class = "windowContainer">
+            <div class = "textHeading">
+                <img src="/assets/Icons/Windows/star.png">
+                <p><strong>Dragon Models</strong></p>
+                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+            </div>
+            <img src = "/assets/Images/Unity/Fyp/DragonModelsPainted.jpg" title = "The physical dragon models :)">
+        </div>
         <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">
