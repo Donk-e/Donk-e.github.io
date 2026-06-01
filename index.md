@@ -19,6 +19,7 @@ title: Portfolio
             <a href = "/Projects/MMP.html"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
             <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <a href = "/Projects/ToF.html"><img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Prject"></a>
+            <img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map">
         </div>
     </div>
     <div class = "textBlock">
@@ -99,6 +100,16 @@ title: Portfolio
                         <div class ="textOverlay">
                             <p><strong>Tower Of Fools (Group Project)</strong></p>
                             <img src ="/assets/Icons/Unity.png">
+                        </div>                                 
+                    </div> 
+                    <div class = "individualProjects">    
+                        <a href = "/Projects/ToF.html">
+                        <img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map">
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>TF2 Map</strong></p>
+                            <img src ="/assets/Icons/Hammer.png">
+                            <img src ="/assets/Icons/Steam.png">
                         </div>                                 
                     </div> 
             </div>
