@@ -432,6 +432,30 @@ a,img
     padding: 10px;
 }
 
+.stickyNoteHeader
+{
+    display: flex;
+    flex-direction: row;
+    background: rgb(201, 197, 151);
+    align-items: center;
+    justify-content: space-between;
+    vertical-align: middle;
+    height: 30px;
+    padding: 1%; 
+}
+
+.stickyNoteContainer
+{
+    display: flex;
+    background: palegoldenrod;
+    flex-direction: column;
+    padding: 10px;
+    color: black;
+    text-align: left;
+    font-size: 140%;
+    margin: 15px;
+}
+
 .roundedImg
 {
     border-radius: 50%;
