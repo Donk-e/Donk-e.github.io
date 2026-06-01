@@ -108,7 +108,7 @@ title: Portfolio
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>TF2 Map</strong></p>
-                            <img src ="/assets/Icons/Hammer.png">
+                            <img src ="/assets/Icons/Hammer2.png">
                             <img src ="/assets/Icons/Steam.png">
                         </div>                                 
                     </div> 
