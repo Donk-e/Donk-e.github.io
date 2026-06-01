@@ -441,7 +441,7 @@ a,img
     justify-content: space-between;
     vertical-align: middle;
     height: 30px;
-    padding: 1%; 
+    //padding: 1%; 
 }
 
 .stickyNoteContainer
@@ -454,6 +454,7 @@ a,img
     text-align: left;
     font-size: 140%;
     margin: 15px;
+    height: 0%;
 }
 
 .roundedImg
