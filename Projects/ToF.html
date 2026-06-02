@@ -44,11 +44,16 @@ title: ToF
                     <p><strong>Project Overview</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <p>The University of Staffordshire hosts a large collabroative group module between second and third years each year, this project was created as part of that module our team was a size of 25 students all credited on the Itch Page. </p>
-                <p>My role in this project was programming, mainly the player controller and the various pickups, I also created a Technical Design Document for the team and organised an external teacher to playtest our game for feedback.</p>
+                <p>My University (the University of Staffordshire) hosts a large collabroative group module between second and third years each year, this project was created as part of that module our team was a size of 25 students all credited on the Itch Page. </p>
+                <p>My role in this project was programming, mainly the player controller and the various powerups, I also created a Technical Design Document for the team and organised an external teacher to playtest our game for feedback.</p>
                 <br>
                 <p>This was my second group project like this with the Univeristy so I was able enter it with previous experience on how a large group of students work together. 
                     The group chose to create a infite 2.5D local PVP vertical jumper, this was due to our large number of concept artists who could create the 2D assets while keeping the scope small enough for it to be achieveable. </p>
+                <br>
+                <p>
+                    This project was a blast to work on, I got to meet some great game developers each with their own areas of experience and while issues did arise towards the end of the project we establised a much stronger communication 
+                    pipeline.
+                </p>
              </div>
             <div class = "windowContainer" style="width: 125%;">
                 <div class= "textHeading">
@@ -82,43 +87,72 @@ title: ToF
                 <p>As I had never made a TDD that was intended to be used and updated to work with a team so I did research into TDDs from other games and did my best to replicate the structure, 
                     I made sure to also add a section for designers so that there was an easy to find answer for most of the frequently asked questions. </p>
                 <br>
-                <br>
                 <p>
                     I can confidently say that I have learnt a lot from even just making the documentation for this project and further developing how I communicate in a team of this size, as I usually communicate in small programmer groups or small groups when working on Game Jams.
-                    If I were to redo this project 
                 </p>
             </div>            
             <div class = "imgWindowContainer"  >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/screen.png">
-                    <p><strong>NFC Tags On Models</strong></p>
+                    <p><strong>Game Art</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                    <!-- <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width: 5500px; height: 650px"> -->
                     <img src ="/assets/Images/Unity/Collab/ToF.png">
             </div>
-        </div>  <div class = "flexRow">
+        </div>  
+        <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/screen.png">
-                    <p><strong>Early Arduino Demo Video</strong></p>
+                    <p><strong>Gameplay Screenshot</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <iframe width="768" height="432" 
-                    src = "https://www.youtube.com/embed/TSft-yZoGeU?autoplay=1&mute=1&loop=1"
-                    title = "Early Arduino Demo Video" style = "padding:0.5%; margin:1%">
-                </iframe>
+                <img src = "/assets/Images/Unity/Collab/Gameplay1.png">
             </div>
             <div class = "windowContainer" >
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/notepad.png">
-                    <p><strong>Physical Scanning Mechanic</strong></p>
+                    <p><strong>Character Controller</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <p>This is an early demo of the mechanic, by default the RC522 only sends messages when it reads an appropriate tag (the RC522 can not read ultra lightweight NFC tags such as the NFC stickers found online, this is because they do not have enough space to store unique IDs). </p>
-                <p>When a tag is read it sends the string to a serial port reader running in Unity which initialises the port on Start and processes the read data, if the string matches the ID expected for any of the three dragons it passes event with the dragons type to a seperate script which is running on Unity's main thread where it invokes the event. </p>
-                <p>This is because Unity is single threaded and the Arduino reading script is running on a different thread and Unity prevents changes to be made outside of the main thread. </p>
+                <p>
+                    While my responsibilty was working on the powerups the player can interact with I also worked on the player controller as I knew I could get a prototype of it within a couple days of the project starting once the team 
+                    had settled on how they wanted it to work. It is a fairly simple system that utilises Unitys local multiplayer input system to allow both players to be controlled by game controllers at the same time, I had not used this 
+                    system before so it did take slightly longer than expected to get the dual controller input implemented without bugs but the end result ended up being simpler than I expected.
+                </p>
+                <p>
+                    We only had a few designers in our team and most never entered engine so I wanted to make tweaking the player controller as easy as possible for them (as I needed to implement the powerup functionality rather than adjust the player feel), 
+                    I made use of Unitys ToolTips to explain variables and their interactions within the editor so they never needed to go into the code. We also had a Teams channel where I would post system updates and explain how they worked through UML Diagrams, 
+                    I tried to maintain a good communication pipeline between myself and the Lead of the Design team to elaborate on systems or expose new variables that they needed whenever possible.
+                </p>
+                <p>
+                    I also worked closely with our Animation and Art team to get assets for the player in place, as it was the first time that most of them had the opportunity to put their assets into an engine there was a lot of back and forth communication 
+                    so that the textures for models looked how they expected and animations playing correctly. 
+                </p>
+                <br>
+                <p>While I did work on the character controller I was not responsible for the player lives or respawn logic as another team member wanted to implement lives.</p>
             </div>         
+        </div> 
+        <div class = "flexRow">
+            <div class = "windowContainer" >
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Powerups</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p>
+                    After getting the base character movement functionality in and its relevant variables exposed I moved on to implementing the powerups, I was given a couple diagrams on how they should work I got to make a lot of design decisions myself.
+                    Some powerups needed 
+                </p>
+            </div>    
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/screen.png">
+                    <p><strong>Gameplay Screenshot</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <img src = "/assets/Images/Unity/Collab/Gameplay2.png">
+            </div>     
         </div> 
     </div>
     </body>
