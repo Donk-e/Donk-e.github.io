@@ -101,13 +101,23 @@ title: ToF
             </div>
         </div>  
         <div class = "flexRow">
-            <div class = "windowContainer">
-                <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/screen.png">
-                    <p><strong>Gameplay Screenshot</strong></p>
-                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+            <div class = "flexRow" style = "flex-direction: column;">
+                <div class = "windowContainer">
+                    <div class = "textHeading">
+                        <img src="/assets/Icons/Windows/screen.png">
+                        <p><strong>Gameplay Screenshot</strong></p>
+                        <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                    </div>
+                    <img src = "/assets/Images/Unity/Collab/Gameplay1.png">
                 </div>
-                <img src = "/assets/Images/Unity/Collab/Gameplay1.png">
+                <div class = "windowContainer">
+                    <div class = "textHeading">
+                        <img src="/assets/Icons/Windows/screen.png">
+                        <p><strong>UML Diagram</strong></p>
+                        <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                    </div>
+                    <img src = "/assets/Images/Unity/Collab/PlayerUML.png">
+                </div>
             </div>
             <div class = "windowContainer" >
                 <div class = "textHeading">
@@ -141,9 +151,23 @@ title: ToF
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>
-                    After getting the base character movement functionality in and its relevant variables exposed I moved on to implementing the powerups, I was given a couple diagrams on how they should work I got to make a lot of design decisions myself.
-                    Some powerups needed 
+                    After getting the base character movement functionality in and its relevant variables exposed I moved on to implementing the powerups, I was given a couple diagrams on how they should work but I got to make a lot of design decisions myself.
                 </p>
+                <p>List of in-game powerups:</p>
+                <div class = "projectSkills"> 
+                    <ul>
+                        <li>Sprint Boots (boosts player upwards)</li>
+                        <li>Scroll (spawns platform below player)</li>
+                        <li>Player Swap</li>            
+                        <li>Double Jump {scrapped}</li>
+                    </ul>
+                    <ul>
+                        <li>Marbles (stun on hit)</li>
+                        <li>Dagger (stun on hit)</li>
+                        <li>Shield (blocks lava/marbles/dagger once)</li>            
+                        <li>Lucky Card (random powerup)</li>
+                    </ul>
+                </div>
             </div>    
             <div class = "windowContainer">
                 <div class = "textHeading">
