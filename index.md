@@ -132,7 +132,7 @@ title: Portfolio
                         </div>                                 
                     </div> 
             </div>
-        </div>
+        <!-- </div> -->
     </div>
     <!-- HighLightReel Carsousel Script -->
     <script>
