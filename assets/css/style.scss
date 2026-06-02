@@ -429,7 +429,7 @@ a,img
     width:65%;
     height: 80%; 
     font-size: 140%;
-    padding: 10px;
+    padding: 1%;
 }
 
 .stickyNoteHeader
@@ -441,7 +441,7 @@ a,img
     justify-content: space-between;
     vertical-align: middle;
     height: 30px;
-    //padding: -10px; 
+    padding: 10px; 
 }
 
 .stickyNoteContainer
@@ -451,9 +451,11 @@ a,img
     flex-direction: column;
     color: black;
     text-align: left;
+    max-width: 400px;
     font-size: 140%;
     margin: 15px;
     height: 0%;
+    transform: translate(0,-50%);
 }
 
 .stickyNoteContainer p{
