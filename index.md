@@ -29,7 +29,7 @@ title: Portfolio
                 <img src="/assets/Icons/Windows/plus.png">
                 <img src="/assets/Icons/Windows/X.png">
             </div>
-            <p>To navigate the site use the start button.</p>
+            <p>Use the start button to easily navigate the site.</p>
             <img src  = "/assets/Images/Other/startButton.png" style = "align-self: center">
         </div>
         <div class = "windowContainer" style = "width: 65%; height: 80%">
