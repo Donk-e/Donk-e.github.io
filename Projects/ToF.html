@@ -95,7 +95,7 @@ title: ToF
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/screen.png">
                     <p><strong>Game Art</strong></p>
-                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;" title = "Made by Kai Brown">
                 </div>
                     <img src ="/assets/Images/Unity/Collab/ToF.png">
             </div>
@@ -130,11 +130,15 @@ title: ToF
                     had settled on how they wanted it to work. It is a fairly simple system that utilises Unitys local multiplayer input system to allow both players to be controlled by game controllers at the same time, I had not used this 
                     system before so it did take slightly longer than expected to get the dual controller input implemented without bugs but the end result ended up being simpler than I expected.
                 </p>
+                <br>
+                <p><strong>Designer Support:</strong></p>
                 <p>
                     We only had a few designers in our team and most never entered engine so I wanted to make tweaking the player controller as easy as possible for them (as I needed to implement the powerup functionality rather than adjust the player feel), 
                     I made use of Unitys ToolTips to explain variables and their interactions within the editor so they never needed to go into the code. We also had a Teams channel where I would post system updates and explain how they worked through UML Diagrams, 
                     I tried to maintain a good communication pipeline between myself and the Lead of the Design team to elaborate on systems or expose new variables that they needed whenever possible.
                 </p>
+                <br>
+                <p><strong>Adding art:</strong></p>
                 <p>
                     I also worked closely with our Animation and Art team to get assets for the player in place, as it was the first time that most of them had the opportunity to put their assets into an engine there was a lot of back and forth communication 
                     so that the textures for models looked how they expected and animations playing correctly. 
@@ -153,8 +157,8 @@ title: ToF
                 <p>
                     After getting the base character movement functionality in and its relevant variables exposed I moved on to implementing the powerups, I was given a couple diagrams on how they should work but I got to make a lot of design decisions myself.
                 </p>
-                <p>List of in-game powerups:</p>
-                <div class = "projectSkills"> 
+                <p style = "font-size: 115%">List of in-game powerups:</p>
+                <div class = "projectSkills" style="margin-top: 5px; margin-bottom: 5px;"> 
                     <ul>
                         <li>Sprint Boots (boosts player upwards)</li>
                         <li>Scroll (spawns platform below player)</li>
