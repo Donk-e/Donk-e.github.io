@@ -79,7 +79,7 @@ title: Portfolio
                         <img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID">  
                         </a>          
                         <div class ="textOverlay">
-                            <p><strong>Final Year Project</strong></p>
+                            <p><strong>RFID in Games</strong></p>
                             <img src ="/assets/Icons/Unity.png">
                             <img src ="/assets/Icons/Arduino.png">
                         </div>                                 
@@ -113,7 +113,7 @@ title: Portfolio
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
-                        <a href = "/Projects/ToF.html">
+                        <a href = "/Projects/Stilts.html">
                         <img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map">
                         </a>          
                         <div class ="textOverlay">
@@ -123,7 +123,7 @@ title: Portfolio
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
-                        <a href = "/Projects/ToF.html">
+                        <a href = "/Projects/GJ.html">
                         <img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam">
                         </a>          
                         <div class ="textOverlay">
