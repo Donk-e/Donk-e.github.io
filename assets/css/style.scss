@@ -213,9 +213,9 @@
     justify-self: right;
     color: black;
     font-weight: 600;
-    //width: 150px;
-    //object-fit: cover;
-    min-width: 100%;
+    //min-width: 100%;
+    min-width: 200px;
+    
 }
 
 .menuButton img{
@@ -391,10 +391,10 @@ a,img
     margin: 15px;
 }
 
-.windowContainer iframe
-{
-    //margin: 1%;
-}
+// .windowContainer iframe
+// {
+//     margin: 1%;
+// }
 
 .imgWindowContainer
 {
