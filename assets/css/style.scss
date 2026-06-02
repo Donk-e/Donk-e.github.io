@@ -151,7 +151,7 @@
     position: absolute;
     left: 100%;
     top: 0;
-    //width: fit-content;
+    width: fit-content;
     background: #c3c3c3;
     border: white, grey,white,gray;
     border-width: 2px;
@@ -215,7 +215,7 @@
     font-weight: 600;
     //width: 150px;
     //object-fit: cover;
-    //min-width: 100%;
+    min-width: 100%;
 }
 
 .menuButton img{
