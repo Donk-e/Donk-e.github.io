@@ -157,14 +157,14 @@
     border-width: 2px;
     border-style: outset;
     display: none;
-    justify-items: start ;
+    //justify-items: start ;
 }
 
-// .hasSubMenu.open , .subMenu {
-//     display: flex;
-//     flex-direction: column;
-//     justify-content: start;
-// }
+.hasSubMenu.open , .subMenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
 
 #projectsMenu{
 
