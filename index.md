@@ -76,8 +76,8 @@ title: Portfolio
         <div class = "projectsWrapper"> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
-                        <img src = "/assets/Icons/BestProject.png" class = "bannerOverlay">
                         <img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID">  
+                        <img src = "/assets/Icons/BestProject.png" class = "bannerOverlay">
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>RFID in Games</strong></p>
