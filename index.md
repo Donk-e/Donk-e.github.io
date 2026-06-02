@@ -24,6 +24,14 @@ title: Portfolio
         </div>
     </div>
     <div class = "flexRow">
+         <div class="stickyNoteContainer">
+            <div class="stickyNoteHeader">
+                <img src="/assets/Icons/Windows/plus.png">
+                <img src="/assets/Icons/Windows/X.png">
+            </div>
+            <p>To navigate the site use the start button.</p>
+            <img src  = "/assets/Images/Other/startButton.png" style = "align-self: center">
+        </div>
         <div class = "textBlock">
             <div class = "textSection">
                 <div class = "textHeading">
@@ -58,14 +66,6 @@ title: Portfolio
                     </a>
                 </div>
             </div>
-        </div>
-        <div class="stickyNoteContainer">
-            <div class="stickyNoteHeader">
-                <img src="/assets/Icons/Windows/plus.png">
-                <img src="/assets/Icons/Windows/X.png">
-            </div>
-            <p>To navigate site use the start button.</p>
-            <img src  = "/assets/Images/Other/startButton.png" style = "align-self: center">
         </div>
     </div>
     <div class = "projects">
