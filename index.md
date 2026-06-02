@@ -23,39 +23,49 @@ title: Portfolio
             <img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam">
         </div>
     </div>
-    <div class = "textBlock">
-        <div class = "textSection">
-            <div class = "textHeading">
-                <img src="/assets/Icons/Windows/notepad.png">
-                <p><strong>Introduction</strong></p>
-                <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+    <div class = "flexRow">
+        <div class = "textBlock">
+            <div class = "textSection">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Introduction</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p><strong>Hi I'm Tyler :D</strong></p>
+                <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation. I approach my systems from a designers point of view as well as that of a programmer allowing me to create mechanics that create fun experiences for the player. </p>
+                <p>I'm soon to be graduating from a Games Design and Programming course at the University of Staffordshire!</p>
+                <h3 style= "text-align:center; font-size: 160%">Skills: Unity / Unreal | C# | C++ </h3>
+                <p>These platforms can also be found within the start menu, feel free to reach out or be nosy. :D</p>
+                <!-- Put buttons for github / linkedin/ other here-->
+                <div class = "buttonWrapper">
+                    <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/" target = "_blank">
+                    <div class = "iconButton">
+                    <img src="/assets/Icons/linkedInPixel.png">
+                    <p>LinkedIn</p>
+                    </div>
+                    </a>
+                    <a href = "https://github.com/Donk-e" target = "_blank">
+                    <div class = "iconButton">
+                    <img src="/assets/Icons/githubPixel.png">
+                    <p>Github</p>
+                    </div>
+                    </a>
+                    <a href = "mailto:tywood722@gmail.com" target = "_blank">
+                    <div class = "iconButton">
+                        <img src="/assets/Icons/Windows/mail.png">
+                        <p>Email</p>
+                    </div>
+                    </a>
+                </div>
             </div>
-            <p><strong>Hi I'm Tyler :D</strong></p>
-            <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation. I approach my systems from a designers point of view as well as that of a programmer allowing me to create mechanics that create fun experiences for the player. </p>
-            <p>I'm soon to be graduating from a Games Design and Programming course at the University of Staffordshire!</p>
-            <h3 style= "text-align:center; font-size: 160%">Skills: Unity / Unreal | C# | C++ </h3>
-            <p>These platforms can also be found within the start menu, feel free to reach out or be nosy. :D</p>
-            <!-- Put buttons for github / linkedin/ other here-->
-            <div class = "buttonWrapper">
-                <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/" target = "_blank">
-                <div class = "iconButton">
-                <img src="/assets/Icons/linkedInPixel.png">
-                <p>LinkedIn</p>
-                </div>
-                </a>
-                <a href = "https://github.com/Donk-e" target = "_blank">
-                <div class = "iconButton">
-                <img src="/assets/Icons/githubPixel.png">
-                <p>Github</p>
-                </div>
-                </a>
-                <a href = "mailto:tywood722@gmail.com" target = "_blank">
-                <div class = "iconButton">
-                    <img src="/assets/Icons/Windows/mail.png">
-                    <p>Email</p>
-                </div>
-                </a>
+        </div>
+        <div class="stickyNoteContainer">
+            <div class="stickyNoteHeader">
+                <img src="/assets/Icons/Windows/plus.png">
+                <img src="/assets/Icons/Windows/X.png">
             </div>
+            <p>To navigate site use the start button.</p>
+            <img src  = "/assets/Images/Other/startButton.png" style = "align-self: center">
         </div>
     </div>
     <div class = "projects">
