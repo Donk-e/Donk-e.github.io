@@ -545,6 +545,14 @@ a,img
   justify-content: space-evenly;
 }
 
+.bannerOverlay
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
 .buttonWrapper
 {
     display: flex;

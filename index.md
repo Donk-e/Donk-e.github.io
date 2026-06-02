@@ -76,6 +76,7 @@ title: Portfolio
         <div class = "projectsWrapper"> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/FYP.html">
+                        <img src = "/assets/Icons/BestProject.png" class = "bannerOverlay">
                         <img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID">  
                         </a>          
                         <div class ="textOverlay">
