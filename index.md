@@ -24,7 +24,7 @@ title: Portfolio
         </div>
     </div>
     <div class = "flexRow">
-         <div class="stickyNoteContainer" style = "transform: translate(25%, 50%);">
+         <div class="stickyNoteContainer" style = "transform: translate(0, 50%);">
             <div class="stickyNoteHeader">
                 <img src="/assets/Icons/Windows/plus.png">
                 <img src="/assets/Icons/Windows/X.png">
