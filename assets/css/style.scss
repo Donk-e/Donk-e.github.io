@@ -157,9 +157,10 @@
     border-width: 2px;
     border-style: outset;
     display: none;
+    justify-items: start ;
 }
 
-// .hasSubMenu.open  .subMenu {
+// .hasSubMenu.open , .subMenu {
 //     display: flex;
 //     flex-direction: column;
 //     justify-content: start;
