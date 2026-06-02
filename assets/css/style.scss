@@ -390,25 +390,21 @@ a,img
 {
     display: flex;
     flex-direction: column;
-    padding: 10px;
+    padding: 1%;
     background-color: #c3c3c3;
     color: black;
     text-align: left;
     height: 50%;
     font-size: 140%;
-    margin: 15px;
+    margin: 5%;
 }
 
-// .windowContainer iframe
-// {
-//     margin: 1%;
-// }
 
 .imgWindowContainer
 {
     display: flex;
     flex-direction: column;
-    padding: 10px;
+    padding: 1%;
     background-color: #c3c3c3;
     margin: 1%;
     font-size: 140%;
@@ -455,7 +451,7 @@ a,img
     justify-content: space-between;
     vertical-align: middle;
     height: 30px;
-    padding: 10px; 
+    padding: 1%; 
 }
 
 .stickyNoteContainer
