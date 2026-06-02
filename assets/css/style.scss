@@ -390,6 +390,11 @@ a,img
     margin: 15px;
 }
 
+.windowContainer iframe
+{
+    margin: 2%;
+}
+
 .imgWindowContainer
 {
     display: flex;
@@ -436,7 +441,7 @@ a,img
 {
     display: flex;
     flex-direction: row;
-    background: rgb(218, 212, 151);
+    background: rgb(228, 222, 160);
     align-items: center;
     justify-content: space-between;
     vertical-align: middle;
