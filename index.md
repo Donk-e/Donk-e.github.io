@@ -3,11 +3,10 @@ layout: default
 title: Portfolio
 --- 
  
-  <!--<link rel="stylesheet" type = "text/css" href="{{ '/assets/css/about.css' | relative_url }}">-->
 <html lang = "en-UK">
     <body>
     <div class = "main">
-    <p>If this is visible it means that im still currently working on setting up some areas of the portfolio so please excuse any unfinished areas</p>
+    <!-- <p>If this is visible it means that im still currently working on setting up some areas of the portfolio so please excuse any unfinished areas</p> -->
     <div class = "windowContainer" style= "width: 95%; margin: 0%;">
         <div class = "textHeading">
             <img src="/assets/Icons/Windows/screen.png">
@@ -18,7 +17,7 @@ title: Portfolio
             <a href = "/Projects/FYP.html"><img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID"></a>
             <a href = "/Projects/MMP.html"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
             <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++"></a>
-            <a href = "/Projects/ToF.html"><img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Prject"></a>
+            <a href = "/Projects/ToF.html"><img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Project"></a>
             <img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map">
             <img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam">
         </div>
@@ -106,7 +105,7 @@ title: Portfolio
                     </div> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/ToF.html">
-                        <img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Prject">
+                        <img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Project">
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Tower Of Fools (Group Project)</strong></p>
