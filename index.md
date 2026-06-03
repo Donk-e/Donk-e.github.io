@@ -38,7 +38,7 @@ title: Portfolio
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
             <p><strong>Hi I'm Tyler :D</strong></p>
-            <p>I've been making games for 4 years, mainly in Unity but I've dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation. I approach my systems from a designers point of view as well as that of a programmer allowing me to create mechanics that create fun experiences for the player. </p>
+            <p>I've been making games for 4 years, mainly in Unity but I have dabbled in Unreal. My main focus is on programming player focused gameplay systems rather than graphics or terrain generation. I approach my systems from a designers point of view as well as that of a programmer allowing me to create mechanics that create fun experiences for the player. </p>
             <p>I'm soon to be graduating from a Games Design and Programming course at the University of Staffordshire!</p>
             <h3 style= "text-align:center; font-size: 160%">Skills: Unity / Unreal | C# | C++ </h3>
             <p>These platforms can also be found within the start menu, feel free to reach out or be nosy. :D</p>
