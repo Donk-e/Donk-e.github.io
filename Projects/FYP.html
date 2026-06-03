@@ -104,8 +104,8 @@ title: Final Year Project
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>This is an early demo of the mechanic, by default the RC522 only sends messages when it reads an appropriate tag (the RC522 can not read ultra lightweight NFC tags such as the NFC stickers found online, this is because they do not have enough space to store unique IDs). </p>
-                <p>When a tag is read it sends the string to a serial port reader running in Unity which initialises the port on Start and processes the read data, if the string matches the ID expected for any of the three dragons it passes event with the dragons type to a seperate script which is running on Unity's main thread where it invokes the event. </p>
-                <p>This is because Unity is single threaded and the Arduino reading script is running on a different thread and Unity prevents changes to be made outside of the main thread. </p>
+                <p>When a tag is read it sends the string to a serial port reader running in Unity which initialises the port on Start and processes the read data, if the string matches the ID expected for any of the three dragons it passes event with the dragons type to a separate script which is running on Unity's main thread where it invokes the event. </p>
+                <p>This is because Unity is single threaded and the Arduino reading script is running on a different thread and Unity prevents changes to be made from outside of its main thread. </p>
             </div>         
         </div> 
         <div class = "flexRow">
@@ -115,7 +115,7 @@ title: Final Year Project
                     <p><strong>NFC Tags</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
+                <p>To implement the mechanic that allows the player to scan the physical models I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
                 <p>To get these tags I broke open NFC tags from online (see the blue tags in the video above) to get to the circuit inside then glued it to the bottom so it wouldn't be too bulky to use, to protect the circuit I added clear silicone bumpers so the models would still sit flat.</p>
             </div>            
             <div class = "imgWindowContainer"  >
@@ -124,8 +124,94 @@ title: Final Year Project
                     <p><strong>NFC Tags On Models</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "height: 650px">
+                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "NFC Tag on underside of model" style = "height: 650px">
             </div>
-    </div>
+        </div>
+        <div class = "flexRow">
+            <div class = "windowContainer"  >
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/screen.png">
+                    <p><strong>Wii Glove</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p>Created as part of THIS study</p>
+                    <img src="/assets/Images/Unity/FYP/WiiGlove.png" title = "Arduino">
+            </div>
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Academic Research</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p>
+                    As this main area of this project was the dissertation written alongside the game demo I had to do extensive research into game design, game controllers, board games and player experience. This was to 
+                    so that I could investigate the niche area that I focused on (researching if using physical models effects the player experience vs using in-game UI) with an understanding and deeper context to the areas 
+                    it is related to.
+                </p>
+                <p>
+                    While academic research and writing is not my forte I was able to learn a lot of unexpected 
+                </p>
+            </div>          
+        </div>
+        <div class = "flexRow">
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Playtesting and data gathering</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p>
+                    This project had a large focus on research, 
+                </p>
+            </div>    
+            <div class = "windowContainer"  >
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/screen.png">
+                    <p><strong>Arduino</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                    <img src="/assets/Images/Unity/FYP/Arduino.jpg" title = "Arduino">
+            </div>      
+        </div>
+        <div class = "flexRow">
+            <div class = "windowContainer"  >
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/screen.png">
+                    <p><strong>Arduino</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                    <img src="/assets/Images/Unity/FYP/Arduino.jpg" title = "Arduino">
+            </div>
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Overall Findings</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p>
+                    This project had a large focus on research, 
+                </p>
+            </div>    
+        </div>
+        <div class = "flexRow">
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Conclusion and future considerations</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p>
+                    This project had a large focus on research, 
+                </p>
+            </div>
+            <div class = "windowContainer"  >
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/screen.png">
+                    <p><strong>Arduino</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                    <img src="/assets/Images/Unity/FYP/Arduino.jpg" title = "Arduino">
+            </div>    
+        </div>
     </body>
 </html>
