@@ -16,10 +16,10 @@ title: Portfolio
         <div class= "highlightReel" id = "highlightReel">
             <a href = "/Projects/FYP.html"><img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID"></a>
             <a href = "/Projects/MMP.html"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
-            <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++"></a>
+            <a href = "/Projects/Frogger.html"><img src="/assets/Images/C++/Frogger/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <a href = "/Projects/ToF.html"><img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Project"></a>
-            <img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map">
-            <img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam">
+            <a href = "/Projects/Stilts.html"><img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map"></a>
+            <a href = "/Projects/GJ.html"><img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam"></a>
         </div>
     </div>
     <div class = "flexRow">
@@ -95,7 +95,7 @@ title: Portfolio
                     </div>                              
                     <div class = "individualProjects">    
                         <a href = "/Projects/Frogger.html">
-                            <img src="/assets/Images/C++/FroggerLevelOne.png" title = "Frogger in C++">  
+                            <img src="/assets/Images/C++/Frogger/FroggerLevelOne.png" title = "Frogger in C++">  
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>C++ Frogger</strong></p>
