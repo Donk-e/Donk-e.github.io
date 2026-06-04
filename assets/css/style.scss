@@ -3,6 +3,25 @@
 /* Imports */
 @import "{{site.theme}}";
 
+#rotateOverlay{
+    display: none;
+}
+
+@media screen and (max-width: 768px) and (orientation: portrait) {
+  #rotateOverlay {
+    display: flex;
+    position: fixed;
+    inset: 0;
+    background: palegoldenrod;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: 99999;
+    padding: 20px;
+  }
+}
+
 #header_wrap
 {
     background: #000082;
