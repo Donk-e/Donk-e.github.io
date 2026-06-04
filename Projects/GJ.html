@@ -12,8 +12,9 @@ title: SFML Frogger
                 <p><strong>Project</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
-            <div style= "font-size: 50px">
-                <p><strong>1 week Game Jam with a focus on Accessibility, hosted by Tencent</strong></p>
+            <!-- <div style= "font-size: 50px"> -->
+            <div>
+                <p><strong>1 Week Accessibility Game Jam, hosted by Tencent</strong></p>
             </div>
         </div>
          <div class = "windowContainer">
@@ -23,10 +24,7 @@ title: SFML Frogger
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
             <div style="display: flex; flex-direction: row;">
-                <iframe width="960" height="540"
-                    src = "https://www.youtube.com/embed/Ti7CNh-ac0c?autoplay=1&mute=1&loop=1"
-                    title = "Frogger Demo Video">
-                </iframe>
+                <img src = "/assets/Images/Unity/Accessibility/Inputs.gif">
             </div>
         </div>
         <div class = "flexRow">
@@ -36,10 +34,13 @@ title: SFML Frogger
                     <p><strong>Project Overview</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <p>This was my first attempt at a project dedicated to level design and its conventions. 
-                    There were many areas to consider when creating a map that would be used in a PVP setting especially when accounting for different characters moveability/height/weapon. 
-                    A large part of learning about level design from this project came from doing frequent playtests within a group, this project was done as part of a university module which gave me and my peers 
-                    the opportunity to do playtests with a large enough lobby size to observe how players use the map in match scenarios.
+                <p>
+                    When the opportunity to participate in a Game Jam hosted by Tencent presented itself me and my friends jumped at the chance, however the timing was unfortunate as it took place
+                     during the week when we were presenting our vivas for our Final Year Projects. Instead of trying to create a full game I worked on using the resources they gave us regarding accessibility in gaming to 
+                     implement new game features that I had not done before, such as key rebinding.
+                </p>          
+                <p>
+                    Listening to the talks given as part of this Game Jam made me realise how important including accessibility is for attracting players and how many different forms it can take.
                 </p>
             </div>
             <div class = "windowContainer" style = "width: 110%">
@@ -50,54 +51,35 @@ title: SFML Frogger
                 </div>
                 <div class = "projectSkills">
                     <ul>
-                        <li>C++</li>
-                        <li>Writting documentation</li>
-                        <li>Presenting and answering questions in person</li>  
+                        <li>Unity</li>
+                        <li>C#</li>
+                        <li>UI Toolkit</li>
+                        <li>Team Communication</li>  
                     </ul>
                 </div>
             </div>
-        </div>
+        </div>        
         <div class = "flexRow">
             <div class = "windowContainer">
                 <div class = "textHeading">
                     <img src="/assets/Icons/Windows/notepad.png">
-                    <p><strong>NFC Tags</strong></p>
+                    <p><strong>Game Screenshot</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <p>To implement the mecahinc that allows the player to use I used an Arduino with a RC522 component that  would scan the NFC tags on the bottom of the character models and then pass the tag ID to Unity which would read it then swap to the correct character. </p>
-                <p>To get these tags I broke open NFC tags from online (see the blue tags in the below video) to get to the circuit inside then glued it to the bottom so it wouldn't be too bulky to use, to protect the circuit I added clear silicone bumpers so the models would still sit flat.</p>
-            </div>            
-            <div class = "imgWindowContainer"  >
-                <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/screen.png">
-                    <p><strong>NFC Tags On Models</strong></p>
-                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
-                </div>
-                    <img src="/assets/Images/Unity/FYP/NFCTag.jpg" alt= "Dragon Models" title = "test title" style = "width: 5500px; height: 650px">
+                <img src = "/assets/Images/Unity/Accessibility/UI.png">
             </div>
-        </div>  <div class = "flexRow">
-            <div class = "windowContainer">
-                <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/screen.png">
-                    <p><strong>Early Arduino Demo Video</strong></p>
+            <div class = "windowContainer" style = "width: 110%">
+                <div class= "textHeading">
+                    <img src="/assets/Icons/Windows/star.png">
+                    <p><strong>Adding Rebinding</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <iframe width="768" height="432" 
-                    src = "https://www.youtube.com/embed/TSft-yZoGeU?autoplay=1&mute=1&loop=1"
-                    title = "Early Arduino Demo Video" style = "padding:0.5%; margin:1%">
-                </iframe>
+                <p>
+                    Despite researching the different ways to implement rebinding online I could not find anything that would fit cleanly to how my player controller handled inputs so I configured my own method using the 
+                    skeleton of what I learnt from others. I also wanted my rebinding to be tied to Unity's UI Toolkit as I mostly found people using Canvas and I wanted to challenge myself.
+                </p>
             </div>
-            <div class = "windowContainer" >
-                <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/notepad.png">
-                    <p><strong>Physical Scanning Mechanic</strong></p>
-                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
-                </div>
-                <p>This is an early demo of the mechanic, by default the RC522 only sends messages when it reads an appropriate tag (the RC522 can not read ultra lightweight NFC tags such as the NFC stickers found online, this is because they do not have enough space to store unique IDs). </p>
-                <p>When a tag is read it sends the string to a serial port reader running in Unity which initialises the port on Start and processes the read data, if the string matches the ID expected for any of the three dragons it passes event with the dragons type to a seperate script which is running on Unity's main thread where it invokes the event. </p>
-                <p>This is because Unity is single threaded and the Arduino reading script is running on a different thread and Unity prevents changes to be made outside of the main thread. </p>
-            </div>         
-        </div> 
+        </div>        
     </div>
     </body>
 </html>
