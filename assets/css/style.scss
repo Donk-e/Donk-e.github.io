@@ -11,13 +11,16 @@
   #rotateOverlay {
     display: flex;
     position: fixed;
-    inset: 0;
+    //inset: 0;
+    max-width: 600px;
+    font-size: 140%;
+
     background: palegoldenrod;
     color: black;
     justify-content: center;
     align-items: center;
     text-align: center;
-    z-index: 99999;
+    z-index: 99;
     padding: 20px;
   }
 }
