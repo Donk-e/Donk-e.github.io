@@ -42,11 +42,11 @@ title: About Me
                 <p><strong>Turtle Necklace</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" alt = "Turtle necklace carved out of wood around neck" title= "Turtle Necklace">
+                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" title= "Turtle Necklace">
             </div>
             <div class = "windowContainer">
                 <div class = "textHeading">
-                    <img src="/assets/Icons/Windows/tree.png">
+                    <img src="/assets/Icons/Windows/notepad.png">
                     <p><strong>Why / How?</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>       
