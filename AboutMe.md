@@ -34,7 +34,7 @@ title: About Me
                 <p><strong>Turtle</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace" >
+                <img src = "/assets/Images/AboutMe/Wood/NecklaceOnDesk.jpg" alt = "Turtle necklace carved out of wood" title= "Turtle Necklace" style = "height: 650px">
             </div>
             <div class = "windowContainer">
                 <div class = "textHeading">
@@ -42,7 +42,7 @@ title: About Me
                 <p><strong>Turtle Necklace</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" title= "Turtle Necklace">
+                <img src = "/assets/Images/AboutMe/Wood/Necklace.jpg" title= "Turtle Necklace" style = "height: 650px">
             </div>
             <div class = "windowContainer">
                 <div class = "textHeading">
