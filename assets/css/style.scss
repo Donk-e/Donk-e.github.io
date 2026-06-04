@@ -7,6 +7,10 @@
     display: none;
 }
 
+#rotateOverlay p{
+    padding: 10px;
+}
+
 @media screen and (max-width: 768px) and (orientation: portrait) {
   #rotateOverlay {
     display: flex;
@@ -20,6 +24,7 @@
 
     max-width: 700px;
     font-size: 140%;
+    height: 0;
 
     background: palegoldenrod;
     color: black;
