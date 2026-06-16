@@ -369,11 +369,16 @@ a,img
 
 .highlightReel img
 {
-    border-color: black;
-    border-width: 5px;
-    //max-height: 350px;
-    max-width: 100%;
-    height: auto;
+    // border-color: black;
+    // border-width: 5px;
+    // //max-height: 350px;
+    // max-width: 100%;
+    // height: auto;
+
+    width: clamp(200px, 20vw, 350px);
+    height: clamp(120px, 15vw, 220px);
+    object-fit: cover;
+    flex-shrink: 0;
 }
 
 .highlightReel img:hover
@@ -517,6 +522,7 @@ a,img
     align-self: center;
     align-items: center;
     margin: 1%; 
+    width: 50%;
 }
 
 .individualProjects img
