@@ -377,8 +377,8 @@ a,img
 
     width: clamp(200px, 20vw, 350px);
     height: clamp(120px, 15vw, 220px);
-    object-fit: cover;
-    flex-shrink: 0;
+    //object-fit: cover;
+    //flex-shrink: 0;
     margin: 5%;
 }
 
