@@ -342,8 +342,7 @@ a,img
     // height: auto;
 
     
-    object-fit: cover;
-    flex-shrink: 0;
+    
 }
 
 #ReelImg
@@ -351,6 +350,9 @@ a,img
     margin: 1%;
     width: clamp(200px, 20vw, 350px);
     height: clamp(120px, 15vw, 220px);
+
+    object-fit: cover;
+    flex-shrink: 0;
 }
 
 .highlightReel img:hover
