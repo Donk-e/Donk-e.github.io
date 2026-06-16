@@ -379,6 +379,7 @@ a,img
     height: clamp(120px, 15vw, 220px);
     object-fit: cover;
     flex-shrink: 0;
+    margin: 10px;
 }
 
 .highlightReel img:hover
@@ -522,7 +523,7 @@ a,img
     align-self: center;
     align-items: center;
     margin: 1%; 
-    width: 50%;
+    width: 48%;
 }
 
 .individualProjects img
