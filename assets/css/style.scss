@@ -322,7 +322,7 @@ a,img
     flex-direction: row;
     justify-content: space-evenly;
 
-    height: auto;
+    height: clamp(500px, 30vw, 600px);
 
     width: 95%;
     overflow-x: scroll;
