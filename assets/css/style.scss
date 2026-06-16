@@ -266,8 +266,10 @@ img{
 }
 
 iframe {
-    width: min(90vw, 1200px);
-    height: min(60vw, 675px);
+    width: clamp(100px,50vw, 800px);
+    //width: min(90vw, 1200px);
+    height: clamp(100px,30vw, 600px);
+    //height: min(60vw, 675px);
 }
 
 a:visited {
