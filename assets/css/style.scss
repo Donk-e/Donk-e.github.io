@@ -322,7 +322,7 @@ a,img
     flex-direction: row;
     justify-content: space-evenly;
 
-    height: auto;
+    //height: auto;
 
     width: 95%;
     overflow-x: scroll;
@@ -340,16 +340,13 @@ a,img
     // //max-height: 350px;
     // max-width: 100%;
     // height: auto;
-
-    
-    
 }
 
 #ReelImg
 {
     margin: 1%;
     width: clamp(200px, 20vw, 350px);
-    height: clamp(120px, 15vw, 220px);
+    height: clamp(200px, 20vw, 250px);
 
     object-fit: cover;
     flex-shrink: 0;
