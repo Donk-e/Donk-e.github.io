@@ -315,7 +315,7 @@ a,img
     text-align: left;
     align-self: center;
     display: flex;
-    flex:0,1,2em;
+    //flex:0,1,2em;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -376,7 +376,7 @@ a,img
     text-align: left;
     height: 50%;
     font-size: 140%;
-    margin: 15px;
+    margin: 8px;
 }
 
 #textWindow
