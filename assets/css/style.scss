@@ -336,7 +336,8 @@ a,img
 #ReelImg
 {
     margin: 1%;
-    width: clamp(1em, 50vw, 48rem);
+    margin-top: 0;
+    width: clamp(1em, 50vw, 46rem);
 
     object-fit: cover;
     flex-shrink: 0;
