@@ -308,9 +308,18 @@ a,img
 
 .flexRow
 {
+    // display: flex;
+    // flex-direction: row;
+    // justify-content: space-evenly;
+
+    text-align: left;
+    align-self: center;
     display: flex;
+    flex:0,1,2em;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 /*#region HomePage*/
