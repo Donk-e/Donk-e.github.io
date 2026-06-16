@@ -333,20 +333,11 @@ a,img
     overflow-y: hidden;
 }
 
-.highlightReel img
-{
-    // border-color: black;
-    // border-width: 5px;
-    // //max-height: 350px;
-    // max-width: 100%;
-    // height: auto;
-}
-
 #ReelImg
 {
     margin: 1%;
-    width: clamp(200px, 20vw, 350px);
-    height: clamp(200px, 20vw, 250px);
+    width: clamp(400px, 40vw, 450px);
+    height: clamp(400px, 40vw, 450px);
 
     object-fit: cover;
     flex-shrink: 0;
