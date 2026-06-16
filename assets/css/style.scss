@@ -402,12 +402,11 @@ a,img
     align-items: center;
     background: #000082;
     color: white;
-    //font-size: xx-large;
-    font-size: clamp(0.5rem, 2vw, 2rem);
+    font-size: clamp(0.8rem, 2vw, 2rem);
     text-align: left;
     vertical-align: middle;
-    height: 35px;
-    padding: 1%; 
+    //height: 35px;
+    //padding: 1%; 
 }
 
 .textHeading img
@@ -467,9 +466,7 @@ a,img
 .projects
 {
     background: #c3c3c3;
-    width: 90%;
-    //width: min(80%, 95%);
-    //width: min(1200px, 95%);
+    width: 95%;
 
     padding: 10px;
     margin: 2%;
@@ -510,7 +507,6 @@ a,img
     object-fit: cover;
     object-position: center;
     border: none;
-    //max-height: 400px;
 }
 
 .textOverlay
@@ -520,7 +516,7 @@ a,img
   left: 0;
   width: 100%;
   color: white;
-  font-size: clamp(1rem, 2vw, 2.5rem);
+  font-size: clamp(0.8rem, 2vw, 2.5rem);
   //was 200%
   background: rgba(0, 0, 0, 0.6);
   box-sizing: border-box;
