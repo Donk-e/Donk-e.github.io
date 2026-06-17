@@ -38,6 +38,10 @@
     z-index: 99;
     //padding: 20px;
   }
+
+  #textWindow{
+    width: 90%;
+  }
 }
 
 #main_content_wrap
@@ -387,7 +391,6 @@ a,img
 #textWindow
 {
     width: 48%;
-    //height: clamp(auto,auto,);
 }
 
 .imgWindowContainer
