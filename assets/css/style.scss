@@ -11,39 +11,6 @@
     padding: 10px;
 }
 
-//@media screen and (max-width: 768px) and (orientation: portrait) {
-@media (orientation: portrait) {
-  #rotateOverlay {
-    display: flex;
-    position: fixed;
-    flex-direction: column;
-    //inset: 0;
-
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); //this feels like a scuffed way to get it to centre
-
-    //max-width: 800px;
-    width: 90%;
-    height: 60;
-    font-size:200%;
-    //height: 0%;
-    
-    text-align: left;
-    background: palegoldenrod;
-    color: black;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    z-index: 99;
-    //padding: 20px;
-  }
-
-  #textWindow{
-    width: 90%;
-  }
-}
-
 #main_content_wrap
 {
     background: #008080;
@@ -602,4 +569,39 @@ a,img
     height: 6px;
     border: 0;
     background-color: black;
+}
+
+//overrides 
+
+@media screen and (max-width: 768px) and (orientation: portrait) {
+//@media (orientation: portrait) {
+  #rotateOverlay {
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    //inset: 0;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); //this feels like a scuffed way to get it to centre
+
+    //max-width: 800px;
+    width: 90%;
+    height: 60;
+    font-size:200%;
+    //height: 0%;
+    
+    text-align: left;
+    background: palegoldenrod;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: 99;
+    //padding: 20px;
+  }
+
+  #textWindow{
+    width: 90%;
+  }
 }
