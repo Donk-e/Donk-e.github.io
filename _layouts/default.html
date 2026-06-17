@@ -14,35 +14,6 @@
   </head>
 
   <body>
-    <!-- HEADER -->
-    <!--<div id="header_wrap" class="outer">-->
-    <!-- <div class = "headerWrap">
-        <header class="inner">
-           {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
-
-          <div class="title">
-           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          </div>
-
-           <div class="headingButtonWrapper">
-             {% for button in site.buttons %}
-               <div class = "headerButtons">
-                  <img src="{{button.img}}">
-                  <a href="{{ button.url }}" style = "color: black;"><strong>{{ button.title }}</strong></a>
-               </div>
-             {% endfor %}
-          </div> -->
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-        </header>
         <!-- TODOOOOOO
         <div class = "headerBackgroundContainer">
           <label for = "Backgrounds"> Backgrounds: </label>
@@ -98,22 +69,22 @@
           </div>
 
           <div id="startMenu" class="hidden">
-            <div style="display: flex; flex-direction: row;">
+            <div class="startMenuLayout">
               <div class="startVerticalText">TYLER  WOOD</div>
-                <div style="display: flex; flex-direction: column;">
-                  <div class = "menuButton hasSubMenu" id="projects"  style=" width:150px ;">
+                <div class="startMenuColumn">
+                  <div class = "menuButton hasSubMenu" id="projects">
                       <img src="/assets/Icons/Windows/folder.png">
                       <span>Projects</span>
-                      <img src="/assets/Icons/Windows/arrow.png" style="width: 10px; height: 10px;">
+                      <img src="/assets/Icons/Windows/arrow.png" style="width: 5rem">
 
                     <!-- Projects Sub Menu -->
                     <div class="subMenu">
                       <div class="menuButton hasSubMenu" id="Folder">
                         <img src="/assets/Icons/Windows/folder.png">
                         <span>Unity</span>
-                        <img src="/assets/Icons/Windows/arrow.png" style="width: 10px; height: 10px;">
+                        <img src="/assets/Icons/Windows/arrow.png" style="width: 5rem">
                         <div class="subMenu">
-                          <div class="menuButton" style=" width:220px;">
+                          <div class="menuButton">
                              <a href = "/Projects/FYP.html">
                             <img src="/assets/Icons/Windows/screen.png">
                             <span>RFID with Unity</span>
@@ -125,13 +96,13 @@
                             <span>Multiplayer Game</span>
                              </a>
                           </div>
-                          <div class="menuButton" style=" width:220px;">
+                          <div class="menuButton">
                             <a href = "/Projects/ToF.html">
                             <img src="/assets/Icons/Windows/screen.png">
                             <span>Tower Of Fools</span>
                              </a>
                           </div>
-                          <div class="menuButton" style=" width:220px;">
+                          <div class="menuButton">
                             <a href = "/Projects/GJ.html">
                             <img src="/assets/Icons/Windows/screen.png">
                             <span>Accessibility Game Jam</span>
@@ -142,9 +113,9 @@
                       <div class="menuButton hasSubMenu" id="Folder">
                         <img src="/assets/Icons/Windows/folder.png">
                         <span>C++</span>
-                        <img src="/assets/Icons/Windows/arrow.png" style="width: 10px; height: 10px;">
+                        <img src="/assets/Icons/Windows/arrow.png" style="width: 5rem">
                         <div class = "subMenu">
-                          <div class="menuButton" style=" width:220px;">
+                          <div class="menuButton">
                             <a href = "/Projects/Frogger.html">
                             <img src="/assets/Icons/Windows/screen.png">
                             <span>Frogger</span>
@@ -155,9 +126,9 @@
                       <div class="menuButton hasSubMenu" id="Folder">
                         <img src="/assets/Icons/Windows/folder.png">
                         <span>Other</span>
-                        <img src="/assets/Icons/Windows/arrow.png" style="width: 10px; height: 10px;">
+                        <img src="/assets/Icons/Windows/arrow.png" style="width: 5rem">
                         <div class = "subMenu">
-                          <div class="menuButton" style=" width:220px;">
+                          <div class="menuButton">
                             <a href = "/Projects/Stilts.html">
                             <img src="/assets/Icons/Windows/screen.png">
                             <span>TF2 Map</span>
@@ -170,7 +141,7 @@
                   <div class="menuButton hasSubMenu">
                         <img src="/assets/Icons/Windows/folder.png">
                         <span>Socials</span>
-                        <img src="/assets/Icons/Windows/arrow.png" style="width: 10px; height: 10px;">
+                        <img src="/assets/Icons/Windows/arrow.png" style="width: 5rem">
                         <div class="subMenu">
                           <div class="menuButton" id="Socials">
                              <a href = "https://www.linkedin.com/in/tyler-wood-29aba6362/" target = "_blank">
@@ -213,39 +184,8 @@
               </div>
           </div>
         </div>
-        <!-- {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
       </footer>
     </div>
-<!-- 
-    <script>
-      const btn = document.getElementById("startButton");
-      const menu = document.getElementById("startMenu");
-      const projects = document.getElementById("projects");
-
-      console.log("btn:", btn);
-      console.log("projects btn:", projects);
-
-      if (!btn) {
-        console.error("startButton not found");
-      }
-
-      //start menu
-      btn.addEventListener("click", (e) => {
-      e.stopPropagation(); 
-      menu.classList.toggle("hidden");
-      });
-
-    // Close everything when clicking outside
-      document.addEventListener("click", () => {
-        menu.classList.add("hidden");
-        projects.classList.remove("open");
-      });  
-      
-    </script>  -->
-
 
     <script>
       const btn = document.getElementById("startButton");
