@@ -617,7 +617,8 @@ a,img
 
 /* Mobile tap behaviour */
 @media (hover: none) {
-  #projects.open .submenu {
+  //#projects.open .submenu {
+  #projects:hover .submenu {
     display: block;
   }
 }
