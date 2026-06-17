@@ -573,6 +573,7 @@ a,img
 
 //overrides 
 
+//mobile
 @media screen and (max-width: 768px) and (orientation: portrait) {
 //@media (orientation: portrait) {
   #rotateOverlay {
@@ -601,6 +602,7 @@ a,img
     //padding: 20px;
   }
 
+  //makes the text boxes take up more space so they are easier to read on mobile
   #textWindow{
     width: 90%;
   }
