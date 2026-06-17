@@ -126,7 +126,8 @@
     //justify-items: start ;
 }
 
-.hasSubMenu.open  .subMenu {
+.hasSubMenu.open > .subMenu {
+//.hasSubMenu.open  .subMenu {
     display: flex;
     flex-direction: column;
     justify-content: start;

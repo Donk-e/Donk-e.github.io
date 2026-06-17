@@ -251,6 +251,8 @@
       const btn = document.getElementById("startButton");
       const menu = document.getElementById("startMenu");
       const projects = document.getElementById("projects");
+      const socials = document.getElementById("socials");
+
 
       const isTouchDevice =
         window.matchMedia("(hover: none)").matches ||
@@ -262,11 +264,16 @@
         menu.classList.toggle("hidden");
       });
 
-      // Mobile: tap Projects to open submenu
+      // Mobile: tap folder to open submenu
       if (isTouchDevice) {
         projects.addEventListener("click", (e) => {
           e.stopPropagation();
           projects.classList.toggle("open");
+        });
+
+        socials.addEventListener("click", (e) => {
+          e.stopPropagation();
+          socials.classList.toggle("open");
         });
       }
 
@@ -274,6 +281,7 @@
       document.addEventListener("click", () => {
         menu.classList.add("hidden");
         projects.classList.remove("open");
+        socials.classList.remove("open");
       });
     </script>
   </body>
