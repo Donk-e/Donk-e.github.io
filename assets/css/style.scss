@@ -94,18 +94,6 @@
     z-index: 1;
 }
 
-.startMenuLayout
-{
-    display: flex;
-    flex-direction: row;
-}
-
-.startMenuColumn
-{
-    display: flex;
-    flex-direction: column;
-}
-
 .hasSubMenu
 {
     position: relative;
@@ -139,6 +127,7 @@
 }
 
 .hasSubMenu.open > .subMenu {
+//.hasSubMenu.open  .subMenu {
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -193,11 +182,7 @@
     color: black;
     font-weight: 600;
     min-width: 100%;
-    max-width: 200px;
-}
-
-.menuButton img {
-  flex-shrink: 0;
+    //min-width: 200px;
 }
 
 #Folder
@@ -621,30 +606,5 @@ a,img
   //makes the text boxes take up more space so they are easier to read on mobile
   #textWindow{
     width: 90%;
-  }
-
-  //start menu resizing
-  .startMenuLayout {
-    flex-direction: column;
-  }
-
-  .startVerticalText {
-    writing-mode: horizontal-tb;
-    transform: none;
-    height: auto;
-    padding: 10px;
-  }
-
-  #startMenu {
-    width: min(320px, 95vw);
-  }
-
-  .subMenu {
-    position: relative;
-    left: 0;
-    top: 0;
-    width: 100%;
-    border: none;
-    margin-left: 10px;
   }
 }
