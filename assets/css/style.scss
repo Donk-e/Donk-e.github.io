@@ -610,15 +610,15 @@ a,img
 
 /* Desktop hover behaviour */
 @media (hover: hover) {
-  #projects:hover .submenu {
+  #projects:hover .subMenu {
     display: block;
   }
 }
 
 /* Mobile tap behaviour */
 @media (hover: none) {
-  //#projects.open .submenu {
-  #projects:hover .submenu {
+  #projects.open .subMenu {
+  //#projects:hover .subMenu {
     display: block;
   }
 }
