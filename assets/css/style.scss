@@ -607,3 +607,17 @@ a,img
     width: 90%;
   }
 }
+
+/* Desktop hover behaviour */
+@media (hover: hover) {
+  #projects:hover .submenu {
+    display: block;
+  }
+}
+
+/* Mobile tap behaviour */
+@media (hover: none) {
+  #projects.open .submenu {
+    display: block;
+  }
+}
