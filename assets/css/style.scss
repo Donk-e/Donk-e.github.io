@@ -615,45 +615,11 @@ a,img
 
   .menuButtonWide 
 {
-    width: 100px;
+    width: 150px;
     font-size: small;
 }
 
-.menuButton img{
-    width: 1rem;
+.menuButtonWide img{
+    width: 0.8rem;
 }
-
-//   //resize for mobile
-//   #startMenu
-//     {
-//         width: min(150px, 70vw);
-//         max-height: 60vh;
-//         display: flex;
-//         flex-direction: column;
-//         justify-content: flex-start;
-
-//         color: black; 
-//         position: absolute;
-//         bottom: 40px;
-//         left: 5px;
-//         background: #c3c3c3;
-//         border: 2px outset #fff;
-//         font-size: medium;
-//         font-weight: 400;
-
-//         z-index: 1;
-//     }
-
-//     .menuButton
-// {
-//     display: flex;
-//     flex-direction: row;
-//     justify-content: flex-start;
-//     vertical-align: middle;
-//     align-items: center;
-//     justify-self: right;
-//     color: black;
-//     font-weight: 400;
-//     min-width: 100%;
-// }
 }
