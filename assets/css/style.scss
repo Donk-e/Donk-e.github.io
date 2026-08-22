@@ -79,14 +79,19 @@
     align-items: center;
     background: #c3c3c3;
     color: black;
-    font-size: clamp(0.8rem, 2vw, 2rem);
+    font-size: clamp(0.25rem, 1vw, 1rem);
     text-align: left;
     vertical-align: middle;
 }
 
-// .taskbarButton img {
-//     height: 30px;
-// }
+.taskbarButton p
+{
+    margin-left: 2%;
+}
+
+.taskbarButton img {
+    height: 30px;
+}
 
 #startMenu
 {
