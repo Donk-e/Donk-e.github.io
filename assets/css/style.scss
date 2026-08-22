@@ -73,7 +73,7 @@
     border: white, grey,white,gray;
 }
 
-#taskbarButton {
+.taskbarButton {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -86,7 +86,8 @@
     font-size: medium;
     text-align: left;
     margin: 5px;
-    
+    width: 200px;
+    min-width: 100%;
 }
 
 // .taskbarButton p
@@ -94,7 +95,7 @@
 //     margin-left: 2%;
 // }
 
-#taskbarButton img {
+.taskbarButton img {
     //height: 15px;
     width: 20px;
 }
