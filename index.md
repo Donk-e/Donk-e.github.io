@@ -124,6 +124,15 @@ title: Portfolio
                     </div> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/GJ.html">
+                        <img src="/assets/Images/Unity/GMTK 2026/PusleDrive.png" title = "Unity Game Jam">
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>GMTK 2026 Game Jam</strong></p>
+                            <img src ="/assets/Icons/Unity.png">
+                        </div>                                 
+                    </div> 
+                    <div class = "individualProjects">    
+                        <a href = "/Projects/GJ.html">
                         <img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam">
                         </a>          
                         <div class ="textOverlay">

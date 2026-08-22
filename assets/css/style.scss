@@ -623,4 +623,15 @@ a,img
     //width: 25px;
     height: 20px;
 }
+
+.taskbarButton {
+    flex-direction: row;
+    align-content: flex-start;
+    width: 300px;
+    height: auto;
+}
+
+.taskbarButton img {
+    height: 30px;
+}
 }
