@@ -77,12 +77,13 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    //align-items: center;
+    align-items: center;
     background: #c3c3c3;
     color: black;
     font-size: medium;
     text-align: left;
     vertical-align: middle;
+    margin: 5px;
 }
 
 // .taskbarButton p
@@ -92,6 +93,7 @@
 
 #taskbarButton img {
     height: 15px;
+    width: 15px;
 }
 
 #startMenu
