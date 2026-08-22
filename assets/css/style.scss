@@ -76,22 +76,23 @@
 .taskbarButton {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    justify-content: space-between;
+    //align-items: center;
     background: #c3c3c3;
     color: black;
-    font-size: clamp(0.25rem, 1vw, 1rem);
+    font-size: clamp(0.8rem, 2vw, 2rem);
     text-align: left;
     vertical-align: middle;
 }
 
-.taskbarButton p
-{
-    margin-left: 2%;
-}
+// .taskbarButton p
+// {
+//     margin-left: 2%;
+// }
 
-.taskbarButton img {
-    height: 30px;
-}
+// .taskbarButton img {
+//     height: 30px;
+// }
 
 #startMenu
 {
