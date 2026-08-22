@@ -75,29 +75,38 @@
 
 .taskbarButton {
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    vertical-align: middle;
     align-items: center;
-    justify-self: right;
+    justify-content: flex-start;
+
+    box-sizing: border-box;
+    height: 32px;
+    width: 200px;
+
+    padding: 2px 6px;
+    margin: 2px;
 
     background: #c3c3c3;
     color: black;
-    font-size: medium;
+
+    font-size: 14px;
+    line-height: 1;
+
     text-align: left;
-    margin: 5px;
-    width: 200px;
-    //min-width: 100%;
+    overflow: hidden;
 }
 
-// .taskbarButton p
-// {
-//     margin-left: 2%;
-// }
-
 .taskbarButton img {
-    //height: 15px;
     width: 20px;
+    height: 20px;
+    object-fit: contain;
+    flex-shrink: 0;
+    margin-right: 6px;
+}
+
+.taskbarButton span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 #startMenu
