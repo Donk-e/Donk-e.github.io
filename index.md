@@ -50,6 +50,12 @@ title: Portfolio
                     <p>LinkedIn</p>
                 </div>                   
                 </a>
+                <a href = "https://donk-e.itch.io/" target = "_blank">
+                <div class = "iconButton">
+                    <img src="/assets/Icons/itch-io.png">
+                    <p>Itch</p>
+                </div>
+                </a>
                 <a href = "https://github.com/Donk-e" target = "_blank">
                 <div class = "iconButton">
                     <img src="/assets/Icons/githubPixel.png">
@@ -110,6 +116,7 @@ title: Portfolio
                         <div class ="textOverlay">
                             <p><strong>Tower Of Fools (Group Project)</strong></p>
                             <img src ="/assets/Icons/Unity.png">
+                            <img src="/assets/Icons/itch-io.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
@@ -129,6 +136,7 @@ title: Portfolio
                         <div class ="textOverlay">
                             <p><strong>GMTK 2026 Game Jam</strong></p>
                             <img src ="/assets/Icons/Unity.png">
+                            <img src="/assets/Icons/itch-io.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
