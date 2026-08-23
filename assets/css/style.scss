@@ -154,7 +154,7 @@
 .subMenu 
 {
     position: absolute;
-    left: 125%;
+    left: 105%;
     top: 0;
     width: fit-content;
     background: #c3c3c3;
@@ -162,15 +162,12 @@
     border-width: 2px;
     border-style: outset;
     display: none;
-    //justify-items: start ;
 }
 
 .hasSubMenu.open > .subMenu {
-//.hasSubMenu.open  .subMenu {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    //width: 200px;
 }
 
 #projectsMenu{
