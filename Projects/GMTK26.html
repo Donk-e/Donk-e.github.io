@@ -63,12 +63,12 @@ title: GMTK Jam 2026
                 </p>
                 <br>
                 <p>My responsibilities: </p>
-                <ol>
+                <ul style="transform: translateX(5%);">
                     <li>Player</li>
                     <li>Game Loop</li>
                     <li>UI (excluding minimap)</li>
                     <li>Adding SFX</li>
-                </ol>
+                </ul>
             </div>
             <div class = "windowContainer" id = "textWindow" style="width: auto;">
                 <div class= "textHeading">
@@ -76,7 +76,7 @@ title: GMTK Jam 2026
                     <p><strong>Skills Used</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <div class = "projectSkills" style = "transform: translateX(5%);">
+                <div class = "projectSkills">
                     <ul>
                         <li>Unity</li>
                         <li>C#</li>
@@ -106,12 +106,14 @@ title: GMTK Jam 2026
                 </p>
                 <p>
                     I then added suspension as I had experience with that in second year of University. It was a bit finicky to figure out spring position and strength so that it feels like a hovercraft, I started with 2 springs near the base of the wings but when I got the model I changed it to fit the new shape.
-                </p>
-                <p>
+                    <br>
                     When adding the movement I watched a lot of youtube videos on how other people added it for their vehicles, I wasn't able to find any videos for hovercrafts so I tweaked what I found to fit our game. 
                 </p>
                 <p>
                     After getting the movement for the player in I added a 'flattening' force to try and keep the player level as there was an issue with going forward making you point into the air very quickly and acceleration so the longer the player holds forward the faster they will go.
+                </p>
+                <p>
+                    As a bit of polish I added some particle systems that Arnas made to the hovercraft, the player changes between a smoke style and a jet depending on their speed relative to their max speed.
                 </p>
             </div>
         </div>     
@@ -123,7 +125,7 @@ title: GMTK Jam 2026
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>
-                    For the game loop I added the time boosts and debuffs, player respawning and trackbounds, lap counter for the track and added logic for only allowing the player to go through the finish line from the front.
+                    For the game loop I added the time boosts and debuffs, player respawning and track bounds, lap counter for the track and added logic for only allowing the player to go through the finish line from the front.
                 </p>
                 <p>
                     The initial logic for the finish line was done by Arnas, but I added a check that simply compares a Vector3 of the colliding objects position - the finish line objects and checks if the Z value is 0 or greater. This was to stop players reversing after the start and 
@@ -163,10 +165,37 @@ title: GMTK Jam 2026
                     For the background music I was inspired by Rocket League and its how its background tracks give life while not being distracting so I found music that I thought could play over the radio in the sci-fi setting of our game.
                 </p>
                 <p>
-                    I did want the background music to just be one track that constantly loops as I usually find those annoying to I made an array of music I found and then loop throgh that array instead, if I had more tracks I would change this to a random int in the array instead and check the int isn't the same track that was just played.
+                    I did want the background music to just be one track that constantly loops as I usually find those annoying to I made an array of music I found and then loop through that array instead, if I had more tracks I would change this to a random int in the array instead and check the int isn't the same track that was just played.
                 </p>
             </div>
-        </div>            
+        </div>       
+        <div class = "flexRow">                       
+            <div class = "windowContainer"  id = "textWindow">
+                <div class= "textHeading">
+                    <img src="/assets/Icons/Windows/star.png">
+                    <p><strong>What I have learnt</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p><strong>Changes:</strong></p>
+                <p>
+                    While I am ultimately happy with the result of this jam and how ive improved with programming physics since doing it there are still areas id improve when reflecting on what I would change.
+                    <br>
+                    The main area would be the player controller, I did my best within the 3 days of work that I had but the end result is hard to control and missing polish. 
+                    To fix this I would change how the player turns to make it feel more responsive especially at high speeds and apply a greater downward force to the player so the hovercraft feels heavier and makes flying between parts of the track harder but still possible.
+                </p>
+                <p>
+                    I have also learnt a lot about team organisation and how to work with people unfamiliar with Unity or Github, for future Jams i now know firsthand how important it is to layout roles as well as peoples availability as we overscoped for our teams availability this time.
+                </p>
+            </div>
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Game Screenshot</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <img src = "/assets/Images/Unity/GMTK 2026/2.png">
+            </div> 
+        </div>       
     </div>
     </body>
 </html>
