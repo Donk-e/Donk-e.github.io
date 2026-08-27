@@ -19,7 +19,7 @@ title: Portfolio
             <a href = "/Projects/Frogger.html" id = "ReelImg"><img src="/assets/Images/C++/Frogger/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <a href = "/Projects/ToF.html" id = "ReelImg"><img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Project"></a>
             <a href = "/Projects/Stilts.html" id = "ReelImg"><img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map"></a>
-            <a href = "/Projects/GMTK26.html" id = "ReelImg"><img src="/assets/Images/Unity/GMTK 2026/PusleDrive.png" title = "TF2 Map"></a>
+            <a href = "/Projects/GMTK26.html" id = "ReelImg"><img src="/assets/Images/Unity/GMTK 2026/PusleDrive.png" title = "GMTK 26 Jam"></a>
             <a href = "/Projects/GJ.html" id = "ReelImg"><img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam"></a>
         </div>
     </div>
@@ -138,6 +138,16 @@ title: Portfolio
                             <p><strong>GMTK 2026 Game Jam</strong></p>
                             <img src ="/assets/Icons/Unity.png">
                             <img src="/assets/Icons/itch-io.png">
+                        </div>                                 
+                    </div> 
+                    <div class = "individualProjects">    
+                        <a href = "/Projects/GMTK26.html">
+                        <img src="/assets/Images/Other/homePage.png" title = "Unity Game Jam">
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>Portfolio</strong></p>
+                            <img src ="/assets/Icons/githubPixel.png">
+                            <img src="/assets/Icons/Html.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
