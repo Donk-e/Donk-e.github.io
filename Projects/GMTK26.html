@@ -55,7 +55,7 @@ title: GMTK Jam 2026
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>
-                    Joining this jam was admittedly a last minute decision as I was working on a side project with one of the other devs on this jam and she mentioned wanting to take part even though the jam had already started, so we reached out to some other friends and came up with the idea of a 3D racing game.
+                    My first game jam to completion but joining this jam was admittedly a last minute decision as I was working on a side project with one of the other devs on this jam and she mentioned wanting to take part even though the jam had already started, so we reached out to some other friends and came up with the idea of a 3D racing game.
                     We chose a racing game as it was what we thought of for the theme <i>countdown</i>, I also liked the idea of getting to work on movement for a vehicle as I don't have much experience with that.
                 </p>          
                 <p>
@@ -65,7 +65,7 @@ title: GMTK Jam 2026
                 <p>My responsibilities: </p>
                 <ol>
                     <li>Player</li>
-                    <li>Game State</li>
+                    <li>Game Loop</li>
                     <li>UI (excluding minimap)</li>
                     <li>Adding SFX</li>
                 </ol>
@@ -76,7 +76,7 @@ title: GMTK Jam 2026
                     <p><strong>Skills Used</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <div class = "projectSkills">
+                <div class = "projectSkills" style = "transform: translateX(5%);">
                     <ul>
                         <li>Unity</li>
                         <li>C#</li>
@@ -110,11 +110,36 @@ title: GMTK Jam 2026
                 <p>
                     When adding the movement I watched a lot of youtube videos on how other people added it for their vehicles, I wasn't able to find any videos for hovercrafts so I tweaked what I found to fit our game. 
                 </p>
-                <br>
                 <p>
                     After getting the movement for the player in I added a 'flattening' force to try and keep the player level as there was an issue with going forward making you point into the air very quickly and acceleration so the longer the player holds forward the faster they will go.
-
                 </p>
+            </div>
+        </div>     
+        <div class = "flexRow">            
+            <div class = "windowContainer"  id = "textWindow">
+                <div class= "textHeading">
+                    <img src="/assets/Icons/Windows/star.png">
+                    <p><strong>Game Loop</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <p>
+                    For the game loop I added the time boosts and debuffs, player respawning and trackbounds, lap counter for the track and added logic for only allowing the player to go through the finish line from the front.
+                </p>
+                <p>
+                    The initial logic for the finish line was done by Arnas, but I added a check that simply compares a Vector3 of the colliding objects position - the finish line objects and checks if the Z value is 0 or greater. This was to stop players reversing after the start and 
+                </p>
+                <p>
+                    Player respawning and bounds were easy to add as it only needed a trigger collider, I started with a sphere collider around the track that would respawn the player when the left its bounds but this allowed for some very generous skips in the track and if the player fell it would sometimes take a while to respawn them depending on their location on the track.
+                    I changed this to just a convex collider of the track mesh which was much tighter but still allowed for some skips like we intended.
+                </p>
+            </div>
+            <div class = "windowContainer">
+                <div class = "textHeading">
+                    <img src="/assets/Icons/Windows/notepad.png">
+                    <p><strong>Game Screenshot</strong></p>
+                    <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
+                </div>
+                <img src = "/assets/Images/Unity/GMTK 2026/2.png">
             </div>
         </div>              
     </div>
