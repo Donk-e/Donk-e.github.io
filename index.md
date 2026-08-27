@@ -142,12 +142,12 @@ title: Portfolio
                     </div> 
                     <div class = "individualProjects">    
                         <a href = "/Projects/GMTK26.html">
-                        <img src="/assets/Images/Other/homePage.png" title = "Unity Game Jam">
+                        <img src="/assets/Images/Other/homePage.png" title = "Portfolio">
                         </a>          
                         <div class ="textOverlay">
                             <p><strong>Portfolio</strong></p>
-                            <img src ="/assets/Icons/githubPixel.png">
-                            <img src="/assets/Icons/Html.png">
+                            <img src ="/assets/Icons/githubPixel.png" style="width: 75px ">
+                            <img src="/assets/Icons/Html.jpg">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
