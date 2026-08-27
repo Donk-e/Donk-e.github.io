@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tencent Game Jam
+title: GMTK Jam 2026
 ---
 
 <html>
@@ -12,7 +12,7 @@ title: Tencent Game Jam
                 <p><strong>Project</strong></p>
                 <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
             </div>
-            <p><strong>Game Jam hosted by GMTK</strong></p>
+            <p style="font-size: 50px;"><strong>Game Jam hosted by GMTK</strong></p>
         </div>
         <div class = "flexRow">
             <div class="stickyNoteContainer">
@@ -20,9 +20,7 @@ title: Tencent Game Jam
                     <img src="/assets/Icons/Windows/plus.png">
                     <img src="/assets/Icons/Windows/X.png">
                 </div>
-                <p>
-                    Itch.Io Page Link:
-                </p>                
+                <a href = "https://itch.io/jam/gmtk-jam-2026/rate/4813892" target = "_blank"><p><strong>Itch Page</strong></p></a>
             </div>
             <div class = "windowContainer">
                 <div class = "textHeading">
@@ -57,13 +55,20 @@ title: Tencent Game Jam
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>
-                    When the opportunity to participate in a Game Jam hosted by Tencent presented itself me and my friends jumped at the chance, however the timing was unfortunate as it took place
-                     during the week when we were presenting our vivas for our Final Year Projects. Instead of trying to create a full game I worked on using the resources they gave us regarding accessibility in gaming to 
-                     implement new game features that I had not done before, such as key rebinding.
+                    Joining this jam was admittedly a last minute decision as I was working on a side project with one of the other devs on this jam and she mentioned wanting to take part even though the jam had already started, so we reached out to some other friends and came up with the idea of a 3D racing game.
+                    We chose a racing game as it was what we thought of for the theme <i>countdown</i>, I also liked the idea of getting to work on movement for a vehicle as I don't have much experience with that.
                 </p>          
                 <p>
-                    Listening to the talks given as part of this Game Jam made me realize how important including accessibility is for attracting players and how many different forms it can take.
+                    For the game engine we chose Unity as all the programmers had experience with it and while the artists had never used or imported to it before were willing to learn. 
                 </p>
+                <br>
+                <p>My responsibilities: </p>
+                <ol>
+                    <li>Player</li>
+                    <li>Game State</li>
+                    <li>UI (excluding minimap)</li>
+                    <li>Adding SFX</li>
+                </ol>
             </div>
             <div class = "windowContainer" id = "textWindow" style="width: auto;">
                 <div class= "textHeading">
@@ -75,8 +80,7 @@ title: Tencent Game Jam
                     <ul>
                         <li>Unity</li>
                         <li>C#</li>
-                        <li>UI Toolkit</li>
-                        <li>Team Communication</li>  
+                         <li>Team Communication</li>  
                     </ul>
                 </div>
             </div>
@@ -88,20 +92,28 @@ title: Tencent Game Jam
                     <p><strong>Game Screenshot</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
-                <img src = "/assets/Images/Unity/Accessibility/UI.png">
+                <img src = "/assets/Images/Unity/GMTK 2026/1.png">
             </div>
             <div class = "windowContainer"  id = "textWindow">
                 <div class= "textHeading">
                     <img src="/assets/Icons/Windows/star.png">
-                    <p><strong>Adding Rebinding</strong></p>
+                    <p><strong>Programming the Player</strong></p>
                     <img src = "/assets/Icons/Windows/close.png" style = "margin-left: auto;">
                 </div>
                 <p>
-                    Despite researching the different ways to implement rebinding online I could not find anything that would fit cleanly to how my player controller handled inputs so I configured my own method using the 
-                    skeleton of what I learnt from others. I also wanted my rebinding to be tied to Unity's UI Toolkit as I mostly found people using Canvas and I wanted to challenge myself.
+                    As mentioned in the overview this was my first time working with a vehicle controller, this was a step outside of my comfort zone as I found it very different as it factors in physics forces such as suspension and drag.
+                     For the player I started with very basic directional movement as a placeholder while I looked into implementing forces.
                 </p>
                 <p>
-                    The keys that are rebound do save their new input key even when the menu closes (this was an issue for me during development), it does not save when the game is closed though.
+                    I then added suspension as I had experience with that in second year of University. It was a bit finicky to figure out spring position and strength so that it feels like a hovercraft, I started with 2 springs near the base of the wings but when I got the model I changed it to fit the new shape.
+                </p>
+                <p>
+                    When adding the movement I watched a lot of youtube videos on how other people added it for their vehicles, I wasn't able to find any videos for hovercrafts so I tweaked what I found to fit our game. 
+                </p>
+                <br>
+                <p>
+                    After getting the movement for the player in I added a 'flattening' force to try and keep the player level as there was an issue with going forward making you point into the air very quickly and acceleration so the longer the player holds forward the faster they will go.
+
                 </p>
             </div>
         </div>              
