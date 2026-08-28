@@ -70,6 +70,7 @@ title: Portfolio
                 </div>
                 </a>
             </div>
+            <p>Please enjoy this self made website! :D</p>
         </div>
     </div>
     </div>
