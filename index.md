@@ -141,13 +141,13 @@ title: Portfolio
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
-                        <a href = "/Projects/GMTK26.html">
+                        <a href = "/Projects/Portfolio.html">
                         <img src="/assets/Images/Other/homePage.png" title = "Portfolio">
                         </a>          
                         <div class ="textOverlay">
-                            <p><strong>Portfolio Building</strong></p>
+                            <p><strong>Portfolio Website</strong></p>
                             <img src ="/assets/Icons/githubPixel.png" style="width: 50px ">
-                            <img src="/assets/Icons/Html.jpg">
+                            <img src="/assets/Icons/html.jpg">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
