@@ -145,8 +145,8 @@ title: Portfolio
                         <img src="/assets/Images/Other/homePage.png" title = "Portfolio">
                         </a>          
                         <div class ="textOverlay">
-                            <p><strong>Portfolio</strong></p>
-                            <img src ="/assets/Icons/githubPixel.png" style="width: 75px ">
+                            <p><strong>Portfolio Building</strong></p>
+                            <img src ="/assets/Icons/githubPixel.png" style="width: 50px ">
                             <img src="/assets/Icons/Html.jpg">
                         </div>                                 
                     </div> 
@@ -160,7 +160,6 @@ title: Portfolio
                         </div>                                 
                     </div> 
             </div>
-        <!-- </div> -->
     </div>
     <!-- HighLightReel Carsousel Script -->
     <script>
