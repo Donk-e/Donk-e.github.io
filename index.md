@@ -156,7 +156,7 @@ title: Portfolio
                         <img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam">
                         </a>          
                         <div class ="textOverlay">
-                            <p><strong>Accessibility Game Jam</strong></p>
+                            <p><strong>Input Rebinding</strong></p>
                             <img src ="/assets/Icons/Unity.png">
                         </div>                                 
                     </div> 
