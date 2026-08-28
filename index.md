@@ -15,11 +15,11 @@ title: Portfolio
         </div>
         <div class= "highlightReel" id = "highlightReel">
             <a href = "/Projects/FYP.html"  id = "ReelImg"><img src="/assets/Images/Unity/FYP/endGoalDragon.png" title = "FYP Project - RFID"></a>
-            <a href = "/Projects/MMP.html" id = "ReelImg"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
-            <a href = "/Projects/Frogger.html" id = "ReelImg"><img src="/assets/Images/C++/Frogger/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <a href = "/Projects/ToF.html" id = "ReelImg"><img src="/assets/Images/Unity/Collab/MainMenu.png" title = "Tower of Fools - Group Unity Project"></a>
             <a href = "/Projects/Stilts.html" id = "ReelImg"><img src="/assets/Images/Hammer/Stilts_TopDown.png" title = "TF2 Map"></a>
             <a href = "/Projects/GMTK26.html" id = "ReelImg"><img src="/assets/Images/Unity/GMTK 2026/PusleDrive.png" title = "GMTK 26 Jam"></a>
+            <a href = "/Projects/MMP.html" id = "ReelImg"><img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer"></a>
+            <a href = "/Projects/Frogger.html" id = "ReelImg"><img src="/assets/Images/C++/Frogger/FroggerLevelOne.png" title = "Frogger in C++"></a>
             <a href = "/Projects/GJ.html" id = "ReelImg"><img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam"></a>
         </div>
     </div>
@@ -70,7 +70,7 @@ title: Portfolio
                 </div>
                 </a>
             </div>
-            <p>Please enjoy this self made website! :D</p>
+            <p style= "text-align:center;">Please enjoy this self made website! :D</p>
         </div>
     </div>
     </div>
@@ -90,25 +90,6 @@ title: Portfolio
                             <p><strong>RFID in Games</strong></p>
                             <img src ="/assets/Icons/Unity.png">
                             <img src ="/assets/Icons/Arduino.png">
-                        </div>                                 
-                    </div> 
-                    <div class = "individualProjects">    
-                        <a href = "/Projects/MMP.html">
-                        <img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer">  
-                        </a>          
-                        <div class ="textOverlay">
-                            <p><strong>Unity Multiplayer</strong></p>
-                            <img src ="/assets/Icons/Unity.png">
-                        </div>                                 
-                    </div>                              
-                    <div class = "individualProjects">    
-                        <a href = "/Projects/Frogger.html">
-                            <img src="/assets/Images/C++/Frogger/FroggerLevelOne.png" title = "Frogger in C++">  
-                        </a>          
-                        <div class ="textOverlay">
-                            <p><strong>C++ Frogger</strong></p>
-                            <img src ="/assets/Icons/SFML.png">
-                            <img src ="/assets/Icons/C++.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
@@ -151,6 +132,25 @@ title: Portfolio
                             <img src="/assets/Icons/html.png">
                         </div>                                 
                     </div> 
+                    <div class = "individualProjects">    
+                        <a href = "/Projects/MMP.html">
+                        <img src="/assets/Images/Unity/MMP/MMP.png" title = "Unity Multiplayer">  
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>Unity Multiplayer</strong></p>
+                            <img src ="/assets/Icons/Unity.png">
+                        </div>                                 
+                    </div>                              
+                    <div class = "individualProjects">    
+                        <a href = "/Projects/Frogger.html">
+                            <img src="/assets/Images/C++/Frogger/FroggerLevelOne.png" title = "Frogger in C++">  
+                        </a>          
+                        <div class ="textOverlay">
+                            <p><strong>C++ Frogger</strong></p>
+                            <img src ="/assets/Icons/SFML.png">
+                            <img src ="/assets/Icons/C++.png">
+                        </div>                                 
+                    </div>                     
                     <div class = "individualProjects">    
                         <a href = "/Projects/GJ.html">
                         <img src="/assets/Images/Unity/Accessibility/Gameplay.png" title = "Unity Game Jam">
