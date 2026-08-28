@@ -147,7 +147,7 @@ title: Portfolio
                         <div class ="textOverlay">
                             <p><strong>Portfolio Website</strong></p>
                             <img src ="/assets/Icons/githubPixel.png" style="width: 50px ">
-                            <img src="/assets/Icons/html.jpg">
+                            <img src="/assets/Icons/html.png">
                         </div>                                 
                     </div> 
                     <div class = "individualProjects">    
