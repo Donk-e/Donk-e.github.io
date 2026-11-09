@@ -162,7 +162,7 @@ title: Portfolio
                     </div> 
             </div>
     </div>
-    <!-- HighLightReel Carsousel Script -->
+    <!-- HighLightReel Carousel Script -->
     <script>
         const highlights = document.getElementById("highlightReel");
         let index = 0;
@@ -175,7 +175,7 @@ title: Portfolio
             left: highlights.clientWidth * index,
             behavior: "smooth"
         });
-        }, 3000); // change every 3 seconds (1000 = 1 second)
+        }, 5000); // change every 5 seconds (1000 = 1 second)
     </script>
     </body>
 </html>
